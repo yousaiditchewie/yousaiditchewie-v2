@@ -2,6 +2,7 @@ import React from 'react';
 import { Helmet } from 'react-helmet';
 import Footer from '../components/Footer';
 import Navigation from '../components/Navigation';
+import MobileNav from '../components/MobileNav';
 import useSiteMetadata from './SiteMetadata';
 import { withPrefix } from 'gatsby';
 
@@ -52,6 +53,7 @@ const TemplateWrapper = ({ children }) => {
       <Navigation />
       <div>{children}</div>
       <Footer />
+      <MobileNav />
     </div>
   );
 };
