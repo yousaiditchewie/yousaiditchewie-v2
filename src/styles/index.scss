@@ -4,3 +4,8 @@
 // base styles
 @import 'base/colors';
 @import 'base/typography';
+@import 'base/container';
+@import 'base/breakpoints';
+
+// components
+@import 'components/navigation';

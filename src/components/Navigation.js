@@ -33,7 +33,9 @@ const Navigation = () => {
       aria-label="main-navigation"
     >
       <div className="Navigation-left">
-        <Link to="/">Home (logo here)</Link>
+        <Link to="/" className="Navigation-logo h2">
+          yousaiditchewie
+        </Link>
       </div>
       <div className="Navigation-right">
         <div className="Navigation-list">
