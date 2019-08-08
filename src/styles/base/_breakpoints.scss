@@ -1,0 +1,13 @@
+// Breakpoints based on https://material.io/tools/devices/
+// Names based on Apple's product categories
+// Breakpoints fall between the largest of one category
+// and the smallest of the next
+
+// Larger than phones, smaller tablet
+$tablet: 540px;
+
+// Larger than most tablets, smaller than most laptops
+$portable: 800px;
+
+// larger than most portables, smaller than most desktops
+$desktop: 1600px;

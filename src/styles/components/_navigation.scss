@@ -1,0 +1,26 @@
+.Navigation {
+  display: none;
+
+  @media (min-width: $tablet) {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+  }
+
+  &-logo,
+  &-item {
+    text-decoration: none;
+    color: $smoke;
+    transform: scale(1);
+    transition: color 0.25s ease-out;
+
+    &:hover {
+      color: $blue;
+    }
+  }
+
+  &-item {
+    padding-left: 1rem;
+  }
+}
