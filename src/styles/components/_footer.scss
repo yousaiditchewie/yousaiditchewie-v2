@@ -1,0 +1,56 @@
+.Footer {
+  padding-top: 2rem;
+  padding-bottom: 5.625rem;
+  background-color: $smoke;
+  color: $platinum;
+
+  @media (min-width: $tablet) {
+    padding-bottom: 2rem;
+  }
+
+  a {
+    color: $platinum;
+    text-decoration: none;
+    transition: color 0.25s ease-out;
+
+    @media (any-hover: hover) {
+      &:hover {
+        color: $blue;
+      }
+    }
+  }
+
+  &-navigation {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+  }
+
+  &-links {
+    text-align: right;
+  }
+
+  &-item {
+    display: block;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+
+    &--socialIcon {
+      display: inline-block;
+      margin-left: 1.5rem;
+      padding-bottom: 0;
+    }
+  }
+  .SocialIcon {
+    width: 1.5rem;
+    height: 1.5rem;
+    fill: $platinum;
+    transition: fill 0.25s ease-out;
+
+    @media (any-hover: hover) {
+      &:hover {
+        fill: $blue;
+      }
+    }
+  }
+}
