@@ -9,12 +9,6 @@ const Footer = () => {
   return (
     <footer className="Footer">
       <nav className="Footer-navigation container">
-        <div className="Footer-logo">
-          <Link to="/" className="Footer-item h2">
-            yousaiditchewie
-          </Link>
-          <small>&copy;2019 all rights reserved.</small>
-        </div>
         <div className="Footer-links">
           <Link className="Footer-item" to="/about">
             about
@@ -46,6 +40,12 @@ const Footer = () => {
           >
             <Instagram />
           </a>
+        </div>
+        <div className="Footer-logo">
+          <Link to="/" className="Footer-item h2">
+            yousaiditchewie
+          </Link>
+          <small>&copy;2019 all rights reserved.</small>
         </div>
       </nav>
     </footer>
