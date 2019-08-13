@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useState, useEffect } from 'react';
 import { Helmet } from 'react-helmet';
 import Footer from '../components/Footer';
 import Navigation from '../components/Navigation';
@@ -10,6 +10,27 @@ import './main.scss';
 
 const TemplateWrapper = ({ children }) => {
   const { title, description } = useSiteMetadata();
+  const [layoutClass, setLayoutClass] = useState('initial');
+  const getLayoutClass = () => {
+    if (typeof window == 'undefined') {
+      return '';
+    }
+
+    const pathName = window.location.pathname.replace('/', '');
+    switch (pathName) {
+      case 'AboutPage':
+      case 'BlogPage':
+        return pathName;
+      case '':
+        return 'HomePage';
+      default:
+        return 'not-found';
+    }
+  };
+
+  useEffect(() => {
+    setLayoutClass(getLayoutClass());
+  }, []);
   return (
     <div>
       <Helmet>
@@ -51,7 +72,7 @@ const TemplateWrapper = ({ children }) => {
         />
       </Helmet>
       <Navigation />
-      <div>{children}</div>
+      <main className={layoutClass}>{children}</main>
       <Footer />
       <MobileNav />
     </div>

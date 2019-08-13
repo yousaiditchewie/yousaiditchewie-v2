@@ -11,3 +11,14 @@
 @import 'components/navigation';
 @import 'components/mobile-nav';
 @import 'components/footer';
+
+// pages
+@import 'pages/home';
+
+main {
+  min-height: 100vh;
+
+  @media (min-width: $tablet) {
+    min-height: calc(100vh - 82px); // navigation height
+  }
+}
