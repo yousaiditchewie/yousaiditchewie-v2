@@ -1,5 +1,35 @@
-.HomePage {
+.HomePage section {
+  min-height: 100vh;
   display: flex;
   flex-direction: column;
   justify-content: center;
+  color: $smoke;
+
+  @media (min-width: $tablet) {
+    min-height: $viewport-height-minus-navigation;
+  }
+}
+
+.Hero {
+  background-color: $white;
+
+  &-image {
+    padding-bottom: 1rem;
+  }
+}
+
+.About {
+  &-container {
+    padding-bottom: 2rem;
+    padding-top: 2rem;
+    background-color: $blue;
+    color: $platinum;
+  }
+
+  &-content {
+    @media (min-width: $tablet) {
+      max-width: 50%;
+      margin-left: auto;
+    }
+  }
 }

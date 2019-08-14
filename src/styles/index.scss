@@ -12,6 +12,7 @@
 @import 'components/mobile-nav';
 @import 'components/footer';
 
+$viewport-height-minus-navigation: calc(100vh - 82px);
 // pages
 @import 'pages/home';
 
@@ -19,6 +20,6 @@ main {
   min-height: 100vh;
 
   @media (min-width: $tablet) {
-    min-height: calc(100vh - 82px); // navigation height
+    min-height: $viewport-height-minus-navigation;
   }
 }
