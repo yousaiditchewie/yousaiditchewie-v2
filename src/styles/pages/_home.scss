@@ -19,15 +19,8 @@
 }
 
 .About {
-  &-container {
-    padding-bottom: 2rem;
-    padding-top: 2rem;
-    background-color: $blue;
-    color: $platinum;
-  }
-
   &-content {
-    @media (min-width: $tablet) {
+    @media (min-width: $portable) {
       max-width: 50%;
       margin-left: auto;
     }

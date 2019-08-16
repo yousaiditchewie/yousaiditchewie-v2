@@ -32,13 +32,13 @@ export const IndexPageTemplate = ({
       </section>
       <section className="About">
         <div className="About-container container">
-          <PageContent className="About-content" content={content} />
+          <div className="Card">
+            <PageContent className="About-content" content={content} />
+          </div>
         </div>
       </section>
       <section className="BlogRoll">
-        <div className="BlogRoll-container container">
-          <BlogRoll />
-        </div>
+        <BlogRoll />
       </section>
     </>
   );

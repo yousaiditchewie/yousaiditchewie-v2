@@ -2,17 +2,24 @@
 @import 'vendor/normalize';
 
 // base styles
+@import 'base/reset';
 @import 'base/colors';
 @import 'base/typography';
 @import 'base/container';
 @import 'base/breakpoints';
 
+$card-depth: 0 9px 20px -3px rgba(40, 40, 60, 0.15);
+$viewport-height-minus-navigation: calc(100vh - 82px);
+
+// utilities and helpers
+@import 'utilities';
+
 // components
 @import 'components/navigation';
 @import 'components/mobile-nav';
 @import 'components/footer';
+@import 'components/blog-roll';
 
-$viewport-height-minus-navigation: calc(100vh - 82px);
 // pages
 @import 'pages/home';
 
