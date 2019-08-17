@@ -38,6 +38,9 @@ export const IndexPageTemplate = ({
         </div>
       </section>
       <section className="BlogRoll">
+        <div className="container">
+          <h2 className="BlogRoll-heading">Latest Articles</h2>
+        </div>
         <BlogRoll />
       </section>
     </>

@@ -49,3 +49,22 @@ a {
     }
   }
 }
+
+blockquote {
+  max-width: 600px;
+  margin: 2rem auto;
+  padding: 2rem;
+  background: $smoke;
+  color: $platinum;
+  font-size: 1.25rem;
+  line-height: 1.55;
+  font-style: italic;
+
+  @media (min-width: $portable) {
+    width: 80%;
+  }
+
+  p {
+    padding: 0;
+  }
+}

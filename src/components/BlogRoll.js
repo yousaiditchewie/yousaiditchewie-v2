@@ -10,9 +10,6 @@ class BlogRoll extends React.Component {
 
     return (
       <section className="BlogRoll">
-        <div className="container">
-          <h2 className="BlogRoll-heading">Latest Articles</h2>
-        </div>
         <div className="BlogRoll-container container">
           {posts &&
             posts.map(({ node: post }) => (
