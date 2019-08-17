@@ -1,0 +1,21 @@
+.BlogRoll {
+  &-container {
+    @media (min-width: $portable) {
+      padding: 0;
+    }
+  }
+
+  &-image {
+    padding-bottom: 1rem;
+  }
+
+  &-article {
+    @media (min-width: $portable) {
+      display: inline-block;
+      vertical-align: top;
+      margin-left: 1rem;
+      margin-right: 1rem;
+      max-width: calc(50% - 2rem);
+    }
+  }
+}

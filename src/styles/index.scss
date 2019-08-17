@@ -2,12 +2,32 @@
 @import 'vendor/normalize';
 
 // base styles
+@import 'base/reset';
 @import 'base/colors';
+@import 'base/breakpoints';
 @import 'base/typography';
 @import 'base/container';
-@import 'base/breakpoints';
+
+$card-depth: 0 9px 20px -3px rgba(40, 40, 60, 0.15);
+$viewport-height-minus-navigation: calc(100vh - 82px);
+
+// utilities and helpers
+@import 'utilities';
 
 // components
 @import 'components/navigation';
 @import 'components/mobile-nav';
 @import 'components/footer';
+@import 'components/blog-roll';
+
+// pages
+@import 'pages/home';
+
+main {
+  padding: 2rem 0;
+  min-height: 100vh;
+
+  @media (min-width: $tablet) {
+    min-height: $viewport-height-minus-navigation;
+  }
+}

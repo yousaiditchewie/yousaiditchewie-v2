@@ -1,0 +1,28 @@
+.HomePage section {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: $smoke;
+
+  @media (min-width: $tablet) {
+    min-height: $viewport-height-minus-navigation;
+  }
+}
+
+.Hero {
+  background-color: $white;
+
+  &-image {
+    padding-bottom: 1rem;
+  }
+}
+
+.About {
+  &-content {
+    @media (min-width: $portable) {
+      max-width: 50%;
+      margin-left: auto;
+    }
+  }
+}

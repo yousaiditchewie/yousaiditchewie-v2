@@ -26,10 +26,6 @@
     align-items: flex-end;
   }
 
-  &-links {
-    text-align: right;
-  }
-
   &-item {
     display: block;
     padding-top: 1rem;
@@ -37,8 +33,12 @@
 
     &--socialIcon {
       display: inline-block;
-      margin-left: 1.5rem;
+      margin-right: 1.5rem;
       padding-bottom: 0;
+
+      &:last-child {
+        margin-right: 0;
+      }
     }
   }
   .SocialIcon {
