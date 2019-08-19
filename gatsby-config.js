@@ -2,7 +2,7 @@ var proxy = require('http-proxy-middleware');
 
 module.exports = {
   siteMetadata: {
-    title: 'Yousaiditchewie',
+    title: 'yousaiditchewie | Jacob Allen',
     description:
       'I’m Jacob Allen, aka @yousaiditchewie. I’m a session and touring musician turned software engineer. I want to help musicians make the money they need to support their dreams. If I can do it, so can you!'
   },
@@ -74,6 +74,12 @@ module.exports = {
         purgeOnly: ['/all.sass'] // applies purging only on the bulma css file
       }
     }, // must be after other CSS plugins
+    {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        trackingId: 'UA-85710672-5'
+      }
+    },
     'gatsby-plugin-netlify' // make sure to keep it last in the array
   ],
   // for avoiding CORS while developing Netlify Functions locally
