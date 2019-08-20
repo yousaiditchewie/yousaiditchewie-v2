@@ -75,6 +75,12 @@ module.exports = {
       }
     }, // must be after other CSS plugins
     {
+      resolve: 'gatsby-plugin-mailchimp',
+      options: {
+        endpoint: '' // add your MC list endpoint here; see instructions below
+      }
+    },
+    {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
         trackingId: 'UA-85710672-5'
