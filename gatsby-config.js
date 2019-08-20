@@ -75,6 +75,13 @@ module.exports = {
       }
     }, // must be after other CSS plugins
     {
+      resolve: 'gatsby-plugin-mailchimp',
+      options: {
+        endpoint:
+          'https://me.us20.list-manage.com/subscribe/post?u=a6f354c5cb7da315a75e1b3d8&amp;id=ad32155102'
+      }
+    },
+    {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
         trackingId: 'UA-85710672-5'
