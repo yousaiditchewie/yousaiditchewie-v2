@@ -1,6 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import { graphql } from 'gatsby';
+import { graphql, Link } from 'gatsby';
 
 import Layout from '../components/Layout';
 import Content, { HTMLContent } from '../components/Content';
@@ -33,11 +33,16 @@ export const IndexPageTemplate = ({
       <section className="About">
         <div className="About-container container">
           <div className="Card">
-            <PageContent className="About-content" content={content} />
+            <div className="About-content">
+              <PageContent content={content} />
+              <Link className="button" to="/about">
+                Read More →
+              </Link>
+            </div>
           </div>
         </div>
       </section>
-      <section className="BlogRoll">
+      <section className="BlogRoll-section">
         <div className="container">
           <h2 className="BlogRoll-heading">Latest Articles</h2>
         </div>

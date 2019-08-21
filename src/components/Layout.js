@@ -1,12 +1,13 @@
 import React, { useState, useEffect } from 'react';
 import { Helmet } from 'react-helmet';
-import Footer from '../components/Footer';
-import Navigation from '../components/Navigation';
-import MobileNav from '../components/MobileNav';
+import Navigation from './Navigation';
+import Footer from './Footer';
+import MobileNav from './MobileNav';
 import useSiteMetadata from './SiteMetadata';
 import { withPrefix } from 'gatsby';
 
 import './main.scss';
+import SubscribeForm from './SubscribeForm';
 
 const TemplateWrapper = ({ children }) => {
   const { title, description } = useSiteMetadata();
@@ -73,6 +74,7 @@ const TemplateWrapper = ({ children }) => {
       </Helmet>
       <Navigation />
       <main className={layoutClass}>{children}</main>
+      <SubscribeForm />
       <Footer />
       <MobileNav />
     </div>

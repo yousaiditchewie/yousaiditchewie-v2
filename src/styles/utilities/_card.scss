@@ -1,6 +1,7 @@
 .Card {
-  padding: 2rem;
-  margin-bottom: 2rem;
+  background-color: $white;
+  padding: $vertical-spacing--small;
+  margin-bottom: $vertical-spacing;
   border-top: 0.5rem solid $smoke;
   box-shadow: $card-depth;
 
