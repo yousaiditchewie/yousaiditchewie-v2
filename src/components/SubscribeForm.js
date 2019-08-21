@@ -10,41 +10,85 @@ const SubscribeForm = () => {
   // or wherever.  (Personally, I recommend storing in state).
 
   const [email, setEmail] = useState('');
+  const [strangerDanger, setStrangerDanger] = useState(false);
+  const [mailchimpResponse, setMailchimpResponse] = useState({});
 
   function handleChange(e) {
+    if (e.target.name === 'birthday') {
+      setStrangerDanger(true);
+      return;
+    }
     console.log({
       [`${e.target.name}`]: e.target.value
     });
-    // setEmail(e.target.value);
+    setEmail(e.target.value);
   }
 
-  // 1. via `.then`
   function handleSubmit(e) {
     e.preventDefault();
-    console.log(e);
-    // addToMailchimp(email, listFields) // listFields are optional if you are only capturing the email address.
-    //   .then(data => {
-    //     // I recommend setting data to React state
-    //     // but you can do whatever you want (including ignoring this `then()` altogether)
-    //     console.log(data);
-    //   })
-    //   .catch(() => {
-    //     // unnecessary because Mailchimp only ever
-    //     // returns a 200 status code
-    //     // see below for how to handle errors
-    //   });
+    if (strangerDanger) return;
+
+    console.log('event: ', e);
+    console.log('email: ', email);
+    console.log('strangerDanger: ', strangerDanger);
+    addToMailchimp(email)
+      .then(responseData => {
+        /*
+         * responseData will take this shape:
+         * {
+         *  result: String, "success" or "error"
+         *  msg: String
+         * }
+         */
+        console.log(responseData);
+        setMailchimpResponse(responseData);
+      })
+      .catch(responseError => {
+        console.log(responseError);
+        setMailchimpResponse(responseError);
+      });
   }
 
   return (
-    <form onSubmit={handleSubmit}>
-      <input
-        type="text"
-        onChange={handleChange}
-        placeholder="email"
-        name="email"
-      />
-      <input type="submit" />
-    </form>
+    <div className="SubscribeForm">
+      <div className="SubscribeForm-container container">
+        <h3 className="SubscribeForm-copy">
+          Sign up to get my weekly newsletter and latest articles.
+        </h3>
+        <form onSubmit={handleSubmit}>
+          <input
+            className="SubscribeForm-email"
+            type="text"
+            onChange={handleChange}
+            placeholder="email"
+            name="email"
+          />
+          <input
+            className="birthday"
+            type="text"
+            onChange={handleChange}
+            name="birthday"
+          />
+          <input className="SubscribeForm-submit" type="submit" />
+        </form>
+        {mailchimpResponse.result === 'success' ? (
+          <p
+            className="SubscribeForm-success"
+            dangerouslySetInnerHTML={{ __html: mailchimpResponse.msg }}
+          />
+        ) : (
+          ''
+        )}
+        {mailchimpResponse.result === 'error' ? (
+          <p
+            className="SubscribeForm-error"
+            dangerouslySetInnerHTML={{ __html: mailchimpResponse.msg }}
+          />
+        ) : (
+          ''
+        )}
+      </div>
+    </div>
   );
 };
 

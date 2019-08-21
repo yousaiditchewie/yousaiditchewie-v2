@@ -40,20 +40,20 @@ p,
 }
 
 a {
-  color: $black;
+  color: $blue;
   transition: color 0.25s ease-out;
 
   @media (any-hover: hover) {
     &:hover {
-      color: $blue;
+      color: $dark-blue;
     }
   }
 }
 
 blockquote {
   max-width: 600px;
-  margin: 2rem auto;
-  padding: 2rem;
+  margin: $vertical-spacing auto;
+  padding: $vertical-spacing;
   background: $smoke;
   color: $platinum;
   font-size: 1.25rem;

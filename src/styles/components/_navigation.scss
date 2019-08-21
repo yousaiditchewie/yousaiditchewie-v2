@@ -4,8 +4,8 @@
   @media (min-width: $tablet) {
     display: flex;
     justify-content: space-between;
-    padding-top: 2rem;
-    padding-bottom: 2rem;
+    padding-top: $vertical-spacing--small;
+    padding-bottom: $vertical-spacing--small;
     border-bottom: 1px solid $smoke;
   }
 

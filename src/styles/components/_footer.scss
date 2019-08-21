@@ -1,11 +1,11 @@
 .Footer {
-  padding-top: 2rem;
+  padding-top: $vertical-spacing;
   padding-bottom: 5.625rem;
   background-color: $smoke;
   color: $platinum;
 
   @media (min-width: $tablet) {
-    padding-bottom: 2rem;
+    padding-bottom: $vertical-spacing;
   }
 
   a {

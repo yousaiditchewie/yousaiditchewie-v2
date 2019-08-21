@@ -3,11 +3,11 @@ import { Helmet } from 'react-helmet';
 import Navigation from './Navigation';
 import Footer from './Footer';
 import MobileNav from './MobileNav';
-import SubscribeForm from './SubscribeForm';
 import useSiteMetadata from './SiteMetadata';
 import { withPrefix } from 'gatsby';
 
 import './main.scss';
+import SubscribeForm from './SubscribeForm';
 
 const TemplateWrapper = ({ children }) => {
   const { title, description } = useSiteMetadata();
@@ -74,8 +74,8 @@ const TemplateWrapper = ({ children }) => {
       </Helmet>
       <Navigation />
       <main className={layoutClass}>{children}</main>
-      <Footer />
       <SubscribeForm />
+      <Footer />
       <MobileNav />
     </div>
   );

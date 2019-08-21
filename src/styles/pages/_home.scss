@@ -1,12 +1,20 @@
-.HomePage section {
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  color: $smoke;
+.HomePage {
+  padding-top: 0;
 
-  @media (min-width: $tablet) {
-    min-height: $viewport-height-minus-navigation;
+  @media (min-widght: $tablet) {
+    padding-top: $vertical-spacing--small;
+  }
+
+  section {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color: $smoke;
+
+    @media (min-width: $tablet) {
+      min-height: $viewport-height-minus-navigation;
+    }
   }
 }
 
@@ -19,10 +27,18 @@
 }
 
 .About {
+  background-color: $platinum;
+
   &-content {
     @media (min-width: $portable) {
       max-width: 50%;
       margin-left: auto;
     }
+  }
+}
+
+.BlogRoll {
+  &-section {
+    padding-top: $vertical-spacing;
   }
 }
