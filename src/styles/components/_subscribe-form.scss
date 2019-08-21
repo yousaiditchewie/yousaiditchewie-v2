@@ -2,10 +2,22 @@
   background: $platinum;
   padding: $vertical-spacing 0;
 
+  form {
+    display: flex;
+    align-items: center;
+  }
+
+  &-email,
+  &-submit {
+    min-height: 37px;
+    border-radius: 0;
+    border: 1px solid $blue;
+  }
+
   &-email {
     padding: 0.5rem;
     margin: 0;
-    border: 1px solid $blue;
+    background-color: $white;
   }
 
   &-submit {
@@ -14,6 +26,7 @@
     background-color: $blue;
     color: $platinum;
     transition: background-color 0.25s ease-out;
+    cursor: pointer;
 
     @media (any-hover: hover) {
       &:hover {
@@ -21,6 +34,7 @@
       }
     }
   }
+
   &-success,
   &-error {
     padding-top: 1rem;
