@@ -1,11 +1,11 @@
 ---
 templateKey: index-page
-title: yousaiditchewie | Jacob Allen — Musician, Software Engineer, Educator from Nashville, TN
+title: >-
+  yousaiditchewie | Jacob Allen — Musician, Software Engineer, Educator from
+  Nashville, TN
+image: /img/products-grid3.jpg
 heading: yousaiditchewie | JACOB ALLEN
-subheading: Musician, Software Engineer, and Educator from Nashville, TN.
-heroImage:
-  alt: A close-up of a paper filter filled with ground coffee
-  image: /img/products-grid3.jpg
+subheading: 'Musician, Software Engineer, and Educator from Nashville, TN.'
 ---
 
 ## About Me
