@@ -1,25 +1,19 @@
 ---
 templateKey: about-page
-title: About our values
+title: A little more about me
 ---
-![](/img/blog-index.jpg)
+![Portrait of Jacob Allen](/img/portrait.jpeg)
 
-### Shade-grown coffee
+I successfully transitioned from being a touring and session drummer to being a tenured software engineer. I currently work for Ramsey Solutions, a [Dave Ramsey](https://www.daveramsey.com) company, where I build marketing sites and develop web applications. 
 
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+Through my career as a developer, I’ve learned some of the Internet’s best practices for growing an online audience and turning followers into paying customers and life-long fans.
 
-### Single origin
+My mission is to share my knowledge in a way that sets musicians up for success.
 
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+The music industry has changed for the better. It makes it so that musicians don’t have to wait to get picked by a record label or get picked by a band or get picked by a radio station to have a successful career. 
 
-### Sustainable farming
+>The Internet is your venue, and millions of people show up everyday.
 
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+I release new content every week that offers tools for building your audience, turning your creativity into income, and restoring dignity to Music as a career choice.
 
-### Direct sourcing
-
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
-
-### Reinvest profits
-
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+Subscribe to my newsletter if that sort of thing excites you.
