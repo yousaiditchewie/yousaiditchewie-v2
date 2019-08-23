@@ -13,15 +13,25 @@ const TemplateWrapper = ({ children }) => {
   const { title, description } = useSiteMetadata();
   const [layoutClass, setLayoutClass] = useState('initial');
   const getLayoutClass = () => {
+    // Prevent build from failing
     if (typeof window == 'undefined') {
       return '';
     }
 
-    const pathName = window.location.pathname.replace('/', '');
-    switch (pathName) {
-      case 'AboutPage':
-      case 'BlogPage':
-        return pathName;
+    const pathName = window.location.pathname;
+
+    // Catch blog articles
+    if (pathName.includes('/blog/')) {
+      return 'BlogArticle';
+    }
+
+    // Get top-level page name off of URL
+    const pageName = pathName.replace('/', '');
+
+    switch (pageName) {
+      case 'about':
+      case 'blog':
+        return pageName;
       case '':
         return 'HomePage';
       default:

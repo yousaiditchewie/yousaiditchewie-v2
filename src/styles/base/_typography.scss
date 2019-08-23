@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Lato|Roboto+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Lato:400,900|Roboto+Mono&display=swap');
 
 h1,
 .h1,
@@ -50,10 +50,58 @@ a {
   }
 }
 
+.BlogArticle {
+  h2,
+  .h2,
+  h3,
+  .h3,
+  h4,
+  .h4,
+  h5,
+  .h5,
+  h6,
+  .h6 {
+    padding-top: $vertical-spacing--small;
+
+    @media (min-width: $tablet) {
+      padding-top: $vertical-spacing;
+    }
+  }
+
+  h1,
+  .h1 {
+    border-bottom: 1px solid $blue;
+    margin-bottom: $vertical-spacing--small;
+  }
+
+  h2,
+  .h2 {
+    padding-bottom: 1rem;
+    border-bottom: 1px solid $smoke;
+    margin-bottom: $vertical-spacing--small;
+
+    @media (min-width: $tablet) {
+      margin-bottom: $vertical-spacing;
+    }
+  }
+
+  p {
+    @media (min-width: $tablet) {
+      font-size: 1.25rem;
+      line-height: 1.45;
+    }
+  }
+}
+
+strong {
+  font-weight: 900;
+  font-size: 105%;
+}
+
 blockquote {
   max-width: 600px;
-  margin: $vertical-spacing auto;
-  padding: $vertical-spacing;
+  margin: $vertical-spacing--small auto;
+  padding: $vertical-spacing--small;
   background: $smoke;
   color: $platinum;
   font-size: 1.25rem;
@@ -62,6 +110,8 @@ blockquote {
 
   @media (min-width: $portable) {
     width: 80%;
+    margin: $vertical-spacing auto;
+    padding: $vertical-spacing;
   }
 
   p {
