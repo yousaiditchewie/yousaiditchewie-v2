@@ -9,7 +9,7 @@ const IndexPagePreview = ({ entry, widgetFor }) => {
   if (data) {
     return (
       <IndexPageTemplate
-        heroImage={data.image}
+        image={data.image}
         heading={data.heading}
         subheading={data.subheading}
         contentComponent={HTMLContent}

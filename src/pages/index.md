@@ -15,5 +15,3 @@ I was a touring and session drummer for a season, and now I write code for a liv
 I went through a draught as a musician and had to turn to other passions and skills to provide for my family. That's when I learned how to write code. I started doing web development for tech startups and marketing agencies and learned a **ton** about how the internet works and how to grow an online audience.
 
 I'm dedicating my website to unraveling the mysteries of the internet, so that musicians can grow their online audience and turn them into paying customers and life-long fans.
-
-

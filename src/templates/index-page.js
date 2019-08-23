@@ -13,7 +13,7 @@ export const IndexPageTemplate = ({
   subheading,
   content,
   contentComponent,
-  heroImage
+  image
   // mainpitch,
   // description,
   // intro,
@@ -24,7 +24,7 @@ export const IndexPageTemplate = ({
       <section className="Hero">
         <div className="Hero-container container">
           <div className="Hero-image">
-            <PreviewCompatibleImage imageInfo={heroImage} />
+            <PreviewCompatibleImage imageInfo={image} />
           </div>
           <h1 className="Hero-heading">{heading}</h1>
           <h3 className="Hero-subheading">{subheading}</h3>
@@ -55,7 +55,7 @@ export const IndexPageTemplate = ({
 IndexPageTemplate.propTypes = {
   heading: PropTypes.string,
   subheading: PropTypes.string,
-  heroImage: PropTypes.oneOfType([PropTypes.object, PropTypes.string])
+  image: PropTypes.oneOfType([PropTypes.object, PropTypes.string])
 };
 
 const IndexPage = ({ data }) => {
@@ -64,7 +64,7 @@ const IndexPage = ({ data }) => {
   return (
     <Layout>
       <IndexPageTemplate
-        heroImage={frontmatter.heroImage}
+        image={frontmatter.image}
         heading={frontmatter.heading}
         subheading={frontmatter.subheading}
         contentComponent={HTMLContent}
@@ -87,13 +87,10 @@ export const pageQuery = graphql`
       frontmatter {
         heading
         subheading
-        heroImage {
-          alt
-          image {
-            childImageSharp {
-              fluid(maxWidth: 526, quality: 92) {
-                ...GatsbyImageSharpFluid
-              }
+        image {
+          childImageSharp {
+            fluid(maxWidth: 526, quality: 92) {
+              ...GatsbyImageSharpFluid
             }
           }
         }
