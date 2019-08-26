@@ -4,16 +4,18 @@ title: Short story long
 date: 2019-08-23T14:04:00.000Z
 description: >-
   Read about how I went from being a full-time session/touring drummer to doing
-  IT for NASA, then transitioning into a software developer.
+  IT for NASA, then successfully transitioned into a software developer.
 featuredpost: true
 featuredimage: /img/space_drummer.jpg
 tags:
   - career
   - music
 ---
+
 ![Space Drummer](/img/space_drummer.jpg)
 
 ## Music was everything
+
 When I was about 14, I made an amazing discovery — some people got paid to make music. The concept was so foreign to me. _How was it possible to make money doing something so fun? Wasn’t work supposed to be boring?_
 I spent the next few years reading _[Modern Drummer Magazine](https://www.moderndrummer.com)_, watching music documentaries, and pursuing relationships with as many "professional" musicians as I could. I had to make this my career.
 In my pursuit of a career in music, I heard it over and over again.

@@ -23,6 +23,8 @@ const Footer = () => {
             className="Footer-item Footer-item--socialIcon"
             title="facebook"
             href="https://facebook.com/JediJake"
+            target="_blank"
+            rel="noopener noreferrer"
           >
             <Facebook />
           </a>
@@ -30,6 +32,8 @@ const Footer = () => {
             className="Footer-item Footer-item--socialIcon"
             title="twitter"
             href="https://twitter.com/yousaiditchewie"
+            target="_blank"
+            rel="noopener noreferrer"
           >
             <Twitter />
           </a>
@@ -37,12 +41,14 @@ const Footer = () => {
             className="Footer-item Footer-item--socialIcon"
             title="instagram"
             href="https://instagram.com/yousaiditchewie"
+            target="_blank"
+            rel="noopener noreferrer"
           >
             <Instagram />
           </a>
         </div>
         <div className="Footer-logo">
-          <Link to="/" className="Footer-item h2">
+          <Link to="/" className="Footer-item">
             yousaiditchewie
           </Link>
           <small>&copy;2019 all rights reserved.</small>
