@@ -18,9 +18,6 @@ const SubscribeForm = () => {
       setStrangerDanger(true);
       return;
     }
-    console.log({
-      [`${e.target.name}`]: e.target.value
-    });
     setEmail(e.target.value);
   }
 
@@ -28,9 +25,6 @@ const SubscribeForm = () => {
     e.preventDefault();
     if (strangerDanger) return;
 
-    console.log('event: ', e);
-    console.log('email: ', email);
-    console.log('strangerDanger: ', strangerDanger);
     addToMailchimp(email)
       .then(responseData => {
         /*
@@ -40,11 +34,9 @@ const SubscribeForm = () => {
          *  msg: String
          * }
          */
-        console.log(responseData);
         setMailchimpResponse(responseData);
       })
       .catch(responseError => {
-        console.log(responseError);
         setMailchimpResponse(responseError);
       });
   }
