@@ -28,11 +28,11 @@ There's this magazine that comes out every month that’s filled cover-to-cover 
 
 I got a music degree. That's how you learn the necessary skills, right?
 
-> WRONG.
+> **WRONG.**
 
 I moved to Los Angeles. That's where everyone goes to find success, right?
 
-> WRONG.
+> **WRONG.**
 
 I met the right people, played in the right places and landed a full-time retainer gig. That means I made it right?
 
@@ -62,15 +62,15 @@ Really hard. Everyone wanted 3-5 years of experience for an entry-level role. Wi
 
 Eventually, I took a job for a company in Nashville, where I currently live and work. Through my journey, I learned a few key things.
 
-> Ditch the hype, find freedom
+> Ditch the hype, find **freedom**.
 
 You don’t have to sacrifice creative gratification for financial stability — **you can have both**.
 
-> The Internet is a big place
+> The Internet is a **big** place.
 
 There’s still plenty of space, and it’s a great platform to launch a business.
 
-> Content is the key
+> **Content** is the key.
 
 Freelance musicians needs to learn how to turn the internet into their music venue. When they do, they can turn their audience into customers and life-long fans.
 
