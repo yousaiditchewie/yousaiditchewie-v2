@@ -46,7 +46,7 @@ I looked for other opportunities as a songwriter, producer, or engineer in addit
 
 ## NASA, of all things
 
-Here’s the crazy thing. Before landing that retainer gig, I worked at [Apple](https://www.apple.com) as a Mac technician. As it turned out, a company that handled an IT contract with [NASA](https://www.nasa.gov) was desperate for Mac technicians. Somehow, _they_ found _me_, and I landed a job there. I got to be an on-site technician for actual rocket scientists.
+Here’s the crazy thing. Before landing that retainer gig, I worked at [Apple](https://www.apple.com) as a Mac technician. As it turned out, a company that handled an IT contract with [NASA](https://www.nasa.gov) was desperate for Mac technicians. Somehow, _they_ found _me_ while I was looking for work, and I landed a job there. I got to be an on-site technician for actual rocket scientists.
 
 > It sounds exciting, but I was helping geriatric astrophysicists print stuff.
 
@@ -72,6 +72,6 @@ There’s still plenty of space, and it’s a great platform to launch a busines
 
 > **Content** is the key.
 
-Freelance musicians needs to learn how to turn the internet into their music venue. When they do, they can turn their audience into customers and life-long fans.
+Freelance musicians need to learn how to turn the internet into their music venue. When they do, they can turn their audience into customers and life-long fans.
 
-If you’ve read this far, thank you. Also, subscribe to my weekly newsletter. I’ll dive deeper into how creating content is a powerful tool that can help musicians turn their creativity into income.
+If you’ve read this far, thank you. Subscribe to my weekly newsletter if you want to go further. I’ll dive deeper into how creating content is a powerful tool that can help musicians turn their creativity into income.
