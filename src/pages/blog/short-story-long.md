@@ -74,4 +74,4 @@ There’s still plenty of space, and it’s a great platform to launch a busines
 
 Freelance musicians need to learn how to turn the internet into their music venue. When they do, they can turn their audience into customers and life-long fans.
 
-If you’ve read this far, thank you. Subscribe to my weekly newsletter if you want to go further. I’ll dive deeper into how creating content is a powerful tool that can help musicians turn their creativity into income.
+If you’ve read this far, thank you. Subscribe to my weekly newsletter if you want to go further. I’ll dive deeper into how the discipline of creating content can help musicians turn their creativity into income.
