@@ -61,7 +61,11 @@ const SubscribeForm = () => {
             onChange={handleChange}
             name="birthday"
           />
-          <input className="SubscribeForm-submit" type="submit" />
+          <input
+            className="SubscribeForm-submit"
+            type="submit"
+            value="Subscribe"
+          />
         </form>
         {mailchimpResponse.result === 'success' ? (
           <p
