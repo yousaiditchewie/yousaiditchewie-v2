@@ -30,7 +30,7 @@ export const IndexPageTemplate = ({
             <PreviewCompatibleImage imageInfo={image} />
           </div>
           <p className="Hero-callout">
-            Find out more about my new book,{' '}
+            Find out more about my upcoming book,{' '}
             <em>
               The Working Musician's Playbook: The step-by-step guide to
               achieving a fulfilling career as a freelance&nbsp;musician.
