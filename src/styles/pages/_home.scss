@@ -21,8 +21,40 @@
 .Hero {
   background-color: $white;
 
+  text-align: center;
+  @media (min-width: $portable) {
+  }
+
   &-image {
     padding-bottom: 1rem;
+
+    @media (min-width: $portable) {
+      max-width: 50%;
+      padding-bottom: 2rem;
+      margin: 0 auto;
+    }
+  }
+
+  &-heading {
+    font-size: 2.5rem;
+  }
+
+  &-subheading {
+    padding-bottom: 2rem;
+  }
+
+  &-callout {
+    font-size: 1.25rem;
+    line-height: 1.5;
+
+    @media (min-width: $portable) {
+      max-width: 75%;
+      margin: 0 auto;
+    }
+  }
+
+  .Form {
+    justify-content: center;
   }
 }
 

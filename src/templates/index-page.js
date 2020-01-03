@@ -6,6 +6,7 @@ import Layout from '../components/Layout';
 import Content, { HTMLContent } from '../components/Content';
 import PreviewCompatibleImage from '../components/PreviewCompatibleImage';
 import BlogRoll from '../components/BlogRoll';
+import Form from '../components/Form';
 
 export const IndexPageTemplate = ({
   // image,
@@ -23,11 +24,19 @@ export const IndexPageTemplate = ({
     <>
       <section className="Hero">
         <div className="Hero-container container">
+          <h1 className="Hero-heading">{heading}</h1>
+          <h3 className="Hero-subheading">{subheading}</h3>
           <div className="Hero-image">
             <PreviewCompatibleImage imageInfo={image} />
           </div>
-          <h1 className="Hero-heading">{heading}</h1>
-          <h3 className="Hero-subheading">{subheading}</h3>
+          <p className="Hero-callout">
+            Find out more about my new book,{' '}
+            <em>
+              The Working Musician's Playbook: The step-by-step guide to
+              achieving a fulfilling career as a freelance&nbsp;musician.
+            </em>
+          </p>
+          <Form />
         </div>
       </section>
       <section className="About">

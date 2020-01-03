@@ -4,8 +4,8 @@ title: >-
   yousaiditchewie | Jacob Allen — Musician, Software Engineer, Educator from
   Nashville, TN
 image: /img/img_0419.jpeg
-heading: yousaiditchewie | JACOB ALLEN
-subheading: 'Musician, Software Engineer, and Educator from Nashville, TN.'
+heading: yousaiditchewie
+subheading: Hi, my name is Jacob Allen. I’m a musician, software engineer, and author from Nashville, TN.
 ---
 
 ## Long story short

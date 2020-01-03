@@ -5,9 +5,9 @@ import Footer from './Footer';
 import MobileNav from './MobileNav';
 import useSiteMetadata from './SiteMetadata';
 import { withPrefix } from 'gatsby';
+import SubscribeForm from './SubscribeForm';
 
 import './main.scss';
-import SubscribeForm from './SubscribeForm';
 
 const TemplateWrapper = ({ children }) => {
   const { title, description } = useSiteMetadata();
