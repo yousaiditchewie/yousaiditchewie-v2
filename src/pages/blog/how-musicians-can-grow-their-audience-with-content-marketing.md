@@ -5,18 +5,18 @@ date: 2020-01-14T17:52:55.648Z
 description: >-
   The Internet is your music venue. Let me show you how you can always have an audience by generating valuable content. Here's a time-tested plan to grow your fanbase.
 featuredpost: true
-featuredimage: /img/how-to-grow-your-audience-with-content-marketing.jpeg
+featuredimage: /img/grow-your-audience-with-content-marketing.jpeg
 tags:
   - career
   - music
   - marketing
 ---
 
-![Space Drummer](/img/how-to-grow-your-audience-with-content-marketing.jpeg)
+![Space Drummer](/img/grow-your-audience-with-content-marketing.jpeg)
 
 ## What is content marketing?
 
-I didn't study marketing in school or get a degree in communications or whatever the kids call it these days. I got a music degree, and I really wish I hadn’t. That's a story for another blog.
+I didn't study marketing in school or get a degree in communications or whatever the kids call it these days. I got a music degree, and I really wish I hadn’t. You can read [my story](/blog/short-story-long/) if you’re really interested.
 
 > Insert shameless plug for you to subscribe to my mailing list.
 
@@ -28,17 +28,17 @@ _Like what is a public figure anyway? How does one get into public figuring?_
 
 Here’s the bottom line. **People who generate valuable content on a consistent basis will inevitably have a large following.** This principle applies to blogging, Instagram, Youtube, and any other social platform on the web.
 
-You may never be a Jenner or a Jonas, but you can grow your following by generating content on consistent basis that offers value to people.
+You may never be a Jenner or a Jonas, but you can grow your following by generating content on a consistent basis that offers value to people.
 
 > **Content marketing** is the process of planning, creating, distributing, sharing, and publishing content to reach your target audience. As a business, this tactic can help you improve brand awareness, boost sales, connect with your target audience members, and engage prospects and customers.
 
-I took that quote from this HubSpot article about [content marketing](https://blog.hubspot.com/marketing/content-marketing), and it is _HubSpot_-on!
+I took that quote from a HubSpot article about [content marketing](https://blog.hubspot.com/marketing/content-marketing), and it is _HubSpot_-on!
 
 This is my blog and I can dad-joke if I want.
 
-I got HubSpot certified at the marketing agency that gave me my first real developer job (read more of [my story](/short-story-long)), and it changed the way I think about the web. There’s this crazy thing that happens when you stop thinking about what you can _get_ from your audience, and start thinking about how you can _help the most people_. When you start offering valuable information to people, they’ll buy things from you (albums, ep’s, merch, lessons), and they’ll keep coming back to you as a resource (read: lifelong fan).
+I got HubSpot certified at the marketing agency that gave me my first real developer job (another part of [my story](/blog/short-story-long)), and it changed the way I think about the web. There’s this crazy thing that happens when you stop thinking about what you can _get_ from your audience, and start thinking about how you can _help the most people_. When you start offering valuable information to people, they’ll buy things from you (albums, ep’s, merch, lessons), and they’ll keep coming back to you as a resource (read: lifelong fan).
 
-> When you teach what you know, you'll be seen as an expert.
+> Provide value to people, and they’ll thank you with their wallets.
 
 ## How can content marketing help musicians?
 
@@ -192,6 +192,6 @@ This strategy will not work overnight, but it is a proven plan for growing an on
 
 You _will_ see results over time if you put a plan together and follow through.
 
-I’d love to hear your thoughts on this topic. Let me know if you’re doing this and it’s working, or if you’re struggling to grow an audience. My twitter handle is [@yousaiditchewie](https://twitter.com/yousaiditchewie).
+I’d love to hear your thoughts on this topic. Tweet me [@yousaiditchewie](https://twitter.com/yousaiditchewie) and let me know if you’re doing this and it’s working, or if you’re struggling to grow an audience. Subscribe to my newsletter below if you want to get more content.
 
-Now get out there and make something amazing. Subscribe below to get weekly updates and articles.
+Now get out there and make something amazing.

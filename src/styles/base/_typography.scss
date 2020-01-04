@@ -86,10 +86,10 @@ a {
     }
   }
 
-  p,
   ul,
   ol,
-  li {
+  li,
+  p {
     @media (min-width: $tablet) {
       font-size: 1.25rem;
       line-height: 1.45;
