@@ -5,12 +5,14 @@ date: 2020-01-14T17:52:55.648Z
 description: >-
   The Internet is your music venue. Let me show you how you can always have an audience by generating valuable content. Here's a time-tested plan to grow your fanbase.
 featuredpost: true
-featuredimage:
+featuredimage: /img/how-to-grow-your-audience-with-content-marketing.jpeg
 tags:
   - career
   - music
   - marketing
 ---
+
+![Space Drummer](/img/how-to-grow-your-audience-with-content-marketing.jpeg)
 
 ## What is content marketing?
 

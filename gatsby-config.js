@@ -4,7 +4,7 @@ module.exports = {
   siteMetadata: {
     title: 'yousaiditchewie | Jacob Allen',
     description:
-      'I’m Jacob Allen, aka @yousaiditchewie. I’m a session and touring musician turned software engineer. I want to help musicians make the money they need to support their dreams. If I can do it, so can you!'
+      'Author of The Working Musician’s Playbook: The Step-By-Step Guide to Achieving a Fulfilling Career as a Freelance Musician.'
   },
   plugins: [
     'gatsby-plugin-react-helmet',
