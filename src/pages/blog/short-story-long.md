@@ -11,6 +11,7 @@ tags:
   - career
   - music
 ---
+
 ## Music was everything
 
 When I was about 14, I made an amazing discovery — some people got paid to make music. The concept was so foreign to me. _How was it possible to make money doing something so fun? Wasn’t work supposed to be boring?_
