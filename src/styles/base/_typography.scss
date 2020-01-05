@@ -51,6 +51,10 @@ a {
 }
 
 .BlogArticle {
+  h1 {
+    line-height: 1.25;
+  }
+
   h2,
   .h2,
   h3,
@@ -62,10 +66,6 @@ a {
   h6,
   .h6 {
     padding-top: $vertical-spacing--small;
-
-    @media (min-width: $tablet) {
-      padding-top: $vertical-spacing;
-    }
   }
 
   h1,
