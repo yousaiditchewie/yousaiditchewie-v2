@@ -6,6 +6,8 @@ import Twitter from './socialIcons/Twitter';
 import Instagram from './socialIcons/Instagram';
 
 const Footer = () => {
+  const currentYear = new Date().getFullYear();
+
   return (
     <footer className="Footer">
       <nav className="Footer-navigation container">
@@ -51,7 +53,7 @@ const Footer = () => {
           <Link to="/" className="Footer-item">
             yousaiditchewie
           </Link>
-          <small>&copy;2019 all rights reserved.</small>
+          <small>&copy;{currentYear} all rights reserved.</small>
         </div>
       </nav>
     </footer>
