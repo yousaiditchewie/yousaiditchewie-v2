@@ -5,14 +5,14 @@ date: 2019-08-26T17:52:55.648Z
 description: >-
   The music industry has changed, but there is still a path to getting noticed by a record label. Here’s a guide to getting a record deal and reasons why you’re better off without one.
 featuredpost: true
-featuredimage: /img/space_drummer.jpg
+featuredimage: /img/how-to-get-a-record-deal-and-why-you-shouldnt.jpeg
 tags:
   - career
   - music
   - marketing
 ---
 
-![Space Drummer](/img/space_drummer.jpg)
+![Space Drummer](/img/how-to-get-a-record-deal-and-why-you-shouldnt.jpeg)
 
 When I was a teenager, I was in in a grunge/punk/church band. Our identity was a work in progress, obviously. We couldn’t land on a creative direction, but we all had hopes of getting signed by a record label. Our lead singer would say "once I get a Taylor guitar, we’ll get signed."
 
