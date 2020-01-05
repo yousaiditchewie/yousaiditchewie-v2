@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Short Story Long
+title: How to get a record deal and why you shouldn’t
 date: 2019-08-26T17:52:55.648Z
 description: >-
   The music industry has changed, but there is still a path to getting noticed by a record label. Here’s a guide to getting a record deal and reasons why you’re better off without one.
@@ -14,7 +14,7 @@ tags:
 
 ![Space Drummer](/img/space_drummer.jpg)
 
-When I was a teenager in a grunge/punk/church band. Our identity was a work in progress, obviously. We couldn’t land on a creative direction, but we all had the hopes of getting signed by a record label. Our lead singer would say "once I get a Taylor guitar, we’ll get signed."
+When I was a teenager, I was in in a grunge/punk/church band. Our identity was a work in progress, obviously. We couldn’t land on a creative direction, but we all had hopes of getting signed by a record label. Our lead singer would say "once I get a Taylor guitar, we’ll get signed."
 
 > We had no idea how the record industry worked.
 
@@ -26,9 +26,9 @@ The days of making substantial money from selling physical copies of music are o
 
 Here’s a plan that will help you get noticed by a label, and some practical steps you can take to advance your music career. Let’s start with _why_...
 
-##Why try to get a record deal in the first place?
+## Why try to get a record deal in the first place?
 
-Most musicians I grew up with equate a record deal with _free money_ to support a rock and roll lifestyle. There’s this mentality that getting signed by a label means _I have the freedom to just create, and I don’t have to worry about money anymore_.
+Most musicians I grew up with associate getting a record deal with _free money_ to support a rock and roll lifestyle. There’s this mentality that getting signed by a label means _I have the freedom to just create, and I don’t have to worry about money anymore_.
 
 This could not be further from the truth. Any money handed over by a record label comes with **strings attached**, and there is far less money being handed out by record labels these days.
 
@@ -38,15 +38,15 @@ In the state of the music industry today, the three most useful benefits a recor
 
 Let’s break this down:
 
-##Advance
+### Advance
 
 An advance is a part of a [record contract](https://en.wikipedia.org/wiki/Recording_contract), and is money given directly to a recording artist for a record that has not yet been made. This money is **almost always owed back to the label** (much like a loan), and **artists will not receive royalties** until the label has recuperated their advance from record sales.
 
-##Marketing Resources
+### Marketing Resources
 
 Record labels often have a marketing team that specializes in finding or creating new ways to get the word out about their artists' music. They pour massive dollar amounts into campaigns that will get the word out to the right people who will purchase music from the label.
 
-##Broad Reach
+### Broad Reach
 
 Because of their marketing resources, labels often have a very broad reach, meaning they have access to a large audience. They also have ways of getting their artists' music in the right channels for growth, such as film/tv, radio, and other media that also has a broad reach.
 
@@ -68,36 +68,37 @@ First of all, if you wait for a record deal before you start recording an album,
 
 Do you want that to happen to your music? **Of course not!**
 
-There is a better way!
+> There is a better way!
 
 Do you have any idea how much the average album costs to make?
 
-> Me either.
+**Me either.**
 
-And it doesn’t really matter because there’s always a way to do it on a budget.
+And it doesn’t really matter because a record can be made on any budget.
 
 Here are some common costs that go into making an album:
 
 - Paying musicians for their time
 - Paying a producer for their time
-- Paying an engineer for their time
+- Paying a recording engineer for their time
 - Paying for studio time
 - Paying a mix/mastering engineer for their time
-- Paying a designer for their time
+- Paying a designer for album art
 - Paying to have physical products produced (if you go that route)
 
 All of this can be summed up in money being spent on **people, places, and time.** If you can reduce the amount of people you pay, the cost of the space you record in, and operate as quickly and efficiently as possible, the cost of your record will go down dramatically. If you have a space of your own to record in, have gear of your own, know how to operate it, and can play several instruments, you really only need to figure out how to distribute the final product when it’s finished.
 
-What I’m saying is, it’s completely possible, and even a great idea, to write, produce, perform, record, and distribute your own music.
+> What I’m saying is, it’s completely possible, and even a great idea, to write, produce, perform, record, and distribute your own music.
 
-##The recording/production phase
+### The recording/production phase
+
 I’ve been a part of several recordings in my career where, when all was said and done, I could have made a better-sounding recording for a fraction of the cost if I had chosen to purchase my own recording gear and self-record instead of booking time at a "professional" recording studio.
 
 That’s the reality we live in today, and it’s a beautiful thing. Professional and semi-professional recording gear is getting better _and_ more affordable at the same time.
 
 99% of the time, I would advise artists, bands, and producers to buy their own recording gear instead of sinking money into buying time at a recording studio. Yes, there’s a time and place to record at a nice studio, but for early-stage artists and bands, now is not the time.
 
-You can make _professional sounding_ recordings with a Shure SM58, an Apogee Duet, and Logic Pro. You can get all of these for under \$1,000. You might be thinking, "but I want big drum sounds on my recordings." Well, I’ve recorded some killer sounding drums with an SM58 going through an Apogee Duet in Logic Pro. I set the mic up about 10-12 feet away from the kit on a vocal mic stand, and pointed it at the kick drum.
+You can make _professional sounding_ recordings with a [Shure SM58](https://www.sweetwater.com/store/detail/SM58--shure-sm58-cardioid-dynamic-vocal-microphone), an [Apogee Duet](https://www.sweetwater.com/store/detail/Duet2iOS--apogee-duet), and [Logic Pro](https://www.apple.com/logic-pro/). You can get all of these for under \$1,000. You might be thinking, "but I want big drum sounds on my recordings." Well, I’ve recorded some killer sounding drums with an SM58 going through an Apogee Duet in Logic Pro. I set the mic up about 10-12 feet away from the kit on a vocal mic stand, and pointed it at the kick drum.
 
 > Boom!
 
@@ -105,7 +106,7 @@ It requires a different mindset when you play and record this way. You have to s
 
 Logic Pro will make up for any recording limitations you may feel from only having a single mic. Its plugins and virtual instruments rival any expensive bundles out there. And the more you record yourself, the more you’ll learn to get the sounds you want out of your gear.
 
-##The post-production phase
+### The post-production phase
 
 Let’s say you took my advice and purchased recording gear instead of paying money to rent time at a studio, and you started to record your own music, and you’re happy with the sounds you’re getting.
 
@@ -161,11 +162,11 @@ The best way to do this is to demonstrate that you can grow a substantial fan fo
 
 > If you give your fans what they want, they’ll give you what you need.
 
-Not to say you shouldn’t write hit songs, but if you hide away for a long time and emmerge with a hit song, **no one will care**.
+Not to say you shouldn’t write hit songs, but if you hide away for a long time and immerge from the shadows with a hit song, **no one will care**.
 
-**You must have an audience for your music to take off.**
+> **You must have an audience for your music to take off.**
 
-## Harness the power of content marketing to grow your audience
+### Harness the power of content marketing to grow your audience
 
 Record labels are great at getting the word out about the latest album by their artists, and rightfully so. This is how labels make the majority of their money. Like I mentioned earlier, record labels have teams of marketing experts devising new ways to make people aware of their new products. They have large budgets set aside to buy billboard ads, digital ads, social media marketing, and any other channel that converts people into customers.
 
@@ -175,17 +176,17 @@ I’ve got great news for you. You have the ability start a marketing campaign o
 
 > You have the ability to turn your creativity into marketing content.
 
-I recently wrote an article on [how to grow your audience with content marketing](##), so check it out to go deeper. But here are the basics:
+I recently wrote an article on [how to grow your audience with content marketing](####), so check it out to go deeper. But here are the basics:
 
-## 1. Teach what you know
+#### 1. Teach what you know
 
 Educational content doubles as great marketing content. It makes your content _discoverable_, and it establishes you as an expert on a topic. So write about how you landed a gig that you worked really hard to get, or blog about your process for recording a song you wrote. Anything you _write_ on the internet can be easily searched and discovered, **so write a lot**.
 
-## 2. Establish a posting schedule for social media and stick to it
+#### 2. Establish a posting schedule for social media and stick to it
 
 Social media algorithms favor consistency, **so post often, and make your posts _engaging_**. Avoid overloading your feed with lifestyle shots of you looking cool playing music, at least at first. People engage with posts that provide value, so find a way to incorporate educational content into your social media posts. Using appropriate hashtags and tagging other accounts can make your posts more discoverable, but it’s meaningful content that will entice and engage people once they find you.
 
-## 3. Use your platform to sell your products or services
+#### 3. Use your platform to sell your products or services
 
 Once you’ve grown an audience by teaching what you know and sticking to a consistent posting schedule, _tell_ your audience how they can stream your music or buy your products.
 
@@ -197,11 +198,11 @@ Make sure people know that it’s available and that you want them to buy it. If
 
 Using educational content to build an audience and selling your products and services to them is essential to getting any credibility with a record label. Even if this process isn’t the catalyst to get you in front of label executives, it will most certainly be your leverage in negotiations. When you take control of your music career and start making money with your creativity, it reduces your need to sign with a label because you’re already profitable without them.
 
-## Why you can do better without a record label
+## Why you’re better off without a record label
 
 So far I’ve talked about recording your own music, publishing and distributing your own music, and growing your audience with content marketing. If you’ve done any of this or feel like this is attainable and realistic for you, **you clearly don’t need a record label to back you financially.**
 
-## Redefine success for your music career
+### Redefine success for your music career
 
 You do not need to sign to a record label to be a successful musician. If getting signed by a label is your only criteria for success in a music career, you have already failed. Your goal should be to use your creativity and craft to make the most money possible for as long as possible. That's the goal of everyone in any other career field, so make it yours too.
 
@@ -213,7 +214,7 @@ The tricky part is that music is fun, and musicians have a tendency to count the
 
 > Musicians need to act like their time is worth money too.
 
-## Keep your money. Don’t give it to a record label
+### Keep your money. Don’t give it to a record label
 
 Assuming you have the marketing power you need to get the word out about your music (and you do), you really shouldn’t be giving a label leverage over your creativity and income.
 
@@ -221,13 +222,13 @@ Let’s imagine that your end-goal is to sign a recording contract with a label.
 
 If a deal comes along that happens to be mutually beneficial, and you’ve done research and ran the contract by a trusted lawyer, then by all means, go for it. But for the vast majority of musicians, going the unsigned route can be equally lucrative without sacrificing any creative control.
 
-##Who’s doing this well?
+## Who’s doing this well?
 
 A few artists come to mind who are applying this principle to their music careers.
 
-## Twin Shadow
+### Twin Shadow
 
-One of my favorite artists is [Twin Shadow](https://www.instagram.com/thetwinshadow/). I remember anticipating his album _Caer_. Before it came out, he mentioned that he wrote it and recorded it, and _then_ he landed a deal with Warner Music. When he signed with the label, they were happy with the recordings. I can imagine that when he was recording his music, he may not have had any intentions of signing with a major label. He already had a fanbase, and he already had a streak of solid albums. The label could see that he was on a path for growth and signed him. It was not risky at all for Warner since they could already see the results from his previous albums.
+One of my favorite artists is [Twin Shadow](https://www.instagram.com/thetwinshadow/). I remember anticipating his album _Caer_. Before it came out, he mentioned that he wrote it and recorded it, and _then_ he landed a deal with Warner Music. When he signed with the label, they were happy with the recordings. I can imagine that when he was recording his music, he may not have had any intentions of signing with a major label. He already had a fan base, and he already had a streak of solid albums. The label could see that he was on a path for growth and signed him. It was not risky at all for Warner since they could already see the results from his previous albums.
 
 The rest of the story is that **he dropped the label** after the release of _Caer_, and his next album will be released under his own indie label. In my opinion, this is the ultimate mark of success for an artist — positioning your career in such a way that you **do not need a label**. More artists should look at Twin Shadow’s career for inspiration.
 
@@ -235,13 +236,13 @@ The rest of the story is that **he dropped the label** after the release of _Cae
 
 > Your album is not the only product you can sell.
 
-## Davie
+### Davie
 
 I mentioned in a previous blog that my first paying gig after I moved to Los Angeles was with an artists called [Davie](https://www.instagram.com/musicbydavie/). In addition to being a great musician and songwriter, he knows how to grow an audience and produce meaningful content.
 
 His latest release [_Girls Raised in the South_](https://l.instagram.com/?u=https%3A%2F%2Fopen.spotify.com%2Fartist%2F3LtkIxt8EHLpuXMOpFYZ06%3Fsi%3Dp0hBWVx2SwmbLi3NPcgcHg&e=ATNv16WdprNey38_WjvWFv_0UcCwLYF7Ml7mO33oHFogPhRyWrWuXnnHvRBCSX5mZ7h1b3YS) was independently recorded and distributed, and he’s been able to land a few sync deals with his music, meaning, **he doesn’t have to share any royalties with a label**.
 
-## Meija
+### Meija
 
 [Meija](https://www.instagram.com/jamiesierota/) is a songwriter/producer that has been steadily growing his audience and releasing music. Writing and producing his own music has opened doors for him to produce and co-write with other bands and artists as well.
 
@@ -252,7 +253,3 @@ His latest EP [_So Long Kid_](https://lnk.to/solongkid) is innovative and authen
 **If these musicians can do it, you can too!** Make your own music on your terms, grow your audience, and turn them into customers.
 
 I’d love to hear what you think. Tweet me [@yousaiditchewie](https://twitter.com/yousaiditchewie/), and subscribe to my newsletter below for more content like this.
-
-- Subscribe to my newsletter
-- Tweet me your feedback/questions
-- Follow me
