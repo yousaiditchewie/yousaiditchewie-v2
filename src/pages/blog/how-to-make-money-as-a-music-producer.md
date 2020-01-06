@@ -6,13 +6,13 @@ description: >-
   Read about how I went from being a full-time session/touring drummer to doing
   IT for NASA, then transitioning into a software engineer.
 featuredpost: true
-featuredimage: /img/short-story-long.jpeg
+featuredimage: /img/how-to-make-money-as-a-music-producer.jpeg
 tags:
   - career
   - music
 ---
 
-![Space Drummer](/img/short-story-long.jpeg)
+![Space Drummer](/img/how-to-make-money-as-a-music-producer.jpeg)
 
 Producers are prevalent in just about every creative or content production industry, be it Film, TV, even Podcast. For each of these media, producers have similar roles. Generally, a producer will oversee the production, handle the budget, and get the right people in the right roles.
 
