@@ -6,14 +6,15 @@ description: >-
   Read about how I went from being a full-time session/touring drummer to doing
   IT for NASA, then transitioning into a software engineer.
 featuredpost: true
-featuredimage: /img/space_drummer.jpg
+featuredimage: /img/short-story-long.jpeg
 tags:
   - career
   - music
 ---
-![Space Drummer](/img/space_drummer.jpg)
+![Space Drummer](/img/short-story-long.jpeg)
 
 ## Music was everything
+
 When I was about 14, I made an amazing discovery — some people got paid to make music. The concept was so foreign to me. _How was it possible to make money doing something so fun? Wasn’t work supposed to be boring?_
 I spent the next few years reading _[Modern Drummer Magazine](https://www.moderndrummer.com)_, watching music documentaries, and pursuing relationships with as many "professional" musicians as I could. I had to make this my career.
 In my pursuit of a career in music, I heard it over and over again.
@@ -38,7 +39,7 @@ I met the right people, played in the right places and landed a full-time retain
 
 ## Downturn
 
-I spent a short time "living the dream" as a full-time touring and session drummer. It really wasn’t all it was cracked up to be. There are plenty of people who can thrive in a touring environment, and I can confidently say, I’m not one of them. I love structure, predictability, and stability. You get none of these on the road, and it puts pressure on your relationships.  
+I spent a short time "living the dream" as a full-time touring and session drummer. It really wasn’t all it was cracked up to be. There are plenty of people who can thrive in a touring environment, and I can confidently say, I’m not one of them. I love structure, predictability, and stability. You get none of these on the road, and it puts pressure on your relationships.\
 I wasn't asked back after a leg of tour ended. Just like that, I was no longer a full-time musician.
 I looked for other opportunities as a songwriter, producer, or engineer in addition to drumming gigs.
 
