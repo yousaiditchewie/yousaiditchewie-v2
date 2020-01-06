@@ -5,14 +5,14 @@ date: 2019-08-26T17:52:55.648Z
 description: >-
   There has never been a better time to be an independent songwriter. I’m going to show you how you can turn your creativity into dollars and cents. Read more to find out how.
 featuredpost: true
-featuredimage: /img/space_drummer.jpg
+featuredimage: /img/how-to-make-money-as-an-independent-songwriter.jpeg
 tags:
   - career
   - music
   - marketing
 ---
 
-![Space Drummer](/img/space_drummer.jpg)
+![Space Drummer](/img/how-to-make-money-as-an-independent-songwriter.jpeg)
 
 Being an independent musician can be a challenging career endeavor, especially since there isn’t a clear path into making money doing it. But the good news is we live in the 21st century, and there has never been a better time to be a musician.
 
