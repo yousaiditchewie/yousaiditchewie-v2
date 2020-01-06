@@ -1,9 +1,9 @@
 main {
   padding: $vertical-spacing--small 0;
-  min-height: 100vh;
+  // min-height: 100vh;
 
   @media (min-width: $tablet) {
     padding: $vertical-spacing 0;
-    min-height: $viewport-height-minus-navigation;
+    // min-height: $viewport-height-minus-navigation;
   }
 }

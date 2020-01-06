@@ -1,19 +1,19 @@
 .HomePage {
   padding-top: 0;
 
-  @media (min-widght: $tablet) {
+  @media (min-width: $tablet) {
     padding-top: $vertical-spacing--small;
   }
 
   section {
-    min-height: 100vh;
+    // min-height: 100vh;
     display: flex;
     flex-direction: column;
     justify-content: center;
     color: $smoke;
 
     @media (min-width: $tablet) {
-      min-height: $viewport-height-minus-navigation;
+      // min-height: $viewport-height-minus-navigation;
     }
   }
 }
@@ -23,7 +23,7 @@
   text-align: center;
 
   &-container {
-    padding: 2rem 1.25rem;
+    padding: $vertical-spacing 1.25rem;
   }
 
   &-image {
@@ -64,7 +64,7 @@
 }
 
 .About {
-  padding: 2rem 0;
+  padding: $vertical-spacing 0;
   background-color: $platinum;
 
   &-content {
