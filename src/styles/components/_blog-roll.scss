@@ -1,6 +1,9 @@
 .BlogRoll {
   &-container {
     @media (min-width: $portable) {
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
       padding: 0;
     }
   }
@@ -13,9 +16,10 @@
     @media (min-width: $portable) {
       display: inline-block;
       vertical-align: top;
-      margin-left: 1rem;
-      margin-right: 1rem;
-      max-width: calc(50% - 4rem);
+      // margin-left: 1rem;
+      // margin-right: 1rem;
+      width: calc(50% - 2rem);
+      height: 100%;
     }
   }
 }
