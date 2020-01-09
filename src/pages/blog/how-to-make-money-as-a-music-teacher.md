@@ -13,7 +13,8 @@ tags:
 ---
 
 ![How to make money as a music teacher](/img/how-to-make-money-as-a-music-teacher.jpeg)
-Teachers have an important and often overlooked role in the music industry. Educators not only teach the mechanics and theory behind making music, but they also teach musical taste (yes, musical taste can be taught), mentor and offer guidance, and inspire musicians towards excellence and craft.
+
+Teachers have an important and often overlooked role in the music industry. Educators not only teach the mechanics and theory behind making music, but they also teach musical taste, mentor their students, and inspire musicians towards excellence and craft.
 
 > Story time
 
@@ -27,9 +28,9 @@ My first drum teacher, Ron, was hands down my most influential musical teacher. 
 
 My dad was a fan of anything from the 70's, but especially the band _Chicago_. So naturally, I loved _Chicago_ too. I really liked the song _Saturday in the Park_.
 
-Ron started playing it on the piano, and my eyes lit up like a Christmas tree. He was playing in the key of _C Major_ which is the easiest key on the piano. He showed me how to play it on piano, then he jumped on the drums and joined in. I was a terrible sight-reader in my piano lessons, but when I could see and hear how a song was played, I could play it easy. I had never played _piano_ like that before, and it sounded so cool when I was making music with someone else, especially a _drummer_.
+Ron started playing it on the piano, and my eyes lit up like a Christmas tree. He was playing in the key of _C Major_ which is the easiest key on the piano. He showed me how to play it on piano, then he jumped on the drums and joined in. I was a terrible sight-reader in my piano lessons, but when I could see and hear how a song was played, I could play it easily. I had never played _piano_ like that before, and it sounded so cool when I was making music with someone else, especially a _drummer_.
 
-Then we stopped, and Ron did a simple exercise with me. He had me play basic rhythmic patterns on the hi-hat, snare, and bass drum, one hand and foot at a time, then he slowly had me add another limb until I was playing an actual drum beat. When he saw that I was keeping the beat, he jumped back on the piano, and our roles were reversed. I was playing drums to a song I loved.
+Then we stopped and switched places. Ron did a simple exercise with me and had me play basic rhythmic patterns on the hi-hat, snare, and bass drum, one limb at a time, then he slowly had me add another limb until I was playing an actual drum beat. When he saw that I was keeping the beat, he jumped back on the piano, and our roles were reversed. I was playing drums to a song I loved.
 
 **I was making _music_ on the drums.**
 
@@ -37,9 +38,9 @@ There’s no way to adequately put into words the feeling I felt in that moment.
 
 > That’s what educators do.
 
-### How much money can they make?
+## How much money can they make?
 
-The short answer is _it depends_. But like any other field, there are actions you can take to gain control over the trajectory of your career.
+The short answer is _it depends_. According to [Career Explorer](https://www.careerexplorer.com/careers/music-teacher/salary/), music teachers can make between $17-$64 an hour which is a pretty wide range. But like any other field, there are actions you can take to gain control over the trajectory of your career.
 
 There are at least two main highways that lead to making a music career in education. The first is teaching at a school or an existing institution — **working for someone else**. The second is teaching lessons either privately, online, or in some other way — **working for yourself**.
 
@@ -57,7 +58,7 @@ I know several educators who specialize in web-based education. They hold privat
 
 And one-on-one lessons are only the beginning. More and more musicians are offering lessons and courses in a lecture format on platforms like [patreon](https://www.patreon.com/).
 
-### What makes this career enjoyable?
+## What makes this career enjoyable?
 
 It may sound cliche, but **people love making a difference in the world**. Being a music teacher is so much more than just teaching notes on a scale.
 
@@ -67,7 +68,7 @@ Not only do you get to inspire and encourage people, but there are so many life 
 
 If that doesn’t get you excited to teach, I don’t know what will!
 
-### How can I start doing this?
+## How can I start doing this?
 
 The first step is assessing your instrument, your available space, your network, and your schedule. If you have a job already, teaching should fit into your life — you shouldn’t start off by rearranging your life to work around teaching. That may be necessary eventually if you grow a large list of students or if your online courses start taking off, but initially, your work should come first.
 
@@ -84,5 +85,11 @@ You need to be blogging, releasing tutorial videos on Youtube or Instagram (or b
 The fact is **educational content is incredibly effective for marketing**. By teaching everything you know online (yes, don’t keep any secrets), **you position yourself as the expert**. This is the secret to increasing your rates and gaining more students at the same time. Routinely releasing educational content boosts your credibility for search engines and makes your content a higher priority on social media platforms.
 
 Check out my article on [how musicians can grow their audience using content marketing](###).
+
+## Who's doing this well?
+
+One of the first times I heard of someone focusing _remote_ music lessons was when I built a website for [Torres Fine Arts Instruction](https://torresfai.com). As I was talking with the founders about their vision for the business, they were adamant about the website being clear that they are not just reaching their local area, but are available to teach remotely to people who lived **anywhere**.
+
+Musicians need to learn from what Torres Fine Arts Instruction is doing and think beyond their immediate location to unlock the potential of their skills.
 
 I want to see music teachers succeed. Share your thoughts, struggles, and ideas with me on Twitter [@yousaiditchewie](https://twitter.com/yousaiditchewie), and subscribe to my newsletter below for more content about making money as a musician.
