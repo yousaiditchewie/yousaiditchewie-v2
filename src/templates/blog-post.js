@@ -6,6 +6,7 @@ import { graphql, Link } from 'gatsby';
 import Layout from '../components/Layout';
 import PreviewCompatibleImage from '../components/PreviewCompatibleImage';
 import Content, { HTMLContent } from '../components/Content';
+import BlogCta from '../components/BlogCta';
 
 export const BlogPostTemplate = ({
   content,
@@ -30,6 +31,7 @@ export const BlogPostTemplate = ({
             alt: `featured image thumbnail for post ${title}`
           }}
         />
+        <BlogCta />
         <PostContent className="BlogPost-content" content={content} />
         {tags && tags.length ? (
           <div className="Tags">
