@@ -11,7 +11,6 @@ tags:
   - career
   - music
 ---
-![Space Drummer](/img/short-story-long.jpeg)
 
 ## Music was everything
 
