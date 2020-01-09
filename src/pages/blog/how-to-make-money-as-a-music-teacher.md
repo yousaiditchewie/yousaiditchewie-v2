@@ -3,8 +3,7 @@ templateKey: blog-post
 title: How to make money as a music teacher
 date: 2019-08-26T17:52:55.648Z
 description: >-
-  Read about how I went from being a full-time session/touring drummer to doing
-  IT for NASA, then transitioning into a software engineer.
+  Music teachers play an incredibly valuable role in the music industry. I’m going to unpack why teaching is not only meaningful for students, but is also a valuable tool for generating income.
 featuredpost: true
 featuredimage: /img/how-to-make-money-as-a-music-teacher.jpeg
 tags:
