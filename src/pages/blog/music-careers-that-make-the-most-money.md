@@ -1,12 +1,17 @@
 ---
 templateKey: blog-post
-title: Short Story Long
+title: Music careers that make the most money
 date: 2019-08-26T17:52:55.648Z
 description: >-
   You CAN make money as a musician and have a successful career. I’ll unpack 5 music careers and show you why you should be doing all of them.
 featuredpost: true
 featuredimage: /img/music-careers-that-make-the-most-money.jpeg
+tags:
+  - career
+  - music
 ---
+
+![Space Drummer](/img/music-careers-that-make-the-most-money.jpeg)
 
 When it comes to building a career as a musician, we all want the Instagram-able lifestyle we see on other musicians’ feeds — the selfie with ?uestlove after playing on Fallon, the view from the stage at Red Rocks Amphitheater, the red carpet for a movie premier that featured your song. The other side of that coin, however, is the hustle, failure, stress, and anxiety that lead up to those moments.
 
@@ -146,7 +151,7 @@ My second paying gig was also with Davie. I think he knew I was studying music p
 
 We stayed in touch over the years while I was living in LA, and I eventually played drums for him a few times. But without having a diverse set of skills, my music career could have taken much longer to get off the ground.
 
-### Here’s what my music career would look like if I could start over...
+### Here’s what a well-rounded music career could look like...
 
 Having a diverse set of skills gives you more opportunities to _get hired_, but more importantly, **it gives you more opportunities to generate steady income**. Imagine being an instrumentalist that writes and teaches. Teaching private lessons typically generates steady, predictable income (cancellations aside). It’s also flexible, so you can still take paying gigs as a player. Even better, if you teach from the web, you can give lessons while on the road, giving you double pay. Through all of this, if you can keep steady writing sessions or continually write and record your own music, you can build up a repertoire that you can either license online or sell as a self-published project.
 
@@ -155,8 +160,3 @@ Having a diverse set of skills gives you more opportunities to _get hired_, but 
 You have to be disciplined to do things that don’t even seem musical or creative. But over time, dedication and discipline pay off more than talent ever could.
 
 I’d love to hear your wins and struggles on your music career journey. Tweet me [@yousaiditchewie](https://twitter.com/yousaiditchewie), and subscribe below for more content like this.
-
-tags:
-
-- career
-- music
