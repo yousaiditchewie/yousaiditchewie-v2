@@ -11,7 +11,6 @@ tags:
   - career
   - music
 ---
-
 ## Music was everything
 
 When I was about 14, I made an amazing discovery — some people got paid to make music. The concept was so foreign to me. _How was it possible to make money doing something so fun? Wasn’t work supposed to be boring?_
@@ -58,7 +57,7 @@ I got this crazy idea to quit my job and learn how to code. With the support of 
 
 ## Landing my first dev job was hard
 
-Really hard. Everyone wanted 3-5 years of experience for an entry-level role. With a lot of hard work and dedication, I landed two part-time jobs — one at a tech startup, and one at a marketing agency. Two very different companies that were doing a lot of the same things. They were both growing an audience and turning them into paying customers. I learned how to turn business goals into code, and I got to watch it work (for the most pat — the tech startup went under).
+Really hard. Everyone wanted 3-5 years of experience for an entry-level role. With a lot of hard work and dedication, I landed two part-time jobs — one at a tech startup, and one at a marketing agency. Two very different companies that were doing a lot of the same things. They were both growing an audience and turning them into paying customers. I learned how to turn business goals into code, and I got to watch it work (for the most part — the tech startup went under).
 
 Eventually, I took a job for a company in Nashville, where I currently live and work. Through my journey, I learned a few key things.
 
