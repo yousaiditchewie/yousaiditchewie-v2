@@ -8,7 +8,7 @@ export const AboutPageTemplate = ({ title, content, contentComponent }) => {
   const PageContent = contentComponent || Content;
 
   return (
-    <section className="AboutPage container">
+    <section className="AboutPage">
       <div className="container">
         <h2 className="AboutPage-title">{title}</h2>
         <PageContent className="content" content={content} />
