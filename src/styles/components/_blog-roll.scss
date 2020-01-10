@@ -2,8 +2,7 @@
   &-container {
     @media (min-width: $portable) {
       display: flex;
-      flex-direction: row;
-      justify-content: space-between;
+      flex-flow: row wrap;
       padding: 0;
     }
   }
@@ -15,11 +14,13 @@
   &-article {
     @media (min-width: $portable) {
       display: inline-block;
+      flex: 0 0 1;
+      flex-basis: auto;
       vertical-align: top;
-      // margin-left: 1rem;
-      // margin-right: 1rem;
-      width: calc(50% - 2rem);
+      width: calc(50% - 2.5rem);
       height: 100%;
+      margin-right: $container-padding;
+      margin-left: $container-padding;
     }
   }
 }
