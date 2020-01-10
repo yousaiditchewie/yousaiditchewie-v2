@@ -5,7 +5,8 @@
   margin: 0 auto;
   padding: 0 1.25rem;
 
-  .BlogArticle & {
+  .BlogArticle &,
+  .AboutPage & {
     max-width: 800px;
   }
 }
