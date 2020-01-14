@@ -12,13 +12,11 @@ tags:
   - marketing
 ---
 
-![Space Drummer](/img/grow-your-audience-with-content-marketing.jpeg)
-
 ## What is content marketing?
 
 I didn't study marketing in school or get a degree in communications or whatever the kids call it these days. I got a music degree, and I really wish I hadn’t. You can read [my story](/blog/short-story-long/) if you’re really interested.
 
-> Insert shameless plug for you to subscribe to my mailing list.
+> Insert shameless plug for you to subscribe to my [**mailing list**](#sign-up).
 
 However, after transitioning my career from studio/session drummer to software engineer, I learned a lot about how the Internet works and how to use it to grow a following. Have you ever wondered how it’s possible to make a career out of blogging?
 
