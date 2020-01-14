@@ -42,7 +42,7 @@ const SubscribeForm = () => {
   }
 
   return (
-    <div className="SubscribeForm">
+    <section id="sign-up" className="SubscribeForm">
       <div className="SubscribeForm-container container">
         <h3 className="SubscribeForm-copy">
           Sign up to get my weekly newsletter and latest articles.
@@ -84,7 +84,7 @@ const SubscribeForm = () => {
           ''
         )}
       </div>
-    </div>
+    </section>
   );
 };
 
