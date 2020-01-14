@@ -29,14 +29,16 @@ export const IndexPageTemplate = ({
           <div className="Hero-image">
             <PreviewCompatibleImage imageInfo={image} />
           </div>
-          <p className="Hero-callout">
-            Find out more about my upcoming book,{' '}
-            <em>
-              The Working Musician's Playbook: The step-by-step guide to
-              achieving a fulfilling career as a freelance&nbsp;musician.
-            </em>
-          </p>
-          <Form />
+          <div className="Hero-cta">
+            <p className="Hero-callout">
+              Find out more about my upcoming book,{' '}
+              <em>
+                The Working Musician's Playbook: The step-by-step guide to
+                achieving a fulfilling career as a freelance&nbsp;musician.
+              </em>
+            </p>
+            <Form />
+          </div>
         </div>
       </section>
       <section className="About">
