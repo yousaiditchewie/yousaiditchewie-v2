@@ -3,7 +3,9 @@ templateKey: blog-post
 title: How musicians can grow their audience with content marketing
 date: 2020-01-14T17:52:55.648Z
 description: >-
-  The Internet is your music venue. Let me show you how you can always have an audience by generating valuable content. Here's a time-tested plan to grow your fanbase.
+  The Internet is your music venue. Let me show you how you can always have an
+  audience by generating valuable content. Here's a time-tested plan to grow
+  your fanbase.
 featuredpost: true
 featuredimage: /img/grow-your-audience-with-content-marketing.jpeg
 tags:
@@ -11,7 +13,6 @@ tags:
   - music
   - marketing
 ---
-
 ## What is content marketing?
 
 I didn't study marketing in school or get a degree in communications or whatever the kids call it these days. I got a music degree, and I really wish I hadn’t. You can read [my story](/blog/short-story-long/) if you’re really interested.
@@ -20,7 +21,7 @@ I didn't study marketing in school or get a degree in communications or whatever
 
 However, after transitioning my career from studio/session drummer to software engineer, I learned a lot about how the Internet works and how to use it to grow a following. Have you ever wondered how it’s possible to make a career out of blogging?
 
-> Insta-famous? **_ew_**.
+> Insta-famous? _**ew**_.
 
 _Like what is a public figure anyway? How does one get into public figuring?_
 
@@ -106,7 +107,7 @@ Blogs are the perfect platform for content that is optimized for search engines.
 
 **Whitespace** is the marketing term used to describe people who find your content that have no previous relationship with you, and do not know who you are (ie. strangers on the web).
 
-> Your friends are cool, but do you give you money?
+> Your friends are cool, but do they give you money?
 
 An example of how a blog could benefit a songwriter or a band could be reviewing newly released music. Talk about the genre, talk about the recording quality, talk about the lyrics, **just talk about it**. Do it every Friday when new music comes out. Stay up till midnight (East Coast time), pick an album, and immediately blog about it.
 
@@ -122,7 +123,7 @@ Whatever it is you’re doing, you should teach others how to do it too. Teachin
 
 Are you an instrumentalist? Share a pro tip or show how you learned a challenging section of a song. Are you a songwriter? Share your inspiration for a song you wrote and highlight a section of the song that surprised you when you wrote it. Are you a music producer? Give away all of your secrets for the perfect vocal track.
 
-_**HINT:**_ Most of the examples I just listed are great candidates for Youtube videos. Make a short video, and **write out some video notes** that link to other resources. Having **written** content on your Youtube videos makes them more search-friendly.
+**_HINT:_** Most of the examples I just listed are great candidates for Youtube videos. Make a short video, and **write out some video notes** that link to other resources. Having **written** content on your Youtube videos makes them more search-friendly.
 
 ## You have an audience, now what?
 
