@@ -21,7 +21,7 @@ I didn't study marketing in school or get a degree in communications or whatever
 
 However, after transitioning my career from studio/session drummer to software engineer, I learned a lot about how the Internet works and how to use it to grow a following. Have you ever wondered how it’s possible to make a career out of blogging?
 
-> Insta-famous? _**ew**_.
+> Insta-famous? **_ew_**.
 
 _Like what is a public figure anyway? How does one get into public figuring?_
 
@@ -123,7 +123,7 @@ Whatever it is you’re doing, you should teach others how to do it too. Teachin
 
 Are you an instrumentalist? Share a pro tip or show how you learned a challenging section of a song. Are you a songwriter? Share your inspiration for a song you wrote and highlight a section of the song that surprised you when you wrote it. Are you a music producer? Give away all of your secrets for the perfect vocal track.
 
-**_HINT:_** Most of the examples I just listed are great candidates for Youtube videos. Make a short video, and **write out some video notes** that link to other resources. Having **written** content on your Youtube videos makes them more search-friendly.
+_**HINT:**_ Most of the examples I just listed are great candidates for Youtube videos. Make a short video, and **write out some video notes** that link to other resources. Having **written** content on your Youtube videos makes them more search-friendly.
 
 ## You have an audience, now what?
 
@@ -187,7 +187,7 @@ If your audience is big enough, and you have an opportunity to make a little mon
 
 This strategy will not work overnight, but it is a proven plan for growing an online audience.
 
-> The key to unlocking success with an online marketing stragety is **consistency**.
+> The key to unlocking success with an online marketing strategy is **consistency**.
 
 You _will_ see results over time if you put a plan together and follow through.
 
