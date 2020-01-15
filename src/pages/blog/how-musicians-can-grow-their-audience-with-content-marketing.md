@@ -173,13 +173,13 @@ When you have valuable knowledge that can make people money, people will pay you
 
 A great resource on writing and self-publishing ebooks is [_Authority_ by Nathan Barry](https://nathanbarry.com/authority/)
 
-What’s great about this book is is gives practical step-by-step instructions for building an audience, writing meaningful content, publishing your work, and maximizing your sales. I _highly_ recommend this book.
+What’s great about this book is it gives practical step-by-step instructions for building an audience, writing meaningful content, publishing your work, and maximizing your sales. I _highly_ recommend this book.
 
 ### 4. Promote products through an affiliate program.
 
 This is not the best, or even my favorite, but it’s worth mentioning because people do it.
 
-There are Ecommerce platforms, such as Amazon, that will give you a cut of a sale if a customer clicks a link form your site to purchase something. Amazon calls it their [affiliate program](https://affiliate-program.amazon.com/). I’m just calling out that it exists. Look it up and see if it’s something you’re into.
+There are Ecommerce platforms, such as Amazon, that will give you a cut of a sale if a customer clicks a link from your site to purchase something. Amazon calls it their [affiliate program](https://affiliate-program.amazon.com/). I’m just calling out that it exists. Look it up and see if it’s something you’re into.
 
 If your audience is big enough, and you have an opportunity to make a little money by mentioning a product you like, then you could definitely give it a try.
 
