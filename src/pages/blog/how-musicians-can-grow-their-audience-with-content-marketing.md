@@ -21,7 +21,7 @@ I didn't study marketing in school or get a degree in communications or whatever
 
 However, after transitioning my career from studio/session drummer to software engineer, I learned a lot about how the Internet works and how to use it to grow a following. Have you ever wondered how it’s possible to make a career out of blogging?
 
-> Insta-famous? **_ew_**.
+> Insta-famous? _**ew**_.
 
 _Like what is a public figure anyway? How does one get into public figuring?_
 
@@ -41,7 +41,7 @@ I got HubSpot certified at the marketing agency that gave me my first real devel
 
 ## How can content marketing help musicians?
 
-This blog is for anyone who will read it, but my intended audience is the freelance musician (guitar, bass, drums, keys, vocals), songwriter, recording engineer, ect. — basically, the makers of music. I constatnly heard that being a musician is **not** a viable career choice, and I’ll need to get a real job.
+This blog is for anyone who will read it, but my intended audience is the freelance musician (guitar, bass, drums, keys, vocals), songwriter, recording engineer, ect. — basically, the makers of music. I constantly heard that being a musician is **not** a viable career choice, and I’ll need to get a real job.
 
 If you’re the type of person who wants to make a sustainable, lucrative career out of music, hear this.
 
@@ -123,11 +123,11 @@ Whatever it is you’re doing, you should teach others how to do it too. Teachin
 
 Are you an instrumentalist? Share a pro tip or show how you learned a challenging section of a song. Are you a songwriter? Share your inspiration for a song you wrote and highlight a section of the song that surprised you when you wrote it. Are you a music producer? Give away all of your secrets for the perfect vocal track.
 
-_**HINT:**_ Most of the examples I just listed are great candidates for Youtube videos. Make a short video, and **write out some video notes** that link to other resources. Having **written** content on your Youtube videos makes them more search-friendly.
+**_HINT:_** Most of the examples I just listed are great candidates for Youtube videos. Make a short video, and **write out some video notes** that link to other resources. Having **written** content on your Youtube videos makes them more search-friendly.
 
 ## You have an audience, now what?
 
-There are plenty of ways to generate income after growing an audience. Some are pretty obvious, and others are more sublte. **None of these will make you rich overnight**, but the combination of a few of them might just make you a decent living to help support your dream.
+There are plenty of ways to generate income after growing an audience. Some are pretty obvious, and others are more subtle. **None of these will make you rich overnight**, but the combination of a few of them might just make you a decent living to help support your dream.
 
 ### 1. Spread the word about your album / EP / merch.
 
@@ -143,7 +143,7 @@ Fortunately, streaming services are not the only way to get your music heard. Wh
 
 There is an online service that is designed specifically for creatives and musicians to sell digital products online, and it's called **[Gumroad](https://gumroad.com/)** (I know, random name that tells you nothing about what it is).
 
-There is nothing stopping you from selling your own music direclty to fans in a way that gives you about a 95% profit margin. Gumroad takes 5% for processing each transaction, which, in my opinion, is totally worth it because it takes a lot more technical work than you realize to securely upload a file or folder in a way that blocks people from accessing it until they purchase it. Gumroad does all of that for you, and compared to the profit margins from one stream by one fan on a streaming service, it’s a no-brainer.
+There is nothing stopping you from selling your own music directly to fans in a way that gives you about a 95% profit margin. Gumroad takes 5% for processing each transaction, which, in my opinion, is totally worth it because it takes a lot more technical work than you realize to securely upload a file or folder in a way that blocks people from accessing it until they purchase it. Gumroad does all of that for you, and compared to the profit margins from one stream by one fan on a streaming service, it’s a no-brainer.
 
 If I were going to release an album (and maybe I will sometime), I would not only get it on every streaming platform I could, but I’d also come up with a bonus package that includes stems, samples, loops, instrument tracks, album artwork and liner notes, and just about anything else I could think of bundling with it, and sell it for significantly higher than the cost of the album itself. By doing so, I’d be increasing the value of my product, and increasing the potential to make money from my hard work and creativity.
 
@@ -153,7 +153,7 @@ Once you’ve built an audience with a content marketing strategy, you’re able
 
 I follow a lot of drummers on Instagram, and I’m consistently inspired by a drummer named [Dan Bailey](https://www.instagram.com/drichardbailey/). He’s played with some artists you’ve heard of and some you haven’t. He has a decently sized following, and he's always busy.
 
-Occaisionally, when he returns home from a tour, he’ll make a simple post that says he’s back and available for session work.
+Occasionally, when he returns home from a tour, he’ll make a simple post that says he’s back and available for session work.
 
 > It’s so crazy, it just might work.
 
