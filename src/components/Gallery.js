@@ -5,13 +5,12 @@ import { Link } from 'gatsby';
 const GalleryThumbnail = ({ item, idx }) => {
   return (
     <Link to={item.linkUrl} className="Gallery-image">
-      {/* <div className="Gallery-image"> */}
       <div
         id={`gallery-image-${idx + 1}`}
         key={idx}
         className="Gallery-thumbnail"
         style={{
-          backgroundImage: `url(.${item.image.childImageSharp.fluid.src})`,
+          backgroundImage: `url(${item.image.childImageSharp.fluid.src})`,
           backgroundSize: 'cover',
           backgroundPosition: 'center',
           backgroundRepeat: 'no-repeat'
@@ -19,7 +18,6 @@ const GalleryThumbnail = ({ item, idx }) => {
       >
         <div className="Gallery-thumbnailFrame" />
       </div>
-      {/* </div> */}
     </Link>
   );
 };
