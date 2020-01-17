@@ -56,7 +56,7 @@ collections:
             }
           - { label: 'Title', name: 'title', widget: 'string' }
           - { label: 'Body', name: 'body', widget: 'markdown' }
-      - file: 'src/pages/about/index.md'
+      - file: 'src/pages/instagram/index.md'
         label: 'Instagram'
         name: 'instagram'
         fields:

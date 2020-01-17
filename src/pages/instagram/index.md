@@ -2,10 +2,7 @@
 templateKey: instagram-page
 title: Instagram | @yousaiditchewie
 gallery:
-  - linkUrl: 'https://google.com'
+  - linkUrl: '/blog/how-musicians-can-grow-their-audience-with-content-marketing'
     altText: 'Credit: Natasha Wilson | @deanastacia'
-    image: /img/how-to-grow-your-audience-with-content-marketing.jpeg
-  - linkUrl: 'https://google.com'
-    altText: 'Credit: Natasha Wilson | @deanastacia'
-    image: /img/how-to-grow-your-audience-with-content-marketing.jpeg
+    image: /img/content-marketing-link-image.jpg
 ---
