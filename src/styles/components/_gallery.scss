@@ -1,0 +1,47 @@
+@import '../base/colors';
+@import '../base/breakpoints';
+
+.Gallery {
+  position: relative;
+  padding: 1rem;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+
+  &-image {
+    margin: 0.5rem 0.5rem 1.5rem 0.5rem;
+    width: calc(100% - 1rem);
+
+    @media (min-width: $tablet) {
+      width: calc(50% - 1rem);
+    }
+
+    @media (min-width: $portable) {
+      width: calc(33.333% - 1rem);
+    }
+  }
+
+  &-thumbnail {
+    box-shadow: $card-depth;
+    position: relative;
+    transition: box-shadow 0.25s ease-out;
+
+    @media (any-hover: hover) {
+      &:hover {
+        box-shadow: $card-hover;
+      }
+    }
+
+    &:after {
+      content: '';
+      display: block;
+      padding-bottom: 100%;
+    }
+
+    &Frame {
+      position: absolute;
+      width: 100%;
+      height: 100%;
+    }
+  }
+}
