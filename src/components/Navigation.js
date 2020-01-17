@@ -17,6 +17,7 @@ const Navigation = () => {
     const pathName = window.location.pathname.replace('/', '');
     switch (pathName) {
       case 'about':
+      case 'instagram':
       case 'blog':
         return pathName;
       case '':

@@ -9,9 +9,6 @@
 @import 'base/typography';
 @import 'base/container';
 
-$card-depth: 0 9px 20px -3px rgba(40, 40, 60, 0.15);
-$viewport-height-minus-navigation: calc(100vh - 82px);
-$container-padding: 1.25rem;
 // utilities and helpers
 @import 'utilities';
 
@@ -24,6 +21,7 @@ $container-padding: 1.25rem;
 @import 'components/blog-cta';
 @import 'components/subscribe-form';
 @import 'components/tags';
+@import 'components/gallery';
 
 // pages
 @import 'pages/home';

@@ -1,1 +1,6 @@
+$card-depth: 0 9px 20px -3px rgba(40, 40, 60, 0.15);
+$card-hover: 0px 17px 13px -3px rgba(40, 40, 60, 0.15);
+$viewport-height-minus-navigation: calc(100vh - 82px);
+$container-padding: 1.25rem;
+
 @import './utilities/card';

@@ -56,6 +56,28 @@ collections:
             }
           - { label: 'Title', name: 'title', widget: 'string' }
           - { label: 'Body', name: 'body', widget: 'markdown' }
+      - file: 'src/pages/about/index.md'
+        label: 'Instagram'
+        name: 'instagram'
+        fields:
+          - {
+              label: 'Template Key',
+              name: 'templateKey',
+              widget: 'hidden',
+              default: 'instagram-page',
+            }
+          - { label: 'Title', name: 'title', widget: 'string' }
+          - {
+              label: Gallery,
+              name: gallery,
+              widget: list,
+              fields:
+                [
+                  { label: Link URL, name: linkUrl, widget: string },
+                  { label: Image, name: image, widget: image },
+                  { label: Alt Text, name: altText, widget: string },
+                ],
+            }
       - file: 'src/pages/products/index.md'
         label: 'Products Page'
         name: 'products'
