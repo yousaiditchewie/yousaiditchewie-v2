@@ -9,13 +9,11 @@ description: >-
 featuredpost: false
 featuredimage: /img/hybrid-drumming.jpeg
 tags:
-  - Nothing
+  - Career
 ---
-
-
 [Jon Matteson](https://instagram.com/jonmatteson) and [Christian Paschall](https://instagram.com/christianpaschall) are two drummers on the leading edge of hybrid drumming. They each talked about the tools they use and insights into their approach. 
 
-One thing I especially appreciated about the event was that these two drummers tend to operate at different ends of the hybrid drumming spectrum.  Jon, being a pop drummer, leans heavily on his electronics, while Christian, being a country/pop drummer, is on the lighter side of hybrid drumming. However, there is a lot of crossover within their respective toolsets.
+One thing I especially appreciated about the event was that these two drummers tend to operate at different ends of the hybrid drumming spectrum.  Jon, being a pop drummer, leans heavily on his electronics, while Christian, being a country/pop drummer, uses fewer triggers. However, there is a lot of crossover within their respective toolsets.
 
 Here are my three takeaways from the evening.
 
@@ -34,4 +32,3 @@ The two talked a lot about having a redundant setup. This means that if their co
 ## My final thoughts
 
 I've been into hybrid drumming for a while, and if you're intimidated by the price tag that comes along with it, my advice is to start small. I've played massive venues running on a MacBook Pro with Ableton Live, MIDI triggers, audio interfaces and the whole nine yards.  I've also triggered sounds from my phone using [Reason's Figure app](https://www.reasonstudios.com/mobile-apps) coming out of the built-in headphone jack. Get experimental, and find small ways to incorporate something digital into your all acoustic setup.
-
