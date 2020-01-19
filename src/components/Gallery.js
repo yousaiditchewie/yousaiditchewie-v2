@@ -24,7 +24,7 @@ const GalleryThumbnail = ({ item, idx }) => {
 
 const Gallery = ({ imageList }) => (
   <div className="Gallery">
-    {imageList.map((item, idx) => (
+    {imageList.reverse().map((item, idx) => (
       <GalleryThumbnail key={idx} item={item} idx={idx} />
     ))}
   </div>
@@ -34,7 +34,7 @@ Gallery.propTypes = {
   imageList: PropTypes.arrayOf(
     PropTypes.shape({
       image: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
-      altText: PropTypes.string
+      title: PropTypes.string
     })
   )
 };

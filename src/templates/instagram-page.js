@@ -20,6 +20,15 @@ const InstagramPage = ({ data }) => {
   const { markdownRemark: post } = data;
   return (
     <Layout>
+      <h1
+        className="container"
+        style={{
+          fontSize: '1rem',
+          textAlign: 'center'
+        }}
+      >
+        Click an image to read more.
+      </h1>
       <InstagramPageTemplate gallery={post.frontmatter.gallery} />
     </Layout>
   );
@@ -43,7 +52,7 @@ export const InstagramPageQuery = graphql`
               }
             }
           }
-          altText
+          title
           linkUrl
         }
       }
