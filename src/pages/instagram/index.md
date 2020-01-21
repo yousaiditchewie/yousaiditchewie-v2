@@ -2,11 +2,14 @@
 templateKey: instagram-page
 title: Instagram | @yousaiditchewie
 gallery:
-  - title: How Musicians Can Grow Their Audience With
-      Content Marketing
-    image: /img/content-marketing-link-image.jpg
+  - image: /img/content-marketing-link-image.jpg
     linkUrl: /blog/how-musicians-can-grow-their-audience-with-content-marketing
-  - title: Hybrid drumming for the modern age
-    image: /img/hybrid-drumming-in-the-modern-age.jpg
+    title: How Musicians Can Grow Their Audience With Content Marketing
+  - image: /img/hybrid-drumming-in-the-modern-age.jpg
     linkUrl: /blog/hybrid-drumming-in-the-modern-age
+    title: Hybrid drumming for the modern age
+  - image: /img/songwriting-3-square.jpeg
+    linkUrl: /blog/how-to-make-money-as-an-independend-songwriter/
+    title: How to make money as an independent songwriter
 ---
+
