@@ -12,8 +12,6 @@ tags:
   - marketing
 ---
 
-![Space Drummer](/img/how-to-make-money-as-an-independent-songwriter.jpeg)
-
 Being an independent musician can be a challenging career endeavor, especially since there isn’t a clear path into making money doing it. But the good news is we live in the 21st century, and there has never been a better time to be a musician.
 
 What’s really interesting about being a songwriter is that there are more opportunities to sell your music today than there were five, ten, or fifteen years ago. With the exponential growth of digital media and online content, there is exponential need for fresh songs to enhance those experiences.
@@ -105,5 +103,7 @@ The more songs you write, the better you’ll get at song writing, and the more 
 🤯
 
 If you’re predominantly an instrumentalist, like a drummer or a guitarist, just try it out and see if you surprise yourself with what you can write. If you can "finish" a song, no matter the quality, you’ll be inspired to write another, and trust me, you’ll get better and better. Even if it’s only instrumental music, there’s plenty of need for instrumental music for film, TV, video games, and apps.
+
+Another perk of being able to write songs, even as an instrumentalist, is that you can showcase your skills with your own music. My early gigs in LA were largely due to the fact that I had music to show people where I was the drummer. I can’t give _all_ the credit to my songwriting skills, but I at least had original music to show people where it was _me_ playing the drums.
 
 I’d love to hear your thoughts on this topic. Tweet me [@yousaiditchewie](https://twitter.com/yousaiditchewie), and sign up for my mailing list below to receive more content like this.
