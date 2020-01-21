@@ -80,7 +80,7 @@ The sync royalty is highly sought-after these days, and rightfully so. Getting a
 
 All a songwriter has to do is come up with a mutually beneficial agreement with a filmmaker, studio, or network, and all the sudden, the song’s success is married to the success of the video (and in case you didn’t know, the entertainment industry hates losing money).
 
-Ok, so before that can happen, you have to write an amazing song, make sure the right people hear it, and know how much money is _fair_ for you to make from it. I’m not the expert in writing hit songs, but I wrote an article on [how to market your music independently](####) that can help you get your music in front of the right people.
+Ok, so before that can happen, you have to write an amazing song, make sure the right people hear it, and know how much money is _fair_ for you to make from it. I’m not the expert in writing hit songs, but I wrote an article on [how to market your music independently](https://www.yousaiditchewie.com/blog/how-musicians-can-grow-their-audience-with-content-marketing/) that can help you get your music in front of the right people.
 
 ### Online licensing services are growing in popularity
 
