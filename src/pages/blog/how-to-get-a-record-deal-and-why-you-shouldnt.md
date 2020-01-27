@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: How to get a record deal and why you shouldn’t
-date: 2019-08-26T17:52:55.648Z
+date: 2020-01-28T17:52:55.648Z
 description: >-
   The music industry has changed, but there is still a path to getting noticed by a record label. Here’s a guide to getting a record deal and reasons why you’re better off without one.
 featuredpost: true
@@ -11,8 +11,6 @@ tags:
   - music
   - marketing
 ---
-
-![Space Drummer](/img/how-to-get-a-record-deal-and-why-you-shouldnt.jpeg)
 
 When I was a teenager, I was in in a grunge/punk/church band. Our identity was a work in progress, obviously. We couldn’t land on a creative direction, but we all had hopes of getting signed by a record label. Our lead singer would say "once I get a Taylor guitar, we’ll get signed."
 
@@ -116,7 +114,7 @@ Next, you’ll need to mix and master your recordings. If you don’t know what 
 
 If the thought of it sounds daunting, or you’re not happy with your results, this is the part where you may actually want to hire a mixing/mastering engineer to get your recordings across the finish line.
 
-After you’ve got masters of your recordings, you’re nearly on your way to making some money from them. At this point, you can and should put them on any paid streaming service out there. But do not expect to make a fortune unless you have a massive following that will stream your music. I mentioned in a previous post about the most lucrative [music careers](###) that streaming services typically pay between $0.004 and $0.01 per stream. Just do a little math, and you’ll find that you need millions of streams just to make a decent wage.
+After you’ve got masters of your recordings, you’re nearly on your way to making some money from them. At this point, you can and should put them on any paid streaming service out there. But do not expect to make a fortune unless you have a massive following that will stream your music. I mentioned in a previous post about [how independent songwriters can make money](/blog/how-to-make-money-as-an-independend-songwriter/) that streaming services typically pay between $0.004 and $0.01 per stream. Just do a little math, and you’ll find that you need millions of streams just to make a decent wage.
 
 Another sales channel you have available to you is the Internet, and you should utilize it to its full potential.
 
@@ -146,9 +144,9 @@ Let’s look at some of the numbers. Maybe you work really hard on growing your 
 
 Ok, let's keep going, and I’ll use some realistic online marketing numbers. Let’s take that same 10,000 followers and market a $50 bundle to them. Statistically, if 1% of your following converts, you’re doing great — that’s 100 people buying a $50 bundle.
 
-> \$500
+> \$5,000
 
-If that makes sense, and you’d like to try self-publishing your own music and digital bundles, spin up a simple website with Wordpress and hook it up to [Gumroad](https://gumroad.com/) for your digital product hosting and payment processing.
+If that makes sense, and you’d like to try self-publishing your own music and digital products, spin up a simple website with Wordpress and hook it up to [Gumroad](https://gumroad.com/) for your digital product hosting and payment processing.
 
 By doing this, you’ll demonstrate to a record label that you can take ownership of your own sales and marketing channels, and get results.
 
@@ -162,7 +160,7 @@ The best way to do this is to demonstrate that you can grow a substantial fan fo
 
 > If you give your fans what they want, they’ll give you what you need.
 
-Not to say you shouldn’t write hit songs, but if you hide away for a long time and immerge from the shadows with a hit song, **no one will care**.
+Not to say you shouldn’t write hit songs, but if you hide away for a long time and emerge from the shadows with a hit song, **no one will care**.
 
 > **You must have an audience for your music to take off.**
 
@@ -176,7 +174,7 @@ I’ve got great news for you. You have the ability start a marketing campaign o
 
 > You have the ability to turn your creativity into marketing content.
 
-I recently wrote an article on [how to grow your audience with content marketing](####), so check it out to go deeper. But here are the basics:
+I recently wrote an article on [how to grow your audience with content marketing](/blog/how-musicians-can-grow-their-audience-with-content-marketing/), so check it out to go deeper. But here are the basics:
 
 #### 1. Teach what you know
 
@@ -184,7 +182,7 @@ Educational content doubles as great marketing content. It makes your content _d
 
 #### 2. Establish a posting schedule for social media and stick to it
 
-Social media algorithms favor consistency, **so post often, and make your posts _engaging_**. Avoid overloading your feed with lifestyle shots of you looking cool playing music, at least at first. People engage with posts that provide value, so find a way to incorporate educational content into your social media posts. Using appropriate hashtags and tagging other accounts can make your posts more discoverable, but it’s meaningful content that will entice and engage people once they find you.
+Social media algorithms favor consistency and engagement, **so post often, and make your posts _engaging_**. Avoid overloading your feed with lifestyle shots of you looking cool playing music, at least at first. People engage with posts that provide value, so find a way to incorporate educational content into your social media posts. Using appropriate hashtags and tagging other accounts can make your posts more discoverable, but it’s meaningful content that will entice and engage people once they find you.
 
 #### 3. Use your platform to sell your products or services
 
