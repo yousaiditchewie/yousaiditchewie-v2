@@ -3,7 +3,9 @@ templateKey: blog-post
 title: How to get a record deal and why you shouldn’t
 date: 2020-01-28T17:52:55.648Z
 description: >-
-  The music industry has changed, but there is still a path to getting noticed by a record label. Here’s a guide to getting a record deal and reasons why you’re better off without one.
+  The music industry has changed, but there is still a path to getting noticed
+  by a record label. Here’s a guide to getting a record deal and reasons why
+  you’re better off without one.
 featuredpost: true
 featuredimage: /img/how-to-get-a-record-deal-and-why-you-shouldnt.jpeg
 tags:
@@ -64,15 +66,11 @@ You might be thinking, "wait, I thought the point was to have a record label pay
 
 First of all, if you wait for a record deal before you start recording an album, you’re doing a disservice to yourself and your fans. When a label pays for an album, it’s on their timeline, has to meet their standards, and may never even see the light of day. Not to mention, they’ll own a percentage, if not all, of your masters, meaning _they_ decide when and how your music is released.
 
-Do you want that to happen to your music? **Of course not!**
+Do you want that to happen to your music? **Of course not!** But there is a better way.
 
-> There is a better way!
+Do you have any idea how much the average album costs to make? Me either, and it doesn't matter.
 
-Do you have any idea how much the average album costs to make?
-
-**Me either.**
-
-And it doesn’t really matter because a record can be made on any budget.
+> **Trick fact:** A record can be made on any budget!
 
 Here are some common costs that go into making an album:
 
