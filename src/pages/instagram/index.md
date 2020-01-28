@@ -11,5 +11,8 @@ gallery:
   - image: /img/songwriting-3-square.jpeg
     linkUrl: /blog/how-to-make-money-as-an-independend-songwriter/
     title: How to make money as an independent songwriter
+  - image: /img/how-to-get-a-record-deal.jpg
+    linkUrl: /blog/how-to-get-a-record-deal-and-why-you-shouldnt/
+    title: How to get a record deal and why you shouldn't
 ---
 
