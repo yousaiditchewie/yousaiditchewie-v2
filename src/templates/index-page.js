@@ -43,12 +43,14 @@ export const IndexPageTemplate = ({
       </section>
 
       <section id="lava-boots" className="LavaBoots container">
+        <h2>Lava Boots</h2>
+        <p>I </p>
         <div
           class="gumroad-product-embed"
           data-gumroad-product-id="HqUcV"
           data-outbound-embed="true"
         >
-          <a href="https://gumroad.com/l/HqUcV">Loading...</a>
+          <a href="https://gumroad.com/l/HqUcV">Buy it now</a>
         </div>
       </section>
 

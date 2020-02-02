@@ -48,7 +48,7 @@ const TemplateWrapper = ({ children }) => {
         <html lang="en" />
         <title>{title}</title>
         <meta name="description" content={description} />
-
+        <script src="https://gumroad.com/js/gumroad.js"></script>
         <link
           rel="apple-touch-icon"
           sizes="180x180"
