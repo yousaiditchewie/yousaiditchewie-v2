@@ -14,5 +14,8 @@ gallery:
   - image: /img/how-to-get-a-record-deal.jpg
     linkUrl: /blog/how-to-get-a-record-deal-and-why-you-shouldnt/
     title: How to get a record deal and why you shouldn't
+  - image: /img/how-to-make-money-as-a-producer.jpg
+    linkUrl: /blog/how-to-make-money-as-a-music-producer/
+    title: How to make money as a music producer
 ---
 
