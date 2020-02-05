@@ -8,6 +8,11 @@ heading: yousaiditchewie
 subheading: >-
   Hi, my name is Jacob Allen. I’m a musician, software engineer, and author from
   Nashville, TN.
+productCtaText: Listen and Buy
+productList:
+  - name: Lava Boots
+    description: This siq beet is so siq yo
+    id: HqUcV
 ---
 
 ## Long story short
