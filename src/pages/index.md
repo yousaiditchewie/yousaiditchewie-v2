@@ -10,9 +10,16 @@ subheading: >-
   Nashville, TN.
 productCtaText: Listen and Buy
 productList:
-  - description: Finding resonant frequencies in a djembe inspired me to make this beat.
+  - description: >-
+      A dark, down-tempo beat inspired by finding resonant frequencies in a
+      djembe.
     id: HqUcV
     name: Lava Boots
+  - description: >-
+      A lively, uptempo collection inspired by processing the sound of hitting
+      two flip flops together.
+    id: tqptp
+    name: Flip Flop
 ---
 
 ## Long story short
