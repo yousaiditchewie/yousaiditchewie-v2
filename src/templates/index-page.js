@@ -49,10 +49,10 @@ export const IndexPageTemplate = ({
           <div className="Products-intro">
             <h2>Loop Packs</h2>
             <p>
-              Over the years, I’ve recorded and composed a collection of beats
-              and loops for recordings I’ve engineered or produced. They’re all
-              USDA Certified Organic loops made with real recorded sounds, so
-              you know they’re good.
+              Over the years, I’ve compiled a collection of beats and loops for
+              recordings I’ve engineered or produced. They’re all USDA Certified
+              Organic loops made with real recorded sounds, so you know they’re
+              good.
             </p>
           </div>
           <div className="Products-list">
