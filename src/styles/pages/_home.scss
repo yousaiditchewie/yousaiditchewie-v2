@@ -72,21 +72,55 @@ section {
 
 .Products {
   padding: $vertical-spacing 0;
-  background: $blue;
+  background: $smoke;
   color: $white;
 
-  a {
-    padding: 0.5rem 1.25rem;
-    border: 1px solid $platinum;
-    text-decoration: none;
-    color: $platinum;
-    font-weight: 900;
-    font-size: 105%;
-    transition: all 0.2s ease-out;
+  &-intro {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+  }
 
-    @media (any-hover: hover) {
-      &:hover {
-        background: $dark-blue;
+  &-list {
+    @media (min-width: $portable) {
+      display: flex;
+      flex-flow: row wrap;
+      padding: 0;
+    }
+  }
+
+  .Product {
+    background: $platinum;
+    box-shadow: $card-depth;
+    color: $smoke;
+    margin-bottom: 1rem;
+    padding: 1rem;
+
+    @media (min-width: $portable) {
+      display: inline-block;
+      flex: 0 0 1;
+      flex-basis: auto;
+      vertical-align: top;
+      width: calc(50% - 2.5rem);
+      height: 100%;
+      margin-right: $container-padding;
+      margin-left: $container-padding;
+    }
+
+    a {
+      display: inline-block;
+      padding: 0.5rem 1.25rem;
+      text-decoration: none;
+      color: $platinum;
+      background: $blue;
+      font-weight: 900;
+      font-size: 105%;
+      transition: all 0.2s ease-out;
+
+      @media (any-hover: hover) {
+        &:hover {
+          background: $dark-blue;
+        }
       }
     }
   }

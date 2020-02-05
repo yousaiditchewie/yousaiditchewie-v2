@@ -14,7 +14,9 @@ export const IndexPageTemplate = ({
   subheading,
   content,
   contentComponent,
-  image
+  image,
+  productCtaText,
+  productList
   // mainpitch,
   // description,
   // intro,
@@ -44,21 +46,30 @@ export const IndexPageTemplate = ({
 
       <section id="products" className="Products">
         <div className="Products-container container">
-          <h2>Loop Packs</h2>
-          <p>
-            Over the years, I’ve recorded and composed a collection of beats and
-            loops for recordings I’ve engineered or produced. They’re all USDA
-            Certified Organic loops made with real recorded sounds, so you know
-            they’re good.
-          </p>
-          <div className="Product-list">
-            <div
-              class="gumroad-product-embed"
-              data-gumroad-product-id="HqUcV"
-              data-outbound-embed="true"
-            >
-              <a href="https://gumroad.com/l/HqUcV">Preview or Buy</a>
-            </div>
+          <div className="Products-intro">
+            <h2>Loop Packs</h2>
+            <p>
+              Over the years, I’ve recorded and composed a collection of beats
+              and loops for recordings I’ve engineered or produced. They’re all
+              USDA Certified Organic loops made with real recorded sounds, so
+              you know they’re good.
+            </p>
+          </div>
+          <div className="Products-list">
+            {productList.map(item => (
+              <div
+                key={item.id}
+                class="Product gumroad-product-embed"
+                data-gumroad-product-id={item.id}
+                data-outbound-embed="true"
+              >
+                <h4>{item.name}</h4>
+                <p>{item.description}</p>
+                <a href={`https://gumroad.com/l/${item.id}`}>
+                  {productCtaText}
+                </a>
+              </div>
+            ))}
           </div>
         </div>
       </section>
@@ -87,6 +98,14 @@ export const IndexPageTemplate = ({
 IndexPageTemplate.propTypes = {
   heading: PropTypes.string,
   subheading: PropTypes.string,
+  productCtaText: PropTypes.string,
+  productList: PropTypes.arrayOf(
+    PropTypes.shape({
+      name: PropTypes.string,
+      description: PropTypes.string,
+      id: PropTypes.string
+    })
+  ),
   image: PropTypes.oneOfType([PropTypes.object, PropTypes.string])
 };
 
@@ -99,6 +118,8 @@ const IndexPage = ({ data }) => {
         image={frontmatter.image}
         heading={frontmatter.heading}
         subheading={frontmatter.subheading}
+        productCtaText={frontmatter.productCtaText}
+        productList={frontmatter.productList}
         contentComponent={HTMLContent}
         content={html}
       />
@@ -119,6 +140,12 @@ export const pageQuery = graphql`
       frontmatter {
         heading
         subheading
+        productCtaText
+        productList {
+          name
+          description
+          id
+        }
         image {
           childImageSharp {
             fluid(maxWidth: 1920, quality: 92) {
