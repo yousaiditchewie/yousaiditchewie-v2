@@ -10,9 +10,9 @@ subheading: >-
   Nashville, TN.
 productCtaText: Listen and Buy
 productList:
-  - name: Lava Boots
-    description: This siq beet is so siq yo
+  - description: Finding resonant frequencies in a djembe inspired me to make this beat.
     id: HqUcV
+    name: Lava Boots
 ---
 
 ## Long story short
