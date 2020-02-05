@@ -62,10 +62,14 @@ export const IndexPageTemplate = ({
                 class="Product gumroad-product-embed"
                 data-gumroad-product-id={item.id}
                 data-outbound-embed="true"
+                data-gumroad-single-product="true"
               >
-                <h4>{item.name}</h4>
-                <p>{item.description}</p>
-                <a href={`https://gumroad.com/l/${item.id}`}>
+                <h3 className="Product-name">{item.name}</h3>
+                <p className="Product-description">{item.description}</p>
+                <a
+                  className="Product-link"
+                  href={`https://gumroad.com/l/${item.id}`}
+                >
                   {productCtaText}
                 </a>
               </div>

@@ -13,15 +13,6 @@ productList:
   - name: Lava Boots
     description: This siq beet is so siq yo
     id: HqUcV
-  - name: Lava Boots
-    description: This siq beet is so siq yo
-    id: HqUcV
-  - name: Lava Boots
-    description: This siq beet is so siq yo
-    id: HqUcV
-  - name: Lava Boots
-    description: This siq beet is so siq yo
-    id: HqUcV
 ---
 
 ## Long story short
