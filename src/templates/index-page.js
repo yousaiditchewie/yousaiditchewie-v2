@@ -42,18 +42,26 @@ export const IndexPageTemplate = ({
         </div>
       </section>
 
-      <section id="lava-boots" className="LavaBoots container">
-        <h2>Lava Boots</h2>
-        <p>I </p>
-        <div
-          class="gumroad-product-embed"
-          data-gumroad-product-id="HqUcV"
-          data-outbound-embed="true"
-        >
-          <a href="https://gumroad.com/l/HqUcV">Buy it now</a>
+      <section id="products" className="Products">
+        <div className="Products-container container">
+          <h2>Loop Packs</h2>
+          <p>
+            Over the years, I’ve recorded and composed a collection of beats and
+            loops for recordings I’ve engineered or produced. They’re all USDA
+            Certified Organic loops made with real recorded sounds, so you know
+            they’re good.
+          </p>
+          <div className="Product-list">
+            <div
+              class="gumroad-product-embed"
+              data-gumroad-product-id="HqUcV"
+              data-outbound-embed="true"
+            >
+              <a href="https://gumroad.com/l/HqUcV">Preview or Buy</a>
+            </div>
+          </div>
         </div>
       </section>
-
       <section className="About">
         <div className="About-container container">
           <div className="Card">

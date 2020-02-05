@@ -4,17 +4,17 @@
   @media (min-width: $tablet) {
     padding-top: $vertical-spacing--small;
   }
+}
 
-  section {
-    // min-height: 100vh;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    color: $smoke;
+section {
+  // min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: $smoke;
 
-    @media (min-width: $tablet) {
-      // min-height: $viewport-height-minus-navigation;
-    }
+  @media (min-width: $tablet) {
+    // min-height: $viewport-height-minus-navigation;
   }
 }
 
@@ -67,6 +67,28 @@
 
   .Form {
     justify-content: center;
+  }
+}
+
+.Products {
+  padding: $vertical-spacing 0;
+  background: $blue;
+  color: $white;
+
+  a {
+    padding: 0.5rem 1.25rem;
+    border: 1px solid $platinum;
+    text-decoration: none;
+    color: $platinum;
+    font-weight: 900;
+    font-size: 105%;
+    transition: all 0.2s ease-out;
+
+    @media (any-hover: hover) {
+      &:hover {
+        background: $dark-blue;
+      }
+    }
   }
 }
 
