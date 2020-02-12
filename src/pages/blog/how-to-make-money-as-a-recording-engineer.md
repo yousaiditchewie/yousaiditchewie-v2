@@ -9,14 +9,11 @@ featuredimage: /img/how-to-make-money-as-a-recording-engineer.jpeg
 tags:
   - career
   - music
-  - marketing
 ---
 
 I've been writing a series of articles on how to make money in the modern music industry. It has changed a lot over the last ten years, but it is beginning to stabilize and become much more favorable for freelancers and independent artists. This might seem contradictory to what people are saying about the current state of the music industry, but let me assure you.
 
 > **There has never been a better time to launch a music career**.
-
-If you’re an engineer and have experience with receiving royalties, I want to hear from you. Tweet me [@yousaiditchewie](https://twitter.com/yousaiditchewie)
 
 The modern music industry has been disrupted and decentralized thanks to the internet and the rise of streaming services, social media, and video platforms like Youtube. People are free to choose how they consume your music. Some choose to watch playlists on Youtube, or stream albums on Apple Music, or buy physical LP records on vinyl.
 
@@ -31,6 +28,8 @@ Recording engineers typically work on an hourly or daily rate, so your income as
 > Looks good on paper, but I’ll believe it when I see it.
 
 In most of the recordings I’ve been a part of, there has been little discussion, if any, on what will happen to the recording when it’s finished. In the greater music industry, there are tons of hours spent recording and producing music that will never see the light of day. So engineers, **you need to charge hourly or daily, and where possible, fight to get those royalty checks**.
+
+If you’re an engineer and have experience with receiving royalties, I want to hear from you. Tweet me [@yousaiditchewie](https://twitter.com/yousaiditchewie).
 
 All things considered, a going day rate for an engineer can start around \$150, and the sky is the limit. Please don’t sell yourself short when agreeing to a day rate with a client. In some cases, clients will approach you with a day rate, and there is little room for negotiation. Use your best judgment here to decided if there are other opportunities for career growth in these situations. Other times, clients may ask you your day rate, and here’s where you may be tempted to give a low number to sound appealing. But fight the urge to give a number lower than you’re worth.
 
@@ -53,10 +52,10 @@ You’ll need:
 3. A recording interface
 4. A microphone
 
-Assuming you have a Mac with GarageBand installed, you can learn how to use the software right out of the box. Operating music software is **half** the job of a recording engineer, and a very important one. Learning to use recording software will also give you a basic understanding of how effects plugins and signal processing works. Operating a compressor is not intuitive, so having a list of presets gives you a launchpad for learning.
+Assuming you have a Mac with GarageBand installed, you can learn how to use the software right out of the box. Operating music software is **half** the job of a recording engineer, and a very important one. Learning to use recording software will also give you a basic understanding of how effects plugins and signal processing works. Operating a compressor is not intuitive, so having presets to tinker with gives you a launchpad for learning.
 
 The other half of the job is using your _ears_ to determine if the sounds you’re capturing are the _right_ sounds for the song. This part of the job requires knowing how signal is processed, both digitally and in the analog space, and knowing how to capture quality sound from the _source_ to avoid needing to "fix it in the mix" — an expression that angers me just about as much as a random kit pushing my son over at the playground.
 
 **For someone who has engineering experience**, I recommend sharpening your skills and marketing yourself as a professional recording engineer. When it comes to marketing yourself, I wrote an article about [how to use content marketing to grow your audience](/blog/how-musicians-can-grow-their-audience-with-content-marketing/) that shares resources on how to build a following and monetize your skills. As for sharpening your skills, I recommend that you read <a href="https://www.amazon.com/Mixing-Your-Mind-Closely-Engineering/dp/0646428756/" target="_blank" rel="noopener noreferrer">_Mixing With Your Mind_</a>, a book that will seriously elevate the way you conceptualize capturing audio. It’s published by a company in Australia, so it’s a bit pricy, but I promise it’s worth every penny. If you want to make money as an audio engineer, this book is an investment in your career.
 
-Let’s start a conversation. Tweet me your thoughts [@yousaiditchewie](https://twitter.com/yousaiditchewie), and if you want updates about more content like this, subscribe to my newsletter below.
+I’d love to hear your thoughts. Send me a message or comment on a post at [@yousaiditchewie](https://instagram.com/yousaiditchewie), and if you want updates about more content like this, subscribe to my newsletter below.
