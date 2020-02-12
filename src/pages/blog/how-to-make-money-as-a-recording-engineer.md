@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: How to make money as a recording engineer
-date: 2019-08-26T17:52:55.648Z
+date: 2020-02-12T17:52:55.648Z
 description: >-
   There has never been a better time to launch a music career. Learn how recording engineers can make money and build a sustainable music career.
 featuredpost: true
@@ -11,8 +11,6 @@ tags:
   - music
   - marketing
 ---
-
-![How to make money as a recording engineer](/img/how-to-make-money-as-a-recording-engineer.jpeg)
 
 I've been writing a series of articles on how to make money in the modern music industry. It has changed a lot over the last ten years, but it is beginning to stabilize and become much more favorable for freelancers and independent artists. This might seem contradictory to what people are saying about the current state of the music industry, but let me assure you.
 
@@ -28,7 +26,7 @@ A recording engineer oversees the technical side of making music recordings. Thi
 
 ## How much money can they make?
 
-Recording engineers typically work on an hourly or daily rate, so your income as an engineer is directly tied to how much and how often you work. In the last few years, there has been a bill passed called the [Fair Play Fair Pay Act](https://www.soundexchange.com/advocacy/reintroduction-fair-play-fair-pay-act/) that states engineers are entitled to a 2% performance royalty payed out of the songwriter's payout. My conclusion from the research I’ve done on the topic is it seems nice, but unlike a songwriter, there are rarely advocates for engineers who will act on their behalf to collect appropriate payouts. So unless the engineer has a great relationship with the songwriter, producer, publishing house or record label, it is up to engineers to advocate for themselves when it comes to getting their royalty checks.
+Recording engineers typically work on an hourly or daily rate, so your income as an engineer is directly tied to how much and how often you work. In the last few years, there has been a bill passed called the <a href="https://www.soundexchange.com/advocacy/reintroduction-fair-play-fair-pay-act/" target="_blank" rel="noopener noreferrer">Fair Play Fair Pay Act</a> that states engineers are entitled to a 2% performance royalty payed out of the songwriter's payout. My conclusion from the research I’ve done on the topic is it seems nice, but unlike a songwriter, there are rarely advocates for engineers who will act on their behalf to collect appropriate payouts. So unless the engineer has a great relationship with the songwriter, producer, publishing house or record label, it is up to engineers to advocate for themselves when it comes to getting their royalty checks.
 
 > Looks good on paper, but I’ll believe it when I see it.
 
@@ -59,6 +57,6 @@ Assuming you have a Mac with GarageBand installed, you can learn how to use the 
 
 The other half of the job is using your _ears_ to determine if the sounds you’re capturing are the _right_ sounds for the song. This part of the job requires knowing how signal is processed, both digitally and in the analog space, and knowing how to capture quality sound from the _source_ to avoid needing to "fix it in the mix" — an expression that angers me just about as much as a random kit pushing my son over at the playground.
 
-**For someone who has engineering experience**, I recommend sharpening your skills and marketing yourself as a professional recording engineer. When it comes to marketing yourself, I wrote an article about [how to use content marketing to grow your audience](###) that shares resources on how to build a following and monetize your skills. As for sharpening your skills, I recommend that you read _[Mixing With Your Mind](https://www.amazon.com/Mixing-Your-Mind-Closely-Engineering/dp/0646428756/)_, a book that will seriously elevate the way you conceptualize capturing audio. It’s published by a company in Australia, so it’s a bit pricy, but I promise it’s worth every penny. If you want to make money as an audio engineer, this book is an investment in your career.
+**For someone who has engineering experience**, I recommend sharpening your skills and marketing yourself as a professional recording engineer. When it comes to marketing yourself, I wrote an article about [how to use content marketing to grow your audience](/blog/how-musicians-can-grow-their-audience-with-content-marketing/) that shares resources on how to build a following and monetize your skills. As for sharpening your skills, I recommend that you read <a href="https://www.amazon.com/Mixing-Your-Mind-Closely-Engineering/dp/0646428756/" target="_blank" rel="noopener noreferrer">_Mixing With Your Mind_</a>, a book that will seriously elevate the way you conceptualize capturing audio. It’s published by a company in Australia, so it’s a bit pricy, but I promise it’s worth every penny. If you want to make money as an audio engineer, this book is an investment in your career.
 
 Let’s start a conversation. Tweet me your thoughts [@yousaiditchewie](https://twitter.com/yousaiditchewie), and if you want updates about more content like this, subscribe to my newsletter below.
