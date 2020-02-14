@@ -26,6 +26,11 @@ productList:
       colliding claves across the surface of a djembe.
     id: zTXXB
     name: Freaky Deaky
+  - description: >-
+      Includes all Lava Boots, Flip Flop, and Freaky Deaky loops, plus an
+      assortment of shaker and tambourine loops at various tempos.
+    id: hkAby
+    name: Nasty Pack 1
 ---
 
 ## Long story short
