@@ -21,9 +21,9 @@ productList:
     id: tqptp
     name: Flip Flop
   - description: >-
-      This suspenseful, downbeat loop creates provides ample amounts of tension.
-      This beat is composed of various sounds captured from scraping and
-      colliding claves across the surface of a djembe.
+      This suspenseful, down-tempo loop creates provides ample amounts of
+      tension. This beat is composed of various sounds captured from scraping
+      and colliding claves across the surface of a djembe.
     id: zTXXB
     name: Freaky Deaky
   - description: >-
