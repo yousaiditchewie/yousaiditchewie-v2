@@ -1,9 +1,9 @@
 ---
 templateKey: blog-post
-title: How to make money as a musician
-date: 2019-08-26T17:52:55.648Z
+title: How to make money as a freelance musician
+date: 2020-02-18T17:52:55.648Z
 description: >-
-  Musicians are the lifeblood of the music industry. Here are a few tried-and-true ways musicians can monetize their skills and creativity.
+  Musicians are the lifeblood of the music industry. Here are a few tried-and-true ways freelance musicians can monetize their skills and creativity.
 featuredpost: true
 featuredimage: /img/how-to-make-money-as-a-musician.jpeg
 tags:
@@ -11,17 +11,15 @@ tags:
   - music
 ---
 
-![How to make money as a musician](/img/how-to-make-money-as-a-musician.jpeg)
-
 If you have any aspirations to be a professional or career musician and you’ve had the guts to tell people what you want to do, you’ve probably been faced with a lot of negative feedback. I’ve had my fair share. People would tell me "you can’t make money as a musician," or "you need to get a real job," or the classic "the music industry doesn’t work the way it used to."
 
 If you’ve been met with criticism and objections like these, just know that the people telling you this love you and want what’s best for you, but they have no idea how to make money as a musician. And who can blame them? There’s not a degree you can get or a certification you can complete that qualifies you to be a working musician. The path is not mapped out, and the people who are doing it well are not always sharing their keys to success. If they are, they can often be summed up by being in the right place at the right time.
 
 > Not helpful.
 
-**The truth is, there has never been a better time to be a musician.**
+**The truth is, there has never been a better time to be a freelance musician.**
 
-The music industry _has_ changed, but the change has been for the better. With the rise of digital media and the internet, the music industry has become decentralized in a way that empowers the individual to make their own living. This means _you_ have the power to take controll of your music career and make good money doing it.
+The music industry _has_ changed, but the change has been for the better. With the rise of digital media and the internet, the music industry has become decentralized in a way that empowers the individual to make their own living. This means _you_ have the power to take control of your music career and make good money doing it.
 
 Before getting into the mechanics of making money as a musician, I want to set expectations for what a music career might _look_ like.
 
@@ -57,7 +55,7 @@ Do it all over again.
 
 That’s just if your _gig du jour_ is on the road.
 
-There are plenty of opportunities for musicians to make money. Touring is one of them, although you have to be a special type of person to really enjoy it (which I am not). Musicians can make money playing recording sessions, playing at churches, weddings, bars, really anywhere there’s a need for live music.
+There are plenty of opportunities for freelance musicians to make money. Touring is one of them, although you have to be a special type of person to really enjoy it (which I am not). Musicians can make money playing recording sessions, playing at churches, weddings, bars, really anywhere there’s a need for live music.
 
 Living in Los Angeles, I found an interesting niche market for musicians who would play for film and TV. A lot of the people you see playing music in the background of movies and on TV shows are actual musicians that were hired as background actors.
 
@@ -67,17 +65,17 @@ Needless to say, get creative because the need for musicians is everywhere.
 
 ## How much money can musicians make?
 
-The pay for being a musician depends on who’s paying the bills and the need for the musicians. What I mean is, a wedding band may have a set cost that they charge, and a wedding party can either pay that fee or choose another band, putting the power in the hands of the band. However, in other cases, there are shows or productions that have a set operating budget, and if a musician is chosen to perform in it, they will have to accept the pay that is given, even if it is lower than what the musician’s standard day rate, putting the power in the hands of the production.
+The pay for being a freelance musician depends on who’s paying the bills and the need for the musicians. What I mean is, a wedding band may have a set cost that they charge, and a wedding party can either pay that fee or choose another band, putting the power in the hands of the band. However, in other cases, there are shows or productions that have a set operating budget, and if a musician is chosen to perform in it, they will have to accept the pay that is given, even if it is lower than what the musician’s standard day rate, putting the power in the hands of the production.
 
 Most musicians I know charge a day rate or a half-day rate for smaller gigs. That’s only if the pricing power is in their control.
 
-I talk about where the pricing power lies because it is such a pain point for musicians. I struggled with this in my own music career. I always had a desire to make more money, but there always seemed to be something blocking me from making more. It’s a juggling act trying to make sure you don’t sell yourself short, but also you want to be attractive with your pricing, but if you aren’t staying busy enough, you’ll need to get another job or make money some other way which seems to make you less attractive to the market.
+I talk about where the pricing power lies because it is such a pain point for freelance musicians. I struggled with this in my own music career. I always had a desire to make more money, but there always seemed to be something blocking me from making more. It’s a juggling act trying to make sure you don’t sell yourself short, but also you want to be attractive with your pricing, but if you aren’t staying busy enough, you’ll need to get another job or make money some other way which seems to make you less attractive to the market.
 
 It sucks.
 
 > But there is a better way.
 
-Instead of waiting to get picked, you can take control of the pricing power. I wrote an article about [how to use content marketing to grow their career](###). I strongly believe that musicians can get control of their music careers and enjoy their time doing it.
+Instead of waiting to get picked, you can take control of the pricing power. I wrote an article about [how to use content marketing to grow their career](/blog/how-musicians-can-grow-their-audience-with-content-marketing/). I strongly believe that musicians can get control of their music careers and enjoy their time doing it.
 
 ## What makes being a musician enjoyable?
 
@@ -103,8 +101,8 @@ After testing to see if a music career is right for you, **start building an aud
 
 ### Start building an online audience
 
-**Building an audience is essential to launching a music career of any kind**. Social media is new enough that we might associate people like [John Mayer](https://www.johnmayer.com/) with having an online audience _because_ he’s a famous musician, and that would be a fair assumption. But there are people, like [Tyler Ward](https://www.youtube.com/user/TylerWardMusic), who can become successful musicians by first growing an online following.
+**Building an audience is essential to launching a music career of any kind**. Social media is new enough that we might associate people like <a href="https://www.johnmayer.com/" target="_blank" rel="noopener noreferrer">John Mayer</a> with having an online audience _because_ he’s a famous musician, and that would be a fair assumption. But there are people, like <a href="https://www.youtube.com/user/TylerWardMusic" target="_blank" rel="noopener noreferrer">Tyler Ward</a>, who can become successful musicians by first growing an online following.
 
-Growing an audience from nothing takes a lot of time and dedication, but anyone can do it. I wrote an article on [how musicians can grow their audience using content marketing](###) to help musicians grow their following and learn how to make money with their creativity. Read it and [tweet me your thoughts](https://twitter.com/yousaiditchewie).
+Growing an audience from nothing takes a lot of time and dedication, but anyone can do it. I wrote an article on [how musicians can grow their audience using content marketing](/blog/how-musicians-can-grow-their-audience-with-content-marketing/) to help musicians grow their following and learn how to make money with their creativity.
 
-If you found this article helpful, subscribe to my newsletter below.
+I’d love to hear from you. If you found this article helpful, drop me a message or a comment on <a href="https://www.instagram.com/yousaiditchewie" target="_blank" rel="noreferrer noopener">Instagram</a>, and subscribe to my newsletter below.
