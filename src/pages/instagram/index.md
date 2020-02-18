@@ -20,5 +20,8 @@ gallery:
   - image: /img/how-to-make-money-as-a-recording-engineer.jpg
     linkUrl: /blog/how-to-make-money-as-a-recording-engineer/
     title: How to make money as a recording engineer
+  - image: /img/how-to-make-money-as-a-freelance-musician.jpg
+    linkUrl: /blog/how-to-make-money-as-a-freelance-musician/
+    title: How to make money as a freelance musician
 ---
 
