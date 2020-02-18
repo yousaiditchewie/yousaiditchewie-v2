@@ -17,5 +17,8 @@ gallery:
   - image: /img/how-to-make-money-as-a-producer.jpg
     linkUrl: /blog/how-to-make-money-as-a-music-producer/
     title: How to make money as a music producer
+  - image: /img/how-to-make-money-as-a-recording-engineer.jpg
+    linkUrl: /blog/how-to-make-money-as-a-recording-engineer/
+    title: How to make money as a recording engineer
 ---
 
