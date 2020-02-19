@@ -3,7 +3,9 @@ templateKey: blog-post
 title: How to make money as a freelance musician
 date: 2020-02-18T17:52:55.648Z
 description: >-
-  Musicians are the lifeblood of the music industry. Here are a few tried-and-true ways freelance musicians can monetize their skills and creativity.
+  Musicians are the lifeblood of the music industry. Here are a few
+  tried-and-true ways freelance musicians can monetize their skills and
+  creativity.
 featuredpost: true
 featuredimage: /img/how-to-make-money-as-a-musician.jpeg
 tags:
@@ -75,7 +77,7 @@ It sucks.
 
 > But there is a better way.
 
-Instead of waiting to get picked, you can take control of the pricing power. I wrote an article about [how to use content marketing to grow their career](/blog/how-musicians-can-grow-their-audience-with-content-marketing/). I strongly believe that musicians can get control of their music careers and enjoy their time doing it.
+Instead of waiting to get picked, you can take control of the pricing power. I wrote an article about [how to use content marketing to grow your music career](/blog/how-musicians-can-grow-their-audience-with-content-marketing/). I strongly believe that musicians can get control of their music careers and enjoy their time doing it.
 
 ## What makes being a musician enjoyable?
 
