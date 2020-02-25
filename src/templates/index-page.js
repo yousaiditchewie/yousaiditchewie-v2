@@ -81,7 +81,7 @@ export const IndexPageTemplate = ({
         <div className="About-container container">
           <div className="Card About-card">
             <div className="About-space">
-              <p>[This space left blank intentionally]</p>
+              <p>[This space intentionally left blank]</p>
             </div>
             <div className="About-content">
               <PageContent content={content} />
