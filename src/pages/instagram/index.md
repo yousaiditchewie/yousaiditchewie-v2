@@ -23,5 +23,8 @@ gallery:
   - image: /img/how-to-make-money-as-a-freelance-musician.jpg
     linkUrl: /blog/how-to-make-money-as-a-freelance-musician/
     title: How to make money as a freelance musician
+  - image: /img/how-to-make-money-as-a-music-teacher-ig.jpg
+    linkUrl: /blog/how-to-make-money-as-a-music-teacher/
+    title: How to make money as a music teacher
 ---
 
