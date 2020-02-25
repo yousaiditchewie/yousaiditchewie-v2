@@ -13,6 +13,7 @@ tags:
   - music
   - marketing
 ---
+
 ## What is content marketing?
 
 I didn't study marketing in school or get a degree in communications or whatever the kids call it these days. I got a music degree, and I really wish I hadn’t. You can read [my story](/blog/short-story-long/) if you’re really interested.
@@ -124,6 +125,8 @@ Whatever it is you’re doing, you should teach others how to do it too. Teachin
 Are you an instrumentalist? Share a pro tip or show how you learned a challenging section of a song. Are you a songwriter? Share your inspiration for a song you wrote and highlight a section of the song that surprised you when you wrote it. Are you a music producer? Give away all of your secrets for the perfect vocal track.
 
 **_HINT:_** Most of the examples I just listed are great candidates for Youtube videos. Make a short video, and **write out some video notes** that link to other resources. Having **written** content on your Youtube videos makes them more search-friendly.
+
+For more ideas, check out my article, [how to make money as a music teacher](/blog/how-to-make-money-as-a-music-teacher/).
 
 ## You have an audience, now what?
 

@@ -99,7 +99,15 @@ Here’s what I mean. If you want to set out to attain a long-lasting music care
 
 Test yourself to see if you have the skills before making decisions that will affect your future. If you know someone whose main source of income is music, talk to them. Find out how they got started, and ask them what you need to learn or do to make that happen for yourself. Listen to them and see if they think you could do what they do, or if they try to talk you out of it. You’ll need to establish trust with this person and/or apply some social awareness to the situation. People do not like disappointing people if they can avoid it. Be on the lookout for a _yes_, when the truth is _no_.
 
-After testing to see if a music career is right for you, **start building an audience**.
+### Start teaching
+
+A great way to start generating income is to teach. Finding students is as easy as talking to a highschool music teacher or finding a youth pastor at a church to see if there are any students interested in learning an instrument. While I was in highschool myself, I taught a few middle schoolers for about $25/lesson. I also took lessons for about $25/lesson.
+
+> Live in the now.
+
+We live in the age of the internet, and you are not confined to teaching people in close proximity. You can teach people **anywhere**.... I still haven't found a good way to add a dramatic delay effect to text, but I would totally have put it on "anywhere".
+
+Anyway, I wrote an article to show musicians [how to make money teaching music](/blog/how-to-make-money-as-a-music-teacher/).
 
 ### Start building an online audience
 
