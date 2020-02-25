@@ -79,7 +79,10 @@ export const IndexPageTemplate = ({
       </section>
       <section className="About">
         <div className="About-container container">
-          <div className="Card">
+          <div className="Card About-card">
+            <div className="About-space">
+              <p>[This space intentionally left blank]</p>
+            </div>
             <div className="About-content">
               <PageContent content={content} />
               <Link className="button" to="/about">

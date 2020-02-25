@@ -135,10 +135,27 @@ section {
   padding: $vertical-spacing 0;
   background-color: $platinum;
 
+  &-card {
+    @media (min-width: $portable) {
+      display: flex;
+      flex-wrap: nowrap;
+      flex-direction: row;
+    }
+  }
+
+  &-space {
+    display: none;
+
+    @media (min-width: $portable) {
+      display: flex;
+      width: 50%;
+      align-items: center;
+      justify-content: center;
+    }
+  }
   &-content {
     @media (min-width: $portable) {
-      max-width: 50%;
-      margin-left: auto;
+      width: 50%;
     }
   }
 }
