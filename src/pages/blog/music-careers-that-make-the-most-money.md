@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Music careers that make the most money
-date: 2019-08-26T17:52:55.648Z
+date: 2020-03-02T17:52:55.648Z
 description: >-
   You CAN make money as a musician and have a successful career. I’ll unpack 5 music careers and show you why you should be doing all of them.
 featuredpost: true
