@@ -21,7 +21,7 @@ const TemplateWrapper = ({ children }) => {
     const pathName = window.location.pathname;
 
     // Catch blog articles
-    if (pathName.includes('/blog/')) {
+    if (pathName.includes('/blog/') && pathName.length > 7) {
       return 'BlogArticle';
     }
 
