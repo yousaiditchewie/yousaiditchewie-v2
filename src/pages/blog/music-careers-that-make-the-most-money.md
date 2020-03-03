@@ -11,8 +11,6 @@ tags:
   - music
 ---
 
-![Space Drummer](/img/music-careers-that-make-the-most-money.jpeg)
-
 When it comes to building a career as a musician, we all want the Instagram-able lifestyle we see on other musicians’ feeds — the selfie with ?uestlove after playing on Fallon, the view from the stage at Red Rocks Amphitheater, the red carpet for a movie premier that featured your song. The other side of that coin, however, is the hustle, failure, stress, and anxiety that lead up to those moments.
 
 > No one talks about that.
@@ -25,7 +23,7 @@ And then there’s the confusion over how exactly to create the career you see o
 
 Some people talk about that, but everyone’s story seems to be different, and everyone seems to have different advice on how to get there.
 
-That’s why I compiled this list music careers that make the most money. In this article I’m going to shed light on how to get the most fulfillment out of a career in music, how to make real money doing it, and offer practical steps to achieve your career goals. _Spoiler alert!_ If you want to have a fulfilling music career that lasts, you should start doing all 5 of these.
+That’s why I compiled this list music careers that make the most money. In this article I’m going to shed light on how to get the most fulfillment out of a career in music, how to make real money doing it, and offer practical steps to achieve your career goals. **Spoiler alert!** If you want to have a fulfilling music career that lasts, you should start doing all 5 of these.
 
 Without further adieu, here’s my list of the 5 music careers that make the most money:
 
@@ -45,7 +43,7 @@ Most of these digital experiences are set to a soundtrack of original music.
 
 > The world needs more songwriters.
 
-The way songwriters make the majority of their money is by collecting royalties from the songs they write. For a closer look at the specifics, check out this article on [_how to make money as an independent songwriter_](###).
+The way songwriters make the majority of their money is by collecting royalties from the songs they write. For a closer look at the specifics, check out this article on [_how to make money as an independent songwriter_](/blog/how-to-make-money-as-an-independend-songwriter/).
 
 ## 2. Music Producer
 
@@ -53,13 +51,13 @@ The music producer is one of the more nebulous careers. It's often unclear to th
 
 Similar to a songwriter, producers can make royalties as well, but some music producers choose to charge by the day or by the hour in addition to collecting royalties.
 
-Here’s a resource on [_how you can make money as a music producer_](###) that will walk you through making wise decisions early on that set you up for long-term success in your music career.
+Here’s a resource on [_how you can make money as a music producer_](/blog/how-to-make-money-as-a-music-producer/) that will walk you through making wise decisions early on that set you up for long-term success in your music career.
 
 ## 3. Recording Engineer
 
 More than any other music career, being a recording engineer requires the most technical knowledge. A recording engineer oversees the technical and mechanical side of making music recordings. This can include making sure the microphones are placed correctly to get the desired sound, running the sound board, operating the recording software or tape machines, and sometimes mixing and mastering the final recordings.
 
-For a deeper dive into monetizing recording skills, read this article on [how to make money as a recording engineer](####).
+For a deeper dive into monetizing recording skills, read this article on [how to make money as a recording engineer](/blog/how-to-make-money-as-a-recording-engineer/).
 
 ## 4. Musician — Instrumentalist or vocalist
 
@@ -67,7 +65,7 @@ Musicians are the lifeblood of the music industry. They bring ideas to life and 
 
 When I was younger, I dreamed of becoming a full-time musician, but I had no idea how to attain a career in music. I worked really hard, made some great connections, and eventually became a full-time musician. But even then, it didn’t _feel_ like I was a _professional_ musician.
 
-Over the years, I found the key to building a lasting career as a musician, and I’m happy to share what I’ve learned. I put together an article on [how to make money as a musician](###) that will take a lot of the guesswork out of getting started, and give you the tools to make it last.
+Over the years, I found the key to building a lasting career as a musician, and I’m happy to share what I’ve learned. I put together an article on [how to make money as a musician](/blog/how-to-make-money-as-a-freelance-musician/) that will take a lot of the guesswork out of getting started, and give you the tools to make it last.
 
 ## 5. Music Teacher
 
@@ -75,7 +73,7 @@ Teachers have an important and often overlooked role in the music industry. They
 
 I’m a big fan of music teachers in a traditional sense of the word, but I’m also an advocate for anyone who can play an instrument or sing to be a music teacher to some capacity. Yes, teaching is a great way to sharpen your skills, so teach to get better. But **educational content on the internet is an amazing way to grow your online following and broaden your marketing reach**.
 
-To learn more, read my article on [how to make money as a music teacher](###).
+To learn more, read my article on [how to make money as a music teacher](/blog/how-to-make-money-as-a-music-teacher/).
 
 ## Why you should be doing all 5
 
@@ -127,7 +125,7 @@ The cycle continues, and your audience grows along with your income.
 
 **Let me tell you how having a diverse set of skills has worked in my favor.**
 
-I studied music in college, and I’ll be completely honest — I learned everything that was useful for a music career from my dad, not college. He taught me the _[Nashville Number System](https://en.wikipedia.org/wiki/Nashville_Number_System)_, ear training, and how to dissect pop music part-by-part. When I was in college, I aced every class that had to do with music theory and ear training. My classes couldn't offer me much that my dad hadn’t already taught me. In fact, the most value I got out of college was the experience of living off campus in a house full of other musicians and audio engineers. Between my drums, their guitars, basses, and recording equipment, we had a fully equipped recording studio in our basement.
+I studied music in college, and I’ll be completely honest — I learned everything that was useful for a music career from my dad, not college. He taught me the <a href="https://en.wikipedia.org/wiki/Nashville_Number_System" target="_blank" rel="noopener noreferrer">_Nashville Number System_</a>, ear training, and how to dissect pop music part-by-part. When I was in college, I aced every class that had to do with music theory and ear training. My classes couldn't offer me much that my dad hadn’t already taught me. In fact, the most value I got out of college was the experience of living off campus in a house full of other musicians and audio engineers. Between my drums, their guitars, basses, and recording equipment, we had a fully equipped recording studio in our basement.
 
 **It was a musician’s playground.**
 
@@ -145,7 +143,7 @@ I met musicians and was able to secure a job at Apple to pay the bills, but it t
 
 **Having a diverse set of skills helped me get my career started.**
 
-The first paying gig in LA was playing _guitar_ for an artist called [Davie](https://www.instagram.com/musicbydavie/). He went to the same college as me, and he actually recognized me in an LA coffee shop from playing in the band I was in. We exchanged info, and he later hit me up to play a festival with him. I actually can’t remember how he figured out that I even _played_ guitar, much less that I was good enough to get payed to travel a long distance to back him up on it. He never had me audition or anything.
+The first paying gig in LA was playing _guitar_ for an artist called <a href="https://www.instagram.com/musicbydavie/" target="_blank" rel="noopener noreferrer">_Davie_</a>. He went to the same college as me, and he actually recognized me in an LA coffee shop from playing in the band I was in. We exchanged info, and he later hit me up to play a festival with him. I actually can’t remember how he figured out that I even _played_ guitar, much less that I was good enough to get payed to travel a long distance to back him up on it. He never had me audition or anything.
 
 My second paying gig was also with Davie. I think he knew I was studying music production and audio engineering at a music school in LA, so he figured I must be able to engineer a recording for him. Just so happens we lived in the same neighborhood as me, and there was a decent recording studio down the street from my apartment. Their rates were really affordable if you brought your own engineer. He was smart and realized he could save a little money by hiring me to engineer rather than letting their in-house engineer record him.
 
@@ -153,10 +151,10 @@ We stayed in touch over the years while I was living in LA, and I eventually pla
 
 ### Here’s what a well-rounded music career could look like...
 
-Having a diverse set of skills gives you more opportunities to _get hired_, but more importantly, **it gives you more opportunities to generate steady income**. Imagine being an instrumentalist that writes and teaches. Teaching private lessons typically generates steady, predictable income (cancellations aside). It’s also flexible, so you can still take paying gigs as a player. Even better, if you teach from the web, you can give lessons while on the road, giving you double pay. Through all of this, if you can keep steady writing sessions or continually write and record your own music, you can build up a repertoire that you can either license online or sell as a self-published project.
+Having a diverse set of skills gives you more opportunities to _get hired_, but more importantly, **it gives you more opportunities to generate steady income**. Imagine being an instrumentalist that writes and teaches. Teaching private lessons typically generates steady, predictable income (cancellations aside). It’s also flexible, so you can still take paying gigs as a player. Even better, if you teach from the web, you can give lessons while on the road, giving you **double pay**. Through all of this, if you can keep steady writing sessions or continually write and record your own music, you can build up a repertoire that you can either license online or sell as a self-published project.
 
 > Raw talent is not enough to make a sustainable music career.
 
 You have to be disciplined to do things that don’t even seem musical or creative. But over time, dedication and discipline pay off more than talent ever could.
 
-I’d love to hear your wins and struggles on your music career journey. Tweet me [@yousaiditchewie](https://twitter.com/yousaiditchewie), and subscribe below for more content like this.
+If you found this article helpful, follow me on social media [@yousaiditchewie](https://instagram.com/yousaiditchewie), and subscribe to my newsletter below.
