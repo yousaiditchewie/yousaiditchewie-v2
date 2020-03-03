@@ -20,8 +20,6 @@ const TemplateWrapper = ({ children }) => {
 
     const pathName = window.location.pathname;
 
-    console.log('Path Name: ', pathName);
-
     // Catch blog articles
     if (pathName.includes('/blog/') && pathName.length > 7) {
       return 'BlogArticle';
