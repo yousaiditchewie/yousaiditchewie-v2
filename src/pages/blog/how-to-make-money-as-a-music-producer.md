@@ -18,7 +18,7 @@ However for music production, a producer has a more direct impact on the _creati
 
 ## How much money can they make?
 
-Here’s where it starts getting interesting. A producer is entitled to mechanical and sync royalties, much like a songwriter. To learn more about these royalties, check out this article about [making money as an independent songwriter](/blog/how-to-make-money-as-an-independend-songwriter/).
+Here’s where it starts getting interesting. A producer is entitled to mechanical and sync royalties, much like a songwriter. To learn more about these royalties, check out this article about [making money as an independent songwriter](/blog/how-to-make-money-as-an-independent-songwriter/).
 
 Want to double your royalties?
 

@@ -112,7 +112,7 @@ Next, you’ll need to mix and master your recordings. If you don’t know what 
 
 If the thought of it sounds daunting, or you’re not happy with your results, this is the part where you may actually want to hire a mixing/mastering engineer to get your recordings across the finish line.
 
-After you’ve got masters of your recordings, you’re nearly on your way to making some money from them. At this point, you can and should put them on any paid streaming service out there. But do not expect to make a fortune unless you have a massive following that will stream your music. I mentioned in a previous post about [how independent songwriters can make money](/blog/how-to-make-money-as-an-independend-songwriter/) that streaming services typically pay between $0.004 and $0.01 per stream. Just do a little math, and you’ll find that you need millions of streams just to make a decent wage.
+After you’ve got masters of your recordings, you’re nearly on your way to making some money from them. At this point, you can and should put them on any paid streaming service out there. But do not expect to make a fortune unless you have a massive following that will stream your music. I mentioned in a previous post about [how independent songwriters can make money](/blog/how-to-make-money-as-an-independent-songwriter/) that streaming services typically pay between $0.004 and $0.01 per stream. Just do a little math, and you’ll find that you need millions of streams just to make a decent wage.
 
 Another sales channel you have available to you is the Internet, and you should utilize it to its full potential.
 

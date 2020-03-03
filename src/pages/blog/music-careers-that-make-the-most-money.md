@@ -43,7 +43,7 @@ Most of these digital experiences are set to a soundtrack of original music.
 
 > The world needs more songwriters.
 
-The way songwriters make the majority of their money is by collecting royalties from the songs they write. For a closer look at the specifics, check out this article on [_how to make money as an independent songwriter_](/blog/how-to-make-money-as-an-independend-songwriter/).
+The way songwriters make the majority of their money is by collecting royalties from the songs they write. For a closer look at the specifics, check out this article on [_how to make money as an independent songwriter_](/blog/how-to-make-money-as-an-independent-songwriter/).
 
 ## 2. Music Producer
 
