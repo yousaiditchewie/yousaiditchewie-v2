@@ -26,4 +26,8 @@ gallery:
   - image: /img/how-to-make-money-as-a-music-teacher-ig.jpg
     linkUrl: /blog/how-to-make-money-as-a-music-teacher/
     title: How to make money as a music teacher
+  - image: /img/music-careers-that-make-the-most-money-instagram.jpg
+    linkUrl: /blog/music-careers-that-make-the-most-money/
+    title: Music careers that make the most money
 ---
+
