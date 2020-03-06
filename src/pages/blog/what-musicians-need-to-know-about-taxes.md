@@ -37,6 +37,8 @@ For musicians, we often buy big-ticket items like instruments, gear, and electro
 
 Here’s an article by TubroTax that’s really helpful when it comes to <a href="https://turbotax.intuit.com/tax-tips/self-employment-taxes/the-musicians-guide-to-taxes-top-tax-deductions/L3dFXFokF" target="_blank" rel="noopener noreferrer">filing taxes as a musician</a>. Just don't get sucked into using their software without first trying the software I mentioned above 👆.
 
+Maybe your problem is wanting more money, so you can buy more gear. Check out my article on [music careers that make the most money](/blog/music-careers-that-make-the-most-money/).
+
 ## 3. Don’t be late
 
 April 15, 2020 is a Wednesday, and it’s rapidly approaching. If you know you’re going to owe money for your taxes when you file them, save up some money ahead of time, so it’s less of a financial burden. Another benefit of tax software is that you can line up all of your tax information, know what you'll owe (or get back), and save your progress to file later. This gives you a great picture of what you need to save up without having to write a check immediately. It also saves you from needing to run out for a postage stamp.
@@ -44,3 +46,5 @@ April 15, 2020 is a Wednesday, and it’s rapidly approaching. If you know you�
 ## Musicians affected by the 2020 Nashville Tornado:
 
 You may be wondering how this affects your taxes, so let me break it down for you. You can’t deduct damaged instruments or gear on your taxes _this_ year, but you can when you file your taxes _next_ year. Here's a guide to filing for <a href="https://www.hrblock.com/tax-center/irs/forms/form-4684/" target="_blank" rel="noopener noreferrer">theft and casualty losses</a>.
+
+If you found this information helpful, subscribe to my newsletter below, and follow me on <a href="https://www.instagram.com/yousaiditchewie" target="_blank" rel="noopener noreferrer">Instagram</a>.
