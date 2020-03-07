@@ -3,7 +3,8 @@ templateKey: blog-post
 title: Music careers that make the most money
 date: 2020-03-02T17:52:55.648Z
 description: >-
-  You CAN make money as a musician and have a successful career. I’ll unpack 5 music careers and show you why you should be doing all of them.
+  You CAN make money as a musician and have a successful career. I’ll unpack 5
+  music careers and show you why you should be doing all of them.
 featuredpost: true
 featuredimage: /img/music-careers-that-make-the-most-money.jpeg
 tags:
@@ -71,7 +72,7 @@ Over the years, I found the key to building a lasting career as a musician, and 
 
 Teachers have an important and often overlooked role in the music industry. They are highly effective at inspiring musicians to be their best, and there are so many life and career skills that can be learned from music. If you’re reading this and are wanting to make a career out of music, chances are you had a teacher or mentor that inspired you to be your best. That kind of encouragement sticks with you for life.
 
-I’m a big fan of music teachers in a traditional sense of the word, but I’m also an advocate for anyone who can play an instrument or sing to be a music teacher to some capacity. Yes, teaching is a great way to sharpen your skills, so teach to get better. But **educational content on the internet is an amazing way to grow your online following and broaden your marketing reach**.
+I’m a big fan of music teachers in a traditional sense of the word, but I’m also an advocate for anyone who can play an instrument or sing to be a music teacher to some capacity. Yes, teaching is a great way to sharpen your skills, so teach to get better. But **educational content on the internet is an amazing way to [grow your online following](/blog/how-musicians-can-grow-their-audience-with-content-marketing/) and broaden your marketing reach**.
 
 To learn more, read my article on [how to make money as a music teacher](/blog/how-to-make-money-as-a-music-teacher/).
 
@@ -103,7 +104,7 @@ As I said previously:
 
 > **Educational content is incredibly effective for marketing.**
 
-If you can shift the way you think about making music for money, you can unlock growth potential you previously would never have experienced. Your album should not be your pinacle product. The sold-out show should not be the end goal. The record deal should not be the ultimate stamp of approval. Yes, I want you to have all of these and more, but I also want you to **redefine success** for your own career. **You don’t need a record label** to fund your album if you can learn to write, produce, and engineer your own recordings. You don’t even need a band of musicians if you can learn just enough to be dangerous on a few instruments. If you can stretch yourself outside of your comfort zone, document your experience via a blog or videos, and be consistent with how often you post, you will inevitably build an audience that returns to your content because they find **_value_** in your content. And a lovely side effect is you’ll make it easy for people to _find_ your content on search engines.
+If you can shift the way you think about making music for money, you can unlock growth potential you previously would never have experienced. Your album should not be your pinnacle product. The sold-out show should not be the end goal. The record deal should not be the ultimate stamp of approval. Yes, I want you to have all of these and more, but I also want you to **redefine success** for your own career. **[You don’t need a record label](/blog/how-to-get-a-record-deal-and-why-you-shouldnt/)** to fund your album if you can learn to write, produce, and engineer your own recordings. You don’t even need a band of musicians if you can learn just enough to be dangerous on a few instruments. If you can stretch yourself outside of your comfort zone, document your experience via a blog or videos, and be consistent with how often you post, you will inevitably build an audience that returns to your content because they find **_value_** in your content. And a lovely side effect is you’ll make it easy for people to _find_ your content on search engines.
 
 Over time, your following will grow, and when you release your new music, guess what?
 
