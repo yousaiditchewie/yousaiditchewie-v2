@@ -5,7 +5,7 @@ date: 2020-03-10T17:52:55.648Z
 description: >-
   Getting everything lined up for tax season can be stressful for freelance musicians. Here's a few things to keep in mind as you prepare for filing your taxes this year.
 featuredpost: true
-featuredimage: /img/grow-your-audience-with-content-marketing.jpeg
+featuredimage: /img/what-musicians-need-to-know-about-taxes.jpeg
 tags:
   - career
   - music
