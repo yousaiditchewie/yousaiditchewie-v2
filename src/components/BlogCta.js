@@ -4,13 +4,9 @@ import Form from './Form';
 const BlogCta = () => {
   return (
     <section className="BlogCta">
-      <p className="BlogCta-callout">
-        Find out more about my upcoming book,{' '}
-        <em>
-          The Working Musician's Playbook: The step-by-step guide to achieving a
-          fulfilling career as a freelance&nbsp;musician.
-        </em>
-      </p>
+      <h4 className="BlogCta-callout">
+        Subscribe to get my weekly newsletter and latest&nbsp;articles.
+      </h4>
       <Form />
     </section>
   );

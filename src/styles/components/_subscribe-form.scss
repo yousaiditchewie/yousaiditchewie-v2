@@ -1,6 +1,11 @@
 form {
   display: flex;
   align-items: center;
+  flex-direction: column;
+
+  @media (min-width: $tablet) {
+    flex-direction: row;
+  }
 }
 
 .SubscribeForm {
@@ -13,14 +18,23 @@ form {
   &-email,
   &-submit {
     min-height: 37px;
+    width: 100%;
     border-radius: 0;
     border: 1px solid $blue;
+
+    @media (min-width: $tablet) {
+      width: auto;
+    }
   }
 
   &-email {
     padding: 0.5rem;
-    margin: 0;
+    margin: 0 0 1rem;
     background-color: $white;
+
+    @media (min-width: $tablet) {
+      margin-bottom: 0;
+    }
   }
 
   &-submit {
