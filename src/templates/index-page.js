@@ -51,7 +51,7 @@ export const IndexPageTemplate = ({
             {productList.map(item => (
               <div
                 key={item.id}
-                class="Product gumroad-product-embed"
+                className="Product gumroad-product-embed"
                 data-gumroad-product-id={item.id}
                 data-outbound-embed="true"
                 data-gumroad-single-product="true"
