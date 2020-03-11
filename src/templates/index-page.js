@@ -7,7 +7,6 @@ import Content, { HTMLContent } from '../components/Content';
 import PreviewCompatibleImage from '../components/PreviewCompatibleImage';
 import BlogRoll from '../components/BlogRoll';
 import BlogCta from '../components/BlogCta';
-// import Form from '../components/Form';
 
 export const IndexPageTemplate = ({
   // image,
