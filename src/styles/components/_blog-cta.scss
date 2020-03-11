@@ -1,9 +1,19 @@
 .BlogCta {
-  padding: 2rem $container-padding;
+  padding: 2rem;
   margin-top: 2rem;
   margin-bottom: 2rem;
   background-color: $platinum;
   text-align: center;
+  padding: 2rem;
+  border-top: 0.5rem solid $smoke;
+  box-shadow: $card-depth;
+  font-size: 1.25rem;
+  line-height: 1.5;
+
+  @media (min-width: $tablet) {
+    margin-top: 4rem;
+    margin-bottom: 4rem;
+  }
 
   .Form {
     justify-content: center;
