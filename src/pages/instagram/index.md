@@ -29,5 +29,8 @@ gallery:
   - image: /img/music-careers-that-make-the-most-money-instagram.jpg
     linkUrl: /blog/music-careers-that-make-the-most-money/
     title: Music careers that make the most money
+  - image: /img/loop-packs.jpg
+    linkUrl: '/#products'
+    title: Loop Packs
 ---
 
