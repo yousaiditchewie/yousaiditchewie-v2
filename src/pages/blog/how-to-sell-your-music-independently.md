@@ -22,11 +22,17 @@ Selling music, or any other product for that matter, requires an understanding o
 
 ## Sales channels for music
 
+In short, a **sales channel** is any means of getting your product into the hands of customers, consumers, or if the case of musicians, fans. In the digital age, there are plenty to choose from. Let me start by explaining the most obvious sales channel, and then I’ll shed light on a few that may not be as obvious.
+
 ### Streaming services
 
-### Gumroad
+No surprises here. If you’re a musician, you’d better have a presence on Spotify or Apple Music. When it comes to getting your music into a platform like Spotify, you need to establish a relationship with a licensing and distribution company. While most record labels will handle licensing and distribution for their artists, there are companies that can provide these services independently from record labels. Spotify makes it easy and provides a list of <a href="https://artists.spotify.com/directory/distribution" target="_blank" rel="noopener noreferrer">preferred artist distributors</a>.
 
 ### Online licensing
+
+Speaking of licensing, the online licensing industry is booming right now. One of the biggest players in the game is <a href="https://www.musicbed.com/" target="_blank" rel="noopener noreferrer">Music Bed</a>.
+
+### Gumroad
 
 ## Marketing channels for music
 
