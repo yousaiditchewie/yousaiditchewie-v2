@@ -68,7 +68,7 @@ Blog capabilities are another perk to having a website to feed your email list, 
 
 ### Content marketing
 
-Content marketing is another very important marketing channel. It’s sort of the one-two-punch when paired with email marketing. In fact, it's so important, that I wrote a detailed article on [how musicians can grow their audience with content marketing](/blog/how-musicians-can-grow-their-audience-with-content-marketing/). It unpacks practical ways musicians can increase their fans and turn them into repeat customers.
+Content marketing is another **very important** marketing channel. It’s sort of the one-two-punch when paired with email marketing. In fact, it's so important, that I wrote a detailed article on [how musicians can grow their audience with content marketing](/blog/how-musicians-can-grow-their-audience-with-content-marketing/). It unpacks practical ways musicians can increase their fans and turn them into repeat customers.
 
 You should check out the article for full details, but here’s a high-level overview.
 
@@ -80,12 +80,64 @@ There are two primary ways people use the internet:
 
 **Content marketing positions your brand or your product to be _found_ when people are searching.**
 
+Another perk of a platform like Wix is that you get blog capabilities out of the gate, which can play a huge role in your content marketing strategy and grow your email list.
+
 ### Social media marketing
+
+Social media is another marketing channel musicians need to utilize. The good news is that most musicians are aware of its power because most musicians are _on_ social media.
+
+> Instagram anyone?
+
+The downside of social media is that very few social platforms actually convert followers into customers, but they are great at building awareness around your brand or product. The best part of a platform like Instagram is that people get to _see_ you doing what you do best.
+
+Again, I dive deeper into the role social media plays in [growing your audience with content marketing](/blog/how-musicians-can-grow-their-audience-with-content-marketing/), so read the article for more details.
 
 ## Product strategy for music
 
+When I was studying audio engineering, one of my teachers took time to rant about how music is an _art_, not a _product_. I got really sucked into the rant and event bought into it for a long time. But later, I came to the realization that **it costs money** to see the most cherished works of art.
+
+> The Louvre charges for admission.
+
+Music is an art _**and**_ music is a product. **The two are not mutually exclusive**.
+
+Musicians need to view their craft with the same delicacy of any art form while simultaneously thinking of ways to sell it as a product. Here are a few ideas to get you started.
+
 ### The LP album
 
-### The sawdust from the LP
+For anyone born later than 1990, LP stands for **Long Play**. It is the penultimate for most musicians when it comes to creative expression. Here’s a crazy idea...
+
+> What if you turned it into a product?
+
+Like, really went all out for your LP?
+
+In the days of physical products, there was a lot of thought and intentionality put into album liner notes that came with CD’s, cassettes, and vinyl records. **Let’s bring that back, people!**
+
+Let’s call out all of the musicians, engineers, designers, and creatives that contributed to your album.
+
+> But, Yousaiditchewie, how can we do this? Our music is on Apple Music and Spotify where people don’t care about such things!
+
+I’m so glad you asked.
+
+I mentioned Gumroad in a section above, and here’s where it comes into play. When you sell digital products on a platform that is completely agnostic to your product format, you can offer the highest quality experience for your products at a premium cost.
+
+Here’s what I mean. There is literally nowhere you can go to buy digital music at full-resolution complete with album artwork and liner notes. The best part is that selling on a platform like Gumroad allows you to sell independently from a record label and take **nearly all** of your revenue to keep for yourself, assuming you own your own masters. Gumroad takes a percentage of purchases as payment processing fees, which is common for any ecommerce platform, but in my opinion, that’s a small price to pay for owning your own masters and self-publishing your own music.
+
+Let’s take this a step further.
+
+### "Sawdust" from the LP
+
+I heard a story, and I don’t know if it’s true, but it’s too inspiring for me to google it and find it to be untrue.
+
+As the story goes, there was a lumber company that was spending a lot of money disposing of their sawdust, a byproduct of making lumber. Someone in the company discovered that they could glue the sawdust together in a specific way to makes a solid, durable board that could be sold as a separate product.
+
+> Plywood.
+
+If that story is true, and I like to believe it is, musicians need to apply its principles to their music. **Your album is a product that breeds many byproducts that can be sold**.
+
+Your album likely includes beats that can be sold as a _library_. Those beats are made of sounds that can be sold as _samples_. You spend time writing, recording, mixing, mastering and collaborating in ways that can be captured and sold as a _documentary_ or a _tutorial_.
+
+> People pay for these products all the time.
+
+The
 
 Samples, loops, stems, instrumental tracks, making-of documentary, tutorials or video guides on how you made what you made, any exclusive video content (live or studio performance)
