@@ -34,7 +34,7 @@ Speaking of licensing, the online licensing industry is booming right now. One o
 
 > But wait, there’s more.
 
-Seriously, just do a Google search for "music bed", and you’ll see tons of ads for their competitors. I mention in my article about [how to make money as a songwriter](/blog/###) that there is a growing need for original music with the rise in all of the digital content platforms (Netflix, Apple TV +, Disney +, you name it). Services like Music Bed operate as a platform that connects musicians with videographers.
+Seriously, just do a Google search for "music bed", and you’ll see tons of ads for their competitors. I mention in my article about [how to make money as a songwriter](/blog/how-to-make-money-as-an-independent-songwriter/) that there is a growing need for original music with the rise in all of the digital content platforms (Netflix, Apple TV +, Disney +, you name it). Services like Music Bed operate as a platform that connects musicians with videographers.
 
 ### Gumroad
 
@@ -48,11 +48,37 @@ You can see Gumroad in action on my home page where I’m selling bundles of [lo
 
 ## Marketing channels for music
 
+If sales channels are all about getting people to buy your products, marketing channels are all about making people _aware_ that you have products to sell. To take it one step further, marketing is letting people know you _exist_ and that you have something _valuable_ to add to the marketplace.
+
+Here are some common marketing channels you need to utilize for your music.
+
 ### Email marketing
+
+This is a big one, and probably the one most overlooked by musicians. It seems a little cheesy to send people emails and keep up an ongoing list to send to, but here’s the truth about email marketing:
+
+> More people are purchasing through emails than any other marketing channel.
+
+It just works.
+
+The great news is that a free account with a CRM (customer relationship manager) is enough to get you started. I’m currently still on the free tier of <a href="https://mailchimp.com/" target="_blank" rel="noopener noreferrer">Mailchimp</a>, and it’s still meeting all of my needs.
+
+It helps to have a website where people can sign up for your mailing list, and luckily, I’m a software engineer, so I can build my own website from scratch for free. However, I’ve built plenty of websites for freelance projects using <a href="https://www.wix.com/" target="_blank" rel="noopener noreferrer">Wix</a>, and they offer low prices for a fully functional website with _free_ themes, and guess what? They have a built-in CRM complete with sign up forms. It’s a great option to get a website and an email list spun up at the same time for not a lot of money.
+
+Blog capabilities are another perk to having a website to feed your email list, which leads me to the next marketing channel...
 
 ### Content marketing
 
-link to content marketing blog
+Content marketing is another very important marketing channel. It’s sort of the one-two-punch when paired with email marketing. In fact, it's so important, that I wrote a detailed article on [how musicians can grow their audience with content marketing](/blog/how-musicians-can-grow-their-audience-with-content-marketing/). It unpacks practical ways musicians can increase their fans and turn them into repeat customers.
+
+You should check out the article for full details, but here’s a high-level overview.
+
+There are two primary ways people use the internet:
+
+1. They repeatedly visit a trusted site either for entertainment or information (this includes mobile apps and social media).
+
+2. They _search_ to find answers to their questions.
+
+**Content marketing positions your brand or your product to be _found_ when people are searching.**
 
 ### Social media marketing
 
