@@ -126,18 +126,24 @@ Let’s take this a step further.
 
 ### "Sawdust" from the LP
 
-I heard a story, and I don’t know if it’s true, but it’s too inspiring for me to google it and find it to be untrue.
+I heard a story, and I don’t know if it’s true, but it’s too inspiring for me to google it and find it to be a lie.
 
-As the story goes, there was a lumber company that was spending a lot of money disposing of their sawdust, a byproduct of making lumber. Someone in the company discovered that they could glue the sawdust together in a specific way to makes a solid, durable board that could be sold as a separate product.
+As the story goes, there was a lumber company that was spending a lot of money disposing of their sawdust — a byproduct. Someone in the company discovered that they could glue the sawdust together in a specific way to make a solid, durable board that could be sold as a product on its own.
 
 > Plywood.
 
-If that story is true, and I like to believe it is, musicians need to apply its principles to their music. **Your album is a product that breeds many byproducts that can be sold**.
+If that story is true, and I like to believe it is, musicians need to apply its principles to their music. **Your album is a product that generates many byproducts you can sell**.
 
-Your album likely includes beats that can be sold as a _library_. Those beats are made of sounds that can be sold as _samples_. You spend time writing, recording, mixing, mastering and collaborating in ways that can be captured and sold as a _documentary_ or a _tutorial_.
+Your album likely includes beats that can be sold as a _library_. Those beats are made of sounds that can be sold as _samples_. Your time spent writing, recording, mixing, mastering and collaborating are opportunities to shoot a _making-of documentary_ or a _how-to tutorial_.
 
 > People pay for these products all the time.
 
-The
+Here’s the beauty of sales channels and marketing channels. If you have an audience, all you have to do is inform people about your products, tell them where to purchase, give them options, and people will purchase whatever _they_ want.
 
-Samples, loops, stems, instrumental tracks, making-of documentary, tutorials or video guides on how you made what you made, any exclusive video content (live or studio performance)
+There are parts of your creative process that you would have to spend time and resources on anyway, so there’s little to no additional cost for you to package them up and sell them. And if you price them appropriately, you’ll most likely make better money on those products than you will on streaming platforms alone. I break down how the math works in my article on [how to get a record deal and why you shouldn’t](/blog/how-to-get-a-record-deal-and-why-you-shouldnt).
+
+## Go forth and sell your music independently
+
+I’m a big advocate for _starting_ independent and _staying_ independent. **You don’t need to pay a record label to do things you can do for free**.
+
+Subscribe to my weekly newsletter below to stay up-to-date, and check out the rest of [my articles](/blog) for more ideas on how to get grow your music career.
