@@ -5,7 +5,7 @@ date: 2020-03-17T18:52:55.648Z
 description: >-
   The internet has created a bright horizon for musicians and digital entrepreneurs. There are plenty of new sales channels for musicians to step into that can unlock a lot of earning potential. Here are some great ways musicians can sell their music independently.
 featuredpost: true
-featuredimage: /img/how-to-make-money-as-an-independent-songwriter.jpeg
+featuredimage: /img/how-to-sell-your-music-independently.jpeg
 tags:
   - career
   - music
