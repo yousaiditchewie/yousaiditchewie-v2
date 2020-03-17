@@ -32,5 +32,8 @@ gallery:
   - image: /img/loop-packs.jpg
     linkUrl: '/#products'
     title: Loop Packs
+  - image: /img/f5dc2a96-47b6-4f5b-b9e8-ebf09ac39ffe.jpeg
+    linkUrl: /blog/how-to-sell-your-music-independently/
+    title: How to sell your music independently
 ---
 
