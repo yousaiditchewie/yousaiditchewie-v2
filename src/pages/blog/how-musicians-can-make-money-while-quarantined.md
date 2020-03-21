@@ -32,11 +32,22 @@ I’m going to focus on people who can identify with three different statements:
 
 ## I’m not going to make it through the month
 
-I hate to break it to you, but you’ll need to think outside of the field of music for immediate help. You’ve got to take care of yourself and your family, if you have one, and you’re not going to find what you need with music right now.
+I hate to break it to you, but you’ll need to think outside of the field of music for immediate help. You’ve got to take care of yourself and your family, if you have one, and you’re not going to find what you need with music right now. I want you to stay active as a musician, but making money is your priority now.
 
-Intro Dave's 4 walls and baby steps. Link to articles for each.
+### Dave Ramsey's 4 walls
 
-Link to usertesting.com
+If you’re truly in crisis, I like what Dave Ramsey has to say. He’s a personal finance guru and has helped millions of people get out of a tight spot. He says, in times of crisis, take care of the <a href="https://www.daveramsey.com/blog/4-things-you-must-budget" target="_blank" rel="noopener noreferrer">four walls</a>of your household, which are **food, utilities, shelter, and transportation**.
+
+If you have these four things, you can live to fight another day.
+
+That takes care of how to prioritize the money you _have_. Let’s talk about ways to _make_ money without having to leave your house.
+
+### User Testing
+
+As a software engineer, I’ve been exposed to the world of user testing. User testing is a process that involves observing someone use your software or digital product to learn their behavioral interactions. Sometimes this means going to a place where people are to find a volunteer to use your product, but in the age of the internet (and now social distancing), we no longer need to be in-person to watch someone use what we’ve built. There’s a service called <a href="https://www.usertesting.com/be-a-user-tester" target="_blank" rel="noopener noreferrer">usertesting.com</a> that pays people to test software and digital products. In a similar way that Uber connects drivers to passengers, usertesting.com connects product owners to users. Their pitch is that they pay \$10 for every 20 minutes of testing you complete. All you need is the internet, a relatively modern computer, or a smartphone.
+
+### Upwork
+
 Link to upwork.com
 Link to Glassdoor: https://www.glassdoor.com/blog/companies-eager-to-hire-now/
 
