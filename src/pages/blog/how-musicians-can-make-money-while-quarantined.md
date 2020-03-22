@@ -58,23 +58,27 @@ If you’re looking for full-time work, and if you’re in crisis mode you shoul
 
 While you’re inside, staying away from people, and stressing over not having enough money, you should check out Dave Ramsey's #1 best seller, <a href="https://www.daveramsey.com/store/product/the-total-money-makeover-book-by-dave-ramsey" target="_blank" rel="noopener noreferrer">_The Total Money Makeover_</a>. If you’re so broke you can afford a book, try checking it out on a library app like <a href="https://www.overdrive.com/" target="_blank" rel="noopener noreferrer">Overdrive</a> or <a href="https://www.hoopladigital.com/" target="_blank" rel="noopener noreferrer">Hoopla</a> (these require a library card).
 
-And another resource that’s always 100% free is <a href="https://www.daveramsey.com/show/" target="_blank" rel="noopener noreferrer">_The Dave Ramsey Show Podcast_</a>. You can learn everything he teaches in the book from the podcast, only the book is more direct and very practical. The podcast is a great introduction to his personal finance principles and is a great way to get pumped up about getting your money under control.
+Another resource that’s always 100% free is <a href="https://www.daveramsey.com/show/" target="_blank" rel="noopener noreferrer">_The Dave Ramsey Show Podcast_</a>. You can learn everything he teaches in the book from the podcast, only the book is more direct and very practical. The podcast is a great introduction to his personal finance principles and is a great way to get pumped up about getting your money under control.
 
 ## I'll be fine for a month or two, but something will have to change beyond that
 
-Here’s where you can start ramping up your digital assets.
+There’s a lot of money to be made online while working anywhere, specifically, your home while people are sheltering in place. Here’s a few ideas that may take a few weeks or months to ramp up, but you can little-by-little earn some decent money doing these.
 
 ### Teach from home
 
-Link to how to make money as a music teacher
+I know several people who are teaching voice and instrument lessons from home. Even my own mother is doing this while she’s not going into work. If you already have students, that’s a plus. Just have them meet over Skype or FaceTime instead of in-person. If you don’t currently have students, start putting feelers out there on social media or by using your network to find out if anyone knows anyone in need of lessons.
+
+For more ideas, check out my article on [how to make money as a music teacher](/blog/how-to-make-money-as-a-music-teacher/).
 
 ### Remote sessions
 
-Link to focusrite scarlet series
+More and more musicians are doing remote sessions on their free time, and now that tours and shows have been cancelled or postponed, it’s pretty much a necessity. This is an easy decision and transition if you already have your own space and recording gear, but don’t be intimidated if you don’t have gear already. Recording gear is becoming better and more affordable at the same time. If you are starting from scratch, you’ll most likely need a recording interface, studio monitors, and whatever mics and cables are necessary for your instrument. Check out <a href="https://www.sweetwater.com/store/manufacturer/Focusrite" target="_blank" rel="noopener noreferrer">Sweetwater’s Focusrite bundles</a> for a place to start. In my opinion, anything in Focusrite’s Scarlet series will do the job.
 
 ### Loop and sample libraries
 
-If you already own recording gear or decide to buy a pack like I mentioned above, there's no reason not to sell loop and sample libraries
+If you already own recording gear or decide to buy a pack like I mentioned above, there's no reason not to sell loop and sample libraries. Just spend some time recording yourself practicing, rehearsing songs, or just goofing off, and chances are, you’ll be making something someone else could use for their recordings or writing session.
+
+As for selling them, you’ll need a website and an ecommerce platform. I’m a huge fan of Shopify, and regularly build ecommerce sites for clients with it. I have an advantage in that I can build my own website from scratch, so I use a combination of <a href="https://www.gatsbyjs.org/" target="_blank" rel="noopener noreferrer">GatsbyJS</a>, <a href="https://www.netlify.com/" target="_blank" rel="noopener noreferrer">Netlify CMS </a>, and <a href="https://gumroad.com/" target="_blank" rel="noopener noreferrer">Gumroad</a> for selling things on my site. I built by site, hosted it, and can sell products, all for FREE because I know how to code. Keep reading if that intrigues you.
 
 ### Online licensing
 
@@ -95,3 +99,5 @@ Start a blog, youtube channel, or a podcast. Sell some products to your audience
 ### Learn to code, and become a digital entrepreneur
 
 ### One book to read and podcast to binge if this sounds like you:
+
+Authority by Nathan Berry and Indie Hackers Podcast
