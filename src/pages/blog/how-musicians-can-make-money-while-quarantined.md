@@ -78,26 +78,66 @@ More and more musicians are doing remote sessions on their free time, and now th
 
 If you already own recording gear or decide to buy a pack like I mentioned above, there's no reason not to sell loop and sample libraries. Just spend some time recording yourself practicing, rehearsing songs, or just goofing off, and chances are, you’ll be making something someone else could use for their recordings or writing session.
 
-As for selling them, you’ll need a website and an ecommerce platform. I’m a huge fan of Shopify, and regularly build ecommerce sites for clients with it. I have an advantage in that I can build my own website from scratch, so I use a combination of <a href="https://www.gatsbyjs.org/" target="_blank" rel="noopener noreferrer">GatsbyJS</a>, <a href="https://www.netlify.com/" target="_blank" rel="noopener noreferrer">Netlify CMS </a>, and <a href="https://gumroad.com/" target="_blank" rel="noopener noreferrer">Gumroad</a> for selling things on my site. I built by site, hosted it, and can sell products, all for FREE because I know how to code. Keep reading if that intrigues you.
+As for selling them, you’ll need a website and an ecommerce platform. I’m a huge fan of Shopify, and regularly build ecommerce sites for clients with it. I have an advantage in that I can build my own website from scratch, so I use a combination of <a href="https://www.gatsbyjs.org/" target="_blank" rel="noopener noreferrer">GatsbyJS</a>, <a href="https://www.netlify.com/" target="_blank" rel="noopener noreferrer">Netlify CMS </a>, and <a href="https://gumroad.com/" target="_blank" rel="noopener noreferrer">Gumroad</a> for selling things on my site. I built by site, hosted it, and can sell products, all for FREE because I know how to code (more on that topic in a few paragraphs).
 
 ### Online licensing
 
-link to how to sell your music independently article
+In short, online licensing is uploading your music to an online marketplace where content creators (primarily videographers) can discover music and pay to use it in their videos. There is still a lot of video production that hasn’t been shut down in light of COVID-19. Online licensing may not decline as quickly as other ways of generating revenue with music. But act fast on this one just to be safe.
+
+I give a much more detailed explanation of the mechanics of online licensing in my article, [how to sell your music independently](/blog/how-to-sell-your-music-independently/).
 
 ### One book to read and one podcast to binge if this sounds like you:
 
-Mixing with your mind, The Six Figure Studio podcast
+If you identify with this category, and feel inspired to standup a home studio and start making money with it, here’s two powerful resources.
+
+First of all, read the book <a href="https://www.amazon.com/Mixing-Your-Mind-Closely-Engineering/dp/0646428756" target="_blank" rel="noopener noreferrer">_Mixing With Your Mind_</a>. If you can handle a \$175 purchase on a book right now, it’s a fundamental read for anyone trying to make money capturing sound and turning it into _music_.
+
+I get it, the price tag is steep, and times are uncertain, so here’s another resource that’s free — <a href="https://www.thesixfigurehomestudio.com/podcast/" target="_blank" rel="noopener noreferrer">_The Six-Figure Studio Podcast_</a>. This free podcast shares a lot of practical knowledge from two experienced home studio owners who not only figured out how to make money with their studios, but are great at sharing their methods to success.
 
 ### I’ll make it 3 to 6 months, but I want to make sure I can thrive after that
 
+The last group if people I’ll address are those who maybe have some money saved up for a rainy day, but know it won’t last indefinitely. If that sounds like you, I want to encourage you to get creative with your career and set yourself up for success when this whole things blows over (and it will eventually).
+
+When the economy rebounds, and music venues re-open their doors, I want you to have an _advantage_ and take control of your career. The way to do that is to start building your online audience. This takes time and dedication, but if you have some extra time on your hands while you’re not going out, it can pay off. Content marketing is the way to grow your audience with the end goal of turning those fans into repeat customers.
+
 ### Content marketing
 
-Start a blog, youtube channel, or a podcast. Sell some products to your audience.
+Content marketing is a method of publishing _valuable_ content on the internet in a way that allows people to _discover_ your product(s) or brand, so that people who are searching the internet will find _you_. This typically consists of educational information or thought-leadership materials. But the idea is simple:
+
+> Billions are searching the web. Be the one&nbsp;they&nbsp;find.
+
+Again, I wrote an article on [how musicians can grow their audience with content marketing](/blog/how-musicians-can-grow-their-audience-with-content-marketing/) that lays out a clear path, but here’s some nuggets of wisdom from it.
+
+While you have some free time, start a blog, a Youtube Channel, or a podcast. Make educational videos on anything you know how to do, whether it’s a tasty lick you just learned on guitar, or how to get that vocal sound you’ve been chasing for a while and finally found, or how to incorporate electronic drums into your acoustic setup.
+
+> **Educational** content makes excellent **marketing**&nbsp;content.
 
 ### Write an ebook
 
+Here’s one that’s out-of-the-box for sure: **write an ebook**.
+
+If you’ve built an audience with educational content, and have fans who enjoy your teaching style, write a book on your highest-performing topics. If you can write 500-1,000 words every day for the next month or two, you will easily have a 35,000 word ebook that you could sell. There are several influencers and thought leaders who have made great money selling their thoughts in writing. **You can do it too**.
+
 ### Learn to code, and become a digital entrepreneur
+
+Let’s go even more out-of-the-box. **Learn to code and build an online business**.
+
+Learning to code takes time and experience, but I learned how to do it in 12 weeks. I went to a full-time, immersive coding boot camp and learned all the fundamentals of coding enough to get a job as a software engineer. Looking back, however, I realized I could have easily learned everything I needed to online, and my coding education would have been far less expensive than it was.
+
+There are plenty of coursed on <a href="https://www.udemy.com/" target="_blank" rel="noopener noreferrer">Udemy</a> and <a href="https://teamtreehouse.com/" target="_blank" rel="noopener noreferrer">Team Treehouse</a> if you want to buy a course or two, but there are also some great coding resources that are completely free, like <a href="https://www.codecademy.com/" target="_blank" rel="noopener noreferrer">Codecademy</a> and <a href="https://www.freecodecamp.org/" target="_blank" rel="noopener noreferrer">Free Code Camp</a>.
+
+The internet is still a wide-open frontier where ideas can become businesses with very little overhead cost, but it is still essential to grow a following, so that when you launch an online business, people **are aware** and ready to purchase.
 
 ### One book to read and podcast to binge if this sounds like you:
 
-Authority by Nathan Berry and Indie Hackers Podcast
+If you got bit by the entrepreneur bug and that idea excites you, take a look at these resources.
+
+Read the book <a href="https://nathanbarry.com/authority/" target="_blank" rel="noopener noreferrer">_Authority_ by Nathan Berry</a>. The book acts as a step-by-step guide to writing and self-publishing an ebook. It goes into great detail about how to grow an audience to sell your ebook to as well.
+
+As far as internet entrepreneurship goes, you can’t beat <a href="https://www.indiehackers.com" target="_blank" rel="noopener noreferrer">_The Indie Hackers Podcast_</a>. Yeah, you may need to learn to code before some of it is applicable, but more and more, digital entrepreneurs are opting for **no-code** solutions using WordPress, Wix, and Shopify.
+
+## Don’t lose hope, and dream **BIG**!
+
+Stay strong, and don’t let social distancing keep you from pressing into **community**. You need other people and other people need you! These hard times will pass, and we’ll make it to the other side. When we get there, have big goals and big dreams for your career. Take these steps to set your career up to take off like a rocket when things get back to normal.
+
+Subscribe to my newsletter below and follow me on <a href="https://instagram.com/yousaiditchewie" target="_blank" rel="noopener noreferrer">Instagram</a>.
