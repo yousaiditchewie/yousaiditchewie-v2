@@ -48,12 +48,17 @@ As a software engineer, I’ve been exposed to the world of user testing. User t
 
 ### Upwork
 
-Link to upwork.com
-Link to Glassdoor: https://www.glassdoor.com/blog/companies-eager-to-hire-now/
+Another way to get some cash flowing while you’re at home is to set up an account with <a href="https://www.upwork.com/freelance-jobs/" target="_blank" rel="noopener noreferrer">Upwork.com</a>. They have plenty of freelance roles for technologists (engineers and testers), but they also have plenty of job openings for audio production, and even more generic roles like customer support.
+
+### Glassdoor
+
+If you’re looking for full-time work, and if you’re in crisis mode you should be, take a look at Glassdoor’s article on <a href="https://www.glassdoor.com/blog/companies-eager-to-hire-now/" target="_blank" rel="noopener noreferrer">companies hiring in light of COVID-19</a>. They list several tech jobs, but lots of other jobs too. Also, Amazon announced they’re hiring 100,000 roles in the next year for shipping and logistics facilities, which includes locations in Nashville and Austin, two major music cities.
 
 ### One book to read and one podcast to binge if this sounds like you:
 
-Total Money Makeover, The Dave Ramsey Show, start with the most recent, and work your way backwards.
+While you’re inside, staying away from people, and stressing over not having enough money, you should check out Dave Ramsey's #1 best seller, <a href="https://www.daveramsey.com/store/product/the-total-money-makeover-book-by-dave-ramsey" target="_blank" rel="noopener noreferrer">_The Total Money Makeover_</a>. If you’re so broke you can afford a book, try checking it out on a library app like <a href="https://www.overdrive.com/" target="_blank" rel="noopener noreferrer">Overdrive</a> or <a href="https://www.hoopladigital.com/" target="_blank" rel="noopener noreferrer">Hoopla</a> (these require a library card).
+
+And another resource that’s always 100% free is <a href="https://www.daveramsey.com/show/" target="_blank" rel="noopener noreferrer">_The Dave Ramsey Show Podcast_</a>. You can learn everything he teaches in the book from the podcast, only the book is more direct and very practical. The podcast is a great introduction to his personal finance principles and is a great way to get pumped up about getting your money under control.
 
 ## I'll be fine for a month or two, but something will have to change beyond that
 
