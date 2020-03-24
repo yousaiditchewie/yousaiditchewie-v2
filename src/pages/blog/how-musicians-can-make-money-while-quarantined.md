@@ -5,7 +5,7 @@ date: 2020-03-24T18:52:55.648Z
 description: >-
   With the spread of Coronavirus, many musicians are without work. Shows and tours have been cancelled, and even churches have stopped gathering for the foreseeable future. I want to give musicians hope and ideas for how they can overcome financial hurdles in these difficult times.
 featuredpost: true
-featuredimage: /img/how-to-sell-your-music-independently.jpeg
+featuredimage: /img/how-to-make-money-when-youre-quarantined.jpeg
 tags:
   - career
   - music
@@ -36,7 +36,7 @@ I hate to break it to you, but you’ll need to think outside of the field of mu
 
 ### Dave Ramsey's 4 walls
 
-If you’re truly in crisis, I like what Dave Ramsey has to say. He’s a personal finance guru and has helped millions of people get out of a tight spot. He says, in times of crisis, take care of the <a href="https://www.daveramsey.com/blog/4-things-you-must-budget" target="_blank" rel="noopener noreferrer">four walls</a>of your household, which are **food, utilities, shelter, and transportation**.
+If you’re truly in crisis, I like what Dave Ramsey has to say. He’s a personal finance guru and has helped millions of people get out of a tight spot. He says, in times of crisis, take care of the <a href="https://www.daveramsey.com/blog/4-things-you-must-budget" target="_blank" rel="noopener noreferrer">four walls</a> of your household, which are **food, utilities, shelter, and transportation**.
 
 If you have these four things, you can live to fight another day.
 
