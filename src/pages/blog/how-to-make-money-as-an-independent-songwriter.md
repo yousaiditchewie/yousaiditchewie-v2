@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: How to make money as an independent songwriter
-date: 2020-01-21T18:52:55.648Z
+date: 2020-03-31T17:52:55.648Z
 description: >-
   There has never been a better time to be an independent songwriter. I’m going
   to show you how you can turn your creativity into dollars and cents. Read more
