@@ -21,7 +21,7 @@ I wanted to take a few minutes to highlight some musicians who are taking prover
 
 ![](/img/dd53e012-2639-4cf5-bf19-d0c9942f9536.jpeg)
 
- Songwriter, producer and recording engineer, \[Jordan Ruiz](http://thejordanruiz.com) has had a great few months, and released various albums, singles, and ep’s with artists. He’s ramped up his recording setup to make a more creative space for riding the waves of inspiration.
+ Songwriter, producer and recording engineer, [Jordan Ruiz](http://thejordanruiz.com) has had a great few months, and released various albums, singles, and ep’s with artists. He’s ramped up his recording setup to make a more creative space for riding the waves of inspiration.
 
 ## Dan Bailey
 
