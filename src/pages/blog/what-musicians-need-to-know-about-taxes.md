@@ -3,14 +3,15 @@ templateKey: blog-post
 title: What musicians need to know about taxes
 date: 2020-03-10T17:52:55.648Z
 description: >-
-  Getting everything lined up for tax season can be stressful for freelance musicians. Here's a few things to keep in mind as you prepare for filing your taxes this year.
+  Getting everything lined up for tax season can be stressful for freelance
+  musicians. Here's a few things to keep in mind as you prepare for filing your
+  taxes this year.
 featuredpost: true
 featuredimage: /img/what-musicians-need-to-know-about-taxes.jpeg
 tags:
   - career
   - music
 ---
-
 I get it, you're busy. **Join the club**. Just don’t get burned this tax season.
 
 The first year me and my wife were married, we each had two regular W-2 jobs, I landed my first full-time music gig, and I had lots of freelance work on top of that.
@@ -41,7 +42,9 @@ Maybe your problem is wanting more money, so you can buy more gear. Check out my
 
 ## 3. Don’t be late
 
-April 15, 2020 is a Wednesday, and it’s rapidly approaching. If you know you’re going to owe money for your taxes when you file them, save up some money ahead of time, so it’s less of a financial burden. Another benefit of tax software is that you can line up all of your tax information, know what you'll owe (or get back), and save your progress to file later. This gives you a great picture of what you need to save up without having to write a check immediately. It also saves you from needing to run out for a postage stamp.
+Thanks (or no thanks) to COVID-19, taxes are now due in July 15, 2020. It's a Wednesday, and it’s rapidly approaching. If you know you’re going to owe money for your taxes when you file them, save up some money ahead of time, so it’s less of a financial burden.  You can also use that CARES Act stimulus check for your taxes. 
+
+Bringing it back to tax software, another benefit is that you can line up all of your tax information, know what you'll owe (or get back), and save your progress to file later. This gives you a great picture of what you need to save up without having to write a check immediately. It also saves you from needing to run out for a postage stamp.
 
 ## Musicians affected by the 2020 Nashville Tornado:
 
