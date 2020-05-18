@@ -3,8 +3,8 @@ templateKey: blog-post
 title: How to make money as an independent songwriter
 date: 2020-03-31T17:52:55.648Z
 description: >-
-  Learn some of the mechanics of earning passive, residual income as a
-  songwriter as well as a few income streams that you may not have thought of.
+  Learn the mechanics of earning passive, residual income as a songwriter and a
+  few income streams that you may not have known about.
 featuredpost: true
 featuredimage: /img/how-to-make-money-as-an-independent-songwriter.jpeg
 tags:
