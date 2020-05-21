@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Why musicians should learn to code
-date: 2020-05-10T01:44:06.840Z
+date: 2020-04-07T01:44:06.840Z
 description: >-
   Being a musician can often mean that income is unpredictable, and career
   growth is unclear. Here’s how I transitioned from being a full-time musician
