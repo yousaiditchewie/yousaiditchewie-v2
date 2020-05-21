@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: The best side jobs for freelance musicians
-date: 2020-04-27T13:30:36.081Z
+date: 2020-04-21T13:30:36.081Z
 description: >-
   Here is a list of the best ways freelance musicians can make extra money
   without sacrificing their goals, dreams, and passions.
