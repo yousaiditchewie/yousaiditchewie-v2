@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: How musicians are dealing with Coronavirus
-date: 2020-04-27T13:36:45.702Z
+date: 2020-04-13T13:36:45.702Z
 description: >-
   Musicians are going to make it through these weird, crazy times. Here are a
   few people showing us how to win in the weirdness. 
