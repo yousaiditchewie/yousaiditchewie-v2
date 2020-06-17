@@ -15,8 +15,10 @@ export const IndexPageTemplate = ({
   content,
   contentComponent,
   image,
+  productHeading,
+  productSubHeading,
   productCtaText,
-  productList
+  productList,
   // mainpitch,
   // description,
   // intro,
@@ -38,16 +40,11 @@ export const IndexPageTemplate = ({
       <section id="products" className="Products">
         <div className="Products-container container">
           <div className="Products-intro">
-            <h2>Loop Packs</h2>
-            <p>
-              Over the years, I’ve compiled a collection of beats and loops for
-              recordings I’ve engineered or produced. They’re all USDA Certified
-              Organic loops made with real recorded sounds, so you know they’re
-              good.
-            </p>
+            <h2>{productHeading}</h2>
+            <p>{productSubHeading}</p>
           </div>
           <div className="Products-list">
-            {productList.map(item => (
+            {productList.map((item) => (
               <div
                 key={item.id}
                 className="Product gumroad-product-embed"
@@ -96,15 +93,17 @@ export const IndexPageTemplate = ({
 IndexPageTemplate.propTypes = {
   heading: PropTypes.string,
   subheading: PropTypes.string,
+  productHeading: PropTypes.string,
+  productSubHeading: PropTypes.string,
   productCtaText: PropTypes.string,
   productList: PropTypes.arrayOf(
     PropTypes.shape({
       name: PropTypes.string,
       description: PropTypes.string,
-      id: PropTypes.string
+      id: PropTypes.string,
     })
   ),
-  image: PropTypes.oneOfType([PropTypes.object, PropTypes.string])
+  image: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
 };
 
 const IndexPage = ({ data }) => {
@@ -116,6 +115,8 @@ const IndexPage = ({ data }) => {
         image={frontmatter.image}
         heading={frontmatter.heading}
         subheading={frontmatter.subheading}
+        productHeading={frontmatter.productHeading}
+        productSubHeading={frontmatter.productSubHeading}
         productCtaText={frontmatter.productCtaText}
         productList={frontmatter.productList}
         contentComponent={HTMLContent}
@@ -126,7 +127,7 @@ const IndexPage = ({ data }) => {
 };
 
 IndexPage.propTypes = {
-  data: PropTypes.object.isRequired
+  data: PropTypes.object.isRequired,
 };
 
 export default IndexPage;
@@ -138,6 +139,8 @@ export const pageQuery = graphql`
       frontmatter {
         heading
         subheading
+        productHeading
+        productSubHeading
         productCtaText
         productList {
           name
