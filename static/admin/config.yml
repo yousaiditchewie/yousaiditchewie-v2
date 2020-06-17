@@ -43,6 +43,12 @@ collections:
           - { label: Image, name: image, widget: image }
           - { label: Heading, name: heading, widget: string }
           - { label: Subheading, name: subheading, widget: string }
+          - { label: 'Product Heading', name: 'productHeading', widget: string }
+          - {
+              label: 'Product Sub Heading',
+              name: 'productSubHeading',
+              widget: string,
+            }
           - {
               label: 'Product CTA Text',
               name: 'productCtaText',

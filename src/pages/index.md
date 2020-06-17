@@ -8,28 +8,16 @@ heading: yousaiditchewie
 subheading: >-
   Hi, my name is Jacob Allen. I’m a musician, software engineer, and author from
   Nashville, TN.
+productHeading: Musicians should learn to code!
+productSubHeading: >-
+  Learning to code has added a layer of stability to my music career. There's always coding work to be found, and it's a great way to supplement your income as a freelance musician. Here are some tutorials to get you started in the right direction.
 productCtaText: Listen and Buy
 productList:
   - description: >-
       A dark, down-tempo beat inspired by finding resonant frequencies in a
       djembe.
-    id: HqUcV
-    name: Lava Boots
-  - description: >-
-      A lively, uptempo collection inspired by processing the sound of hitting
-      two flip flops together.
-    id: tqptp
-    name: Flip Flop
-  - description: >-
-      This suspenseful, down-tempo loop is made of various sounds captured from
-      scraping and colliding claves across the surface of a djembe.
-    id: zTXXB
-    name: Freaky Deaky
-  - description: >-
-      Includes all Lava Boots, Flip Flop, and Freaky Deaky loops, plus an
-      assortment of shaker and tambourine loops at various tempos.
-    id: hkAby
-    name: Nasty Pack 1
+    id: vNyvA
+    name: The Swift Developer's Starter Pack
 ---
 
 ## Long story short
