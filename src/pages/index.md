@@ -17,8 +17,10 @@ productSubHeading: >-
 productCtaText: Listen and Buy
 productList:
   - description: >-
-      A dark, down-tempo beat inspired by finding resonant frequencies in a
-      djembe.
+      Learning to code has added a layer of stability to my music career.
+      There's always coding work to be found, and it's a great way to supplement
+      your income as a freelance musician. Here are some tutorials to get you
+      started in the right direction.
     id: vNyvA
     name: The Swift Developer's Starter Pack
   - description: >-
