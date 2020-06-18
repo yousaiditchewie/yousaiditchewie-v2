@@ -17,10 +17,9 @@ productSubHeading: >-
 productCtaText: Listen and Buy
 productList:
   - description: >-
-      Learning to code has added a layer of stability to my music career.
-      There's always coding work to be found, and it's a great way to supplement
-      your income as a freelance musician. Here are some tutorials to get you
-      started in the right direction.
+      This is the source code for my Youtube series, Rock N Roll, Paper Scissors
+      — How to Build an App with SwiftUI, plus my Swift for Beginners micro
+      course and my Git for Beginners micro course, including source code.
     id: vNyvA
     name: The Swift Developer's Starter Pack
   - description: >-
