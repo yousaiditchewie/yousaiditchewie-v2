@@ -10,7 +10,10 @@ subheading: >-
   Nashville, TN.
 productHeading: Musicians should learn to code!
 productSubHeading: >-
-  Learning to code has added a layer of stability to my music career. There's always coding work to be found, and it's a great way to supplement your income as a freelance musician. Here are some tutorials to get you started in the right direction.
+  Learning to code has added a layer of stability to my music career. There's
+  always coding work to be found, and it's a great way to supplement your income
+  as a freelance musician. Here are some tutorials to get you started in the
+  right direction.
 productCtaText: Listen and Buy
 productList:
   - description: >-
@@ -18,6 +21,12 @@ productList:
       djembe.
     id: vNyvA
     name: The Swift Developer's Starter Pack
+  - description: >-
+      This is the source code for my Youtube series, Rock N Roll, Paper Scissors
+      — How to Build an App with SwiftUI. Included is code-along source code,
+      plus all of the videos from the series.
+    id: sKtzZ
+    name: Build Your First SwiftUI App
 ---
 
 ## Long story short
