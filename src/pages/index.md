@@ -19,7 +19,7 @@ productList:
   - description: >-
       This is the source code for my Youtube series, Rock N Roll, Paper Scissors
       — How to Build an App with SwiftUI, plus my Swift for Beginners micro
-      course and my Git for Beginners micro course, including source code.
+      course and my Git for Beginners micro course.
     id: vNyvA
     name: The Swift Developer's Starter Pack
   - description: >-
