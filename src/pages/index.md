@@ -14,7 +14,7 @@ productSubHeading: >-
   always coding work to be found, and it's a great way to supplement your income
   as a freelance musician. Here are some tutorials to get you started in the
   right direction.
-productCtaText: Listen and Buy
+productCtaText: Preview and Buy
 productList:
   - description: >-
       This is the source code for my Youtube series, Rock N Roll, Paper Scissors
