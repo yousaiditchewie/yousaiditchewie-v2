@@ -8,13 +8,13 @@ heading: yousaiditchewie
 subheading: >-
   Hi, my name is Jacob Allen. I’m a musician, software engineer, and author from
   Nashville, TN.
-productHeading: Musicians should learn to code!
+productHeading: Coding courses for musicians
 productSubHeading: >-
   Learning to code has added a layer of stability to my music career. There's
   always coding work to be found, and it's a great way to supplement your income
   as a freelance musician. Here are some tutorials to get you started in the
   right direction.
-productCtaText: Preview and Buy
+productCtaText: Listen and Buy
 productList:
   - description: >-
       This is the source code for my Youtube series, Rock N Roll, Paper Scissors
