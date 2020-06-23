@@ -12,6 +12,21 @@ featuredimage: /img/image-5-9-20-at-8.41-pm.jpg
 tags:
   - Career
 ---
+It’s no secret that I’m passionate about musicians learning to code. In fact, I’m so passionate about it that I wanted to remove any barriers keeping musicians from doing so. That’s why I’m now offering [coding tutorials for musicians](/#products) — well, for everyone, but especially musicians.
+
+Here are the myths I’m debunking:
+
+### Myth 1: Coding is only for smart people
+>Learn to code, and you too can be smart.
+
+### Myth 2: Learning to code is expensive
+> My tutorials are $10, $5, and FREE. You can afford them.
+
+### Myth 3: It takes time to learn
+>That’s actually not a myth, but what else are you doing?
+
+You can read all about [why I’m teaching musicians how to code](/blog/why-im-teaching-musicians-how-to-code) if you’d like, but you’re probably here to learn *why I learned to code*...
+
 ## Why I learned to code
 
 If you've ready [my story](/blog/short-story-long), you know that I’m passionate about music, and was able to make a decent living for myself as a full-time musician. But work started to dry up at the same time that my responsibilities started to ramp up (getting married and wanting to start a family), and I needed to make a tough decision to put music on the back burner and focus on providing for my family. 
