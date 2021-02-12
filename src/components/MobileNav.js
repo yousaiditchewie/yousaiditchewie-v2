@@ -30,7 +30,7 @@ const MobileNav = () => {
       </div>
       <div className="MobileNav-bottom container">
         <Link to="/" className="h2">
-          yousaiditchewie
+          Jacob on Drums
         </Link>
         {/* Hamburger menu */}
         <div className="MobileNav-toggleWrapper">

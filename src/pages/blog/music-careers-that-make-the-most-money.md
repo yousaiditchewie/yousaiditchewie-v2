@@ -158,4 +158,4 @@ Having a diverse set of skills gives you more opportunities to _get hired_, but 
 
 You have to be disciplined to do things that don’t even seem musical or creative. But over time, dedication and discipline pay off more than talent ever could.
 
-If you found this article helpful, follow me on social media [@yousaiditchewie](https://instagram.com/yousaiditchewie), and subscribe to my newsletter below.
+If you found this article helpful, follow me on social media [@jacob_on_drums](https://instagram.com/jacob_on_drums), and subscribe to my newsletter below.

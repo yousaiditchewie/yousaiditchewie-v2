@@ -89,4 +89,4 @@ One of the first times I heard of someone focusing on _remote_ music lessons was
 
 Musicians need to learn from what Torres Fine Arts Instruction is doing and think beyond their immediate location to unlock the potential of their skills.
 
-I want to see music teachers succeed. Send a message or a comment on Instagram <a href="https://instagram.com/yousaiditchewie" target="_blank" rel="noopener noreferrer">@yousaiditchewie</a>, and subscribe to my newsletter below for more content about making money as a musician.
+I want to see music teachers succeed. Send a message or a comment on Instagram <a href="https://instagram.com/jacob_on_drums" target="_blank" rel="noopener noreferrer">@jacob_on_drums</a>, and subscribe to my newsletter below for more content about making money as a musician.

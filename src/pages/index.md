@@ -1,10 +1,10 @@
 ---
 templateKey: index-page
 title: >-
-  yousaiditchewie | Jacob Allen — Musician, Software Engineer, Educator from
+  Jacob on Drums | Jacob Allen — Musician, Software Engineer, Educator from
   Nashville, TN
 image: /img/jacob-allen.jpg
-heading: yousaiditchewie
+heading: Jacob on Drums
 subheading: >-
   Hi, my name is Jacob Allen. I’m a musician, software engineer, and author from
   Nashville, TN.

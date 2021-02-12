@@ -35,7 +35,7 @@ const Navigation = () => {
     >
       <div className="Navigation-left">
         <Link to="/" className="Navigation-logo h2">
-          yousaiditchewie
+          Jacob on Drums
         </Link>
       </div>
       <div className="Navigation-right">

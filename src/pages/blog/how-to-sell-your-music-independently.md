@@ -114,7 +114,7 @@ In the days of physical products, there was a lot of thought and intentionality 
 
 Let’s call out all of the musicians, engineers, designers, and creatives that contributed to your album.
 
-> But, Yousaiditchewie, how can we do this? Our music is on Apple Music and Spotify where people don’t care about such things!
+> But, Jacob, how can we do this? Our music is on Apple Music and Spotify where people don’t care about such things!
 
 I’m so glad you asked.
 

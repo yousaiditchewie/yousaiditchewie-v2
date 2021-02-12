@@ -73,4 +73,4 @@ But learn a technical skill like writing code, and there are dozens of resources
 
 ## Why not learn to code?
 
-I’d love to hear what keeps you from learning to write code.  Send me a message or a comment on Instagram [@yousaiditchewie](https://www.instagram.com/yousaiditchewie), and subscribe to my email list to get my newsletter.
+I’d love to hear what keeps you from learning to write code.  Send me a message or a comment on Instagram [@jacob_on_drums](https://www.instagram.com/jacob_on_drums), and subscribe to my email list to get my newsletter.

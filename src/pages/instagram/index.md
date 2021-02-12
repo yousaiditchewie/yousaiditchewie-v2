@@ -1,6 +1,6 @@
 ---
 templateKey: instagram-page
-title: Instagram | @yousaiditchewie
+title: Instagram | @jacob_on_drums
 gallery:
   - image: /img/content-marketing-link-image.jpg
     linkUrl: /blog/how-musicians-can-grow-their-audience-with-content-marketing

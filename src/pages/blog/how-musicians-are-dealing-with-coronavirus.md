@@ -13,7 +13,7 @@ tags:
 ---
 I hope you’re staying healthy and safe during this time of social distancing and quarantining. These times can bring a lot of uncertainty and financial stress for musicians, and that’s not lost on me. 
 
-If you’re struggling to make ends meat, check out my article on [making money while under quarantine](https://www.yousaiditchewie.com/blog/how-musicians-can-make-money-while-quarantined/). 
+If you’re struggling to make ends meat, check out my article on [making money while under quarantine](https://www.jacobondrums.com/blog/how-musicians-can-make-money-while-quarantined/). 
 
 I wanted to take a few minutes to highlight some musicians who are taking proverbial lemons and making lemonade (and selling it). I hope you find hope and inspiration from these people, so that you can stay sharp and inspired while staying inside, so that you can come out of this **ahead** of where you were before it all started. 
 
@@ -43,6 +43,6 @@ I’ll keep you posted on my progress, but if that’s something that interests 
 
 ## I want to hear from you
 
-Reach out on social media with ways You’ve been dealing with the Coronavirus lockdown. Tag me or message me on Twitter or Instagram (@yousaiditchewie).
+Reach out on social media with ways You’ve been dealing with the Coronavirus lockdown. Tag me or message me on Instagram ([@jacob_on_drums](https://instagram.com/jacob_on_drums)).
 
 Stay safe and healthy!
