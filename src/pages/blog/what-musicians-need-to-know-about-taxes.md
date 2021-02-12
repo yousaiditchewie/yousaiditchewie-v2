@@ -36,7 +36,7 @@ Most musicians know to keep a record of expenses throughout the year so that the
 
 For musicians, we often buy big-ticket items like instruments, gear, and electronics that last us years and years before we stop using them (if we ever stop using them). These items typically depreciate in value and may qualify as a tax deduction **for as long as we use them**. So you need to take inventory of the expensive gear you use, keep track of what you payed for them, and know what they’re currently worth.
 
-Here’s an article by TubroTax that’s really helpful when it comes to <a href="https://turbotax.intuit.com/tax-tips/self-employment-taxes/the-musicians-guide-to-taxes-top-tax-deductions/L3dFXFokF" target="_blank" rel="noopener noreferrer">filing taxes as a musician</a>. Just don't get sucked into using their software without first trying the software I mentioned above 👆.
+Here’s an article by TubroTax that’s really helpful when it comes to <a href="https://turbotax.intuit.com/tax-tips/self-employment-taxes/the-musicians-guide-to-taxes-top-tax-deductions/L3dFXFokF" target="_blank" rel="noopener ">filing taxes as a musician</a>. Just don't get sucked into using their software without first trying the software I mentioned above 👆.
 
 Maybe your problem is wanting more money, so you can buy more gear. Check out my article on [music careers that make the most money](/blog/music-careers-that-make-the-most-money/).
 
@@ -48,6 +48,6 @@ Bringing it back to tax software, another benefit is that you can line up all of
 
 ## Musicians affected by the 2020 Nashville Tornado:
 
-You may be wondering how this affects your taxes, so let me break it down for you. You can’t deduct damaged instruments or gear on your taxes _this_ year, but you can when you file your taxes _next_ year. Here's a guide to filing for <a href="https://www.hrblock.com/tax-center/irs/forms/form-4684/" target="_blank" rel="noopener noreferrer">theft and casualty losses</a>.
+You may be wondering how this affects your taxes, so let me break it down for you. You can’t deduct damaged instruments or gear on your taxes _this_ year, but you can when you file your taxes _next_ year. Here's a guide to filing for <a href="https://www.hrblock.com/tax-center/irs/forms/form-4684/" target="_blank" rel="noopener ">theft and casualty losses</a>.
 
-If you found this information helpful, subscribe to my newsletter below, and follow me on <a href="https://www.instagram.com/yousaiditchewie" target="_blank" rel="noopener noreferrer">Instagram</a>.
+If you found this information helpful, subscribe to my newsletter below, and follow me on <a href="https://www.instagram.com/jacob_on_drums" target="_blank" rel="noopener ">Instagram</a>.

@@ -29,7 +29,7 @@ Recording engineers typically work on an hourly or daily rate, so your income as
 
 In most of the recordings I’ve been a part of, there has been little discussion, if any, on what will happen to the recording when it’s finished. In the greater music industry, there are tons of hours spent recording and producing music that will never see the light of day. So engineers, **you need to charge hourly or daily, and where possible, fight to get those royalty checks**.
 
-If you’re an engineer and have experience with receiving royalties, I want to hear from you. Tweet me [@yousaiditchewie](https://twitter.com/yousaiditchewie).
+If you’re an engineer and have experience with receiving royalties, I want to hear from you.
 
 All things considered, a going day rate for an engineer can start around \$150, and the sky is the limit. Please don’t sell yourself short when agreeing to a day rate with a client. In some cases, clients will approach you with a day rate, and there is little room for negotiation. Use your best judgment here to decided if there are other opportunities for career growth in these situations. Other times, clients may ask you your day rate, and here’s where you may be tempted to give a low number to sound appealing. But fight the urge to give a number lower than you’re worth.
 
@@ -60,4 +60,4 @@ The other half of the job is using your _ears_ to determine if the sounds you’
 
 I also recently stumbled upon a resource called <a href="https://www.thesixfigurehomestudio.com/" target="_blank" rel="noopener noreferrer">_The Six Figure Studio_</a>. If sound engineering is your thing, **you need to check them out**. They have social media accounts and a free podcast for practical advice on how to ramp up your revenue in the modern music industry.
 
-I’d love to hear your thoughts. Send me a message or comment on a post at [@yousaiditchewie](https://instagram.com/yousaiditchewie), and if you want updates about more content like this, subscribe to my newsletter below.
+I’d love to hear your thoughts. Send me a message or comment on a post at [@jacob_on_drums](https://instagram.com/jacob_on_drums), and if you want updates about more content like this, subscribe to my newsletter below.

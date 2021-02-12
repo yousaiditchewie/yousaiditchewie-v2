@@ -26,32 +26,23 @@ const Footer = () => {
             title="facebook"
             href="https://facebook.com/JediJake"
             target="_blank"
-            rel="noopener noreferrer"
+            rel="noopener"
           >
             <Facebook />
           </a>
           <a
             className="Footer-item Footer-item--socialIcon"
-            title="twitter"
-            href="https://twitter.com/yousaiditchewie"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <Twitter />
-          </a>
-          <a
-            className="Footer-item Footer-item--socialIcon"
             title="instagram"
-            href="https://instagram.com/yousaiditchewie"
+            href="https://instagram.com/jacob_on_drums"
             target="_blank"
-            rel="noopener noreferrer"
+            rel="noopener"
           >
             <Instagram />
           </a>
         </div>
         <div className="Footer-logo">
           <Link to="/" className="Footer-item">
-            yousaiditchewie
+            Jacob on Drums
           </Link>
           <small>&copy;{currentYear} all rights reserved.</small>
         </div>

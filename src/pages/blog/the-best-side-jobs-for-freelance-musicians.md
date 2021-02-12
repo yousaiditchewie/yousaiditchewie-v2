@@ -10,7 +10,7 @@ featuredimage: /img/img_0175.jpg
 tags:
   - career
 ---
-Before I dig in, I want to make a distinction that these are *side hustle* jobs, not necessarily full-time careers. If you want to explore ways musicians can make money on a full-time career level, check out my article on [music careers that make the most money](https://www.yousaiditchewie.com/blog/music-careers-that-make-the-most-money/).
+Before I dig in, I want to make a distinction that these are *side hustle* jobs, not necessarily full-time careers. If you want to explore ways musicians can make money on a full-time career level, check out my article on [music careers that make the most money](https://www.jacobondrums.com/blog/music-careers-that-make-the-most-money/).
 
 This list will start off with some of the low-hanging fruit, and ramp up to, in my opinion,
 
@@ -95,4 +95,4 @@ Keep in mind, all of these perks are subject to change, and I've been out of the
 
 If you can think long-term about working a side hustle like Apple, you can get to the other side set up for success financially, and learn a lot of great lessons along the way.
 
-If you found this helpful, sign up for my newsletter below and follow me on social media [@yousaiditchewie](https://instagram.com/yousaiditchewie).
+If you found this helpful, sign up for my newsletter below and follow me on social media [@jacob_on_drums](https://instagram.com/jacob_on_drums).

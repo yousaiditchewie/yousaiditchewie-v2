@@ -248,4 +248,4 @@ His latest EP [_So Long Kid_](https://lnk.to/solongkid) is innovative and authen
 
 **If these musicians can do it, you can too!** Make your own music on your terms, grow your audience, and turn them into customers.
 
-I’d love to hear what you think. Tweet me [@yousaiditchewie](https://twitter.com/yousaiditchewie/), and subscribe to my newsletter below for more content like this.
+I’d love to hear what you think. Subscribe to my newsletter below for more content like this.

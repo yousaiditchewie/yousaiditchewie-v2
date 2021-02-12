@@ -142,4 +142,4 @@ If you’ve read my article on [content marketing](/blog/how-musicians-can-grow-
 
 Quality can wait till later. If you want to start making money as a songwriter, focus on **quantity** for now.
 
-I’d love to hear your thoughts on this topic. Tweet me [@yousaiditchewie](https://twitter.com/yousaiditchewie), and sign up for my mailing list below to receive more content like this.
+I’d love to hear your thoughts on this topic. Sign up for my mailing list below to receive more content like this.

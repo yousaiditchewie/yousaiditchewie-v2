@@ -36,7 +36,7 @@ I hate to break it to you, but you’ll need to think outside of the field of mu
 
 ### Dave Ramsey's 4 walls
 
-If you’re truly in crisis, I like what Dave Ramsey has to say. He’s a personal finance guru and has helped millions of people get out of a tight spot. He says, in times of crisis, take care of the <a href="https://www.daveramsey.com/blog/4-things-you-must-budget" target="_blank" rel="noopener noreferrer">four walls</a> of your household, which are **food, utilities, shelter, and transportation**.
+If you’re truly in crisis, I like what Dave Ramsey has to say. He’s a personal finance guru and has helped millions of people get out of a tight spot. He says, in times of crisis, take care of the <a href="https://www.daveramsey.com/blog/4-things-you-must-budget" target="_blank" rel="noopener">four walls</a> of your household, which are **food, utilities, shelter, and transportation**.
 
 If you have these four things, you can live to fight another day.
 
@@ -44,21 +44,21 @@ That takes care of how to prioritize the money you _have_. Let’s talk about wa
 
 ### User Testing
 
-As a software engineer, I’ve been exposed to the world of user testing. User testing is a process that involves observing someone use your software or digital product to learn their behavioral interactions. Sometimes this means going to a place where people are to find a volunteer to use your product, but in the age of the internet (and now social distancing), we no longer need to be in-person to watch someone use what we’ve built. There’s a service called <a href="https://www.usertesting.com/be-a-user-tester" target="_blank" rel="noopener noreferrer">usertesting.com</a> that pays people to test software and digital products. In a similar way that Uber connects drivers to passengers, usertesting.com connects product owners to users. Their pitch is that they pay \$10 for every 20 minutes of testing you complete. All you need is the internet, a relatively modern computer, or a smartphone.
+As a software engineer, I’ve been exposed to the world of user testing. User testing is a process that involves observing someone use your software or digital product to learn their behavioral interactions. Sometimes this means going to a place where people are to find a volunteer to use your product, but in the age of the internet (and now social distancing), we no longer need to be in-person to watch someone use what we’ve built. There’s a service called <a href="https://www.usertesting.com/be-a-user-tester" target="_blank" rel="noopener">usertesting.com</a> that pays people to test software and digital products. In a similar way that Uber connects drivers to passengers, usertesting.com connects product owners to users. Their pitch is that they pay \$10 for every 20 minutes of testing you complete. All you need is the internet, a relatively modern computer, or a smartphone.
 
 ### Upwork
 
-Another way to get some cash flowing while you’re at home is to set up an account with <a href="https://www.upwork.com/freelance-jobs/" target="_blank" rel="noopener noreferrer">Upwork.com</a>. They have plenty of freelance roles for technologists (engineers and testers), but they also have plenty of job openings for audio production, and even more generic roles like customer support.
+Another way to get some cash flowing while you’re at home is to set up an account with <a href="https://www.upwork.com/freelance-jobs/" target="_blank" rel="noopener">Upwork.com</a>. They have plenty of freelance roles for technologists (engineers and testers), but they also have plenty of job openings for audio production, and even more generic roles like customer support.
 
 ### Glassdoor
 
-If you’re looking for full-time work, and if you’re in crisis mode you should be, take a look at Glassdoor’s article on <a href="https://www.glassdoor.com/blog/companies-eager-to-hire-now/" target="_blank" rel="noopener noreferrer">companies hiring in light of COVID-19</a>. They list several tech jobs, but lots of other jobs too. Also, Amazon announced they’re hiring 100,000 roles in the next year for shipping and logistics facilities, which includes locations in Nashville and Austin, two major music cities.
+If you’re looking for full-time work, and if you’re in crisis mode you should be, take a look at Glassdoor’s article on <a href="https://www.glassdoor.com/blog/companies-eager-to-hire-now/" target="_blank" rel="noopener">companies hiring in light of COVID-19</a>. They list several tech jobs, but lots of other jobs too. Also, Amazon announced they’re hiring 100,000 roles in the next year for shipping and logistics facilities, which includes locations in Nashville and Austin, two major music cities.
 
 ### One book to read and one podcast to binge if this sounds like you:
 
-While you’re inside, staying away from people, and stressing over not having enough money, you should check out Dave Ramsey's #1 best seller, <a href="https://www.daveramsey.com/store/product/the-total-money-makeover-book-by-dave-ramsey" target="_blank" rel="noopener noreferrer">_The Total Money Makeover_</a>. If you’re so broke you can afford a book, try checking it out on a library app like <a href="https://www.overdrive.com/" target="_blank" rel="noopener noreferrer">Overdrive</a> or <a href="https://www.hoopladigital.com/" target="_blank" rel="noopener noreferrer">Hoopla</a> (these require a library card).
+While you’re inside, staying away from people, and stressing over not having enough money, you should check out Dave Ramsey's #1 best seller, <a href="https://www.daveramsey.com/store/product/the-total-money-makeover-book-by-dave-ramsey" target="_blank" rel="noopener">_The Total Money Makeover_</a>. If you’re so broke you can afford a book, try checking it out on a library app like <a href="https://www.overdrive.com/" target="_blank" rel="noopener">Overdrive</a> or <a href="https://www.hoopladigital.com/" target="_blank" rel="noopener">Hoopla</a> (these require a library card).
 
-Another resource that’s always 100% free is <a href="https://www.daveramsey.com/show/" target="_blank" rel="noopener noreferrer">_The Dave Ramsey Show Podcast_</a>. You can learn everything he teaches in the book from the podcast, only the book is more direct and very practical. The podcast is a great introduction to his personal finance principles and is a great way to get pumped up about getting your money under control.
+Another resource that’s always 100% free is <a href="https://www.daveramsey.com/show/" target="_blank" rel="noopener">_The Dave Ramsey Show Podcast_</a>. You can learn everything he teaches in the book from the podcast, only the book is more direct and very practical. The podcast is a great introduction to his personal finance principles and is a great way to get pumped up about getting your money under control.
 
 ## I'll be fine for a month or two, but something will have to change beyond that
 
@@ -72,13 +72,13 @@ For more ideas, check out my article on [how to make money as a music teacher](/
 
 ### Remote sessions
 
-More and more musicians are doing remote sessions on their free time, and now that tours and shows have been cancelled or postponed, it’s pretty much a necessity. This is an easy decision and transition if you already have your own space and recording gear, but don’t be intimidated if you don’t have gear already. Recording gear is becoming better and more affordable at the same time. If you are starting from scratch, you’ll most likely need a recording interface, studio monitors, and whatever mics and cables are necessary for your instrument. Check out <a href="https://www.sweetwater.com/store/manufacturer/Focusrite" target="_blank" rel="noopener noreferrer">Sweetwater’s Focusrite bundles</a> for a place to start. In my opinion, anything in Focusrite’s Scarlet series will do the job.
+More and more musicians are doing remote sessions on their free time, and now that tours and shows have been cancelled or postponed, it’s pretty much a necessity. This is an easy decision and transition if you already have your own space and recording gear, but don’t be intimidated if you don’t have gear already. Recording gear is becoming better and more affordable at the same time. If you are starting from scratch, you’ll most likely need a recording interface, studio monitors, and whatever mics and cables are necessary for your instrument. Check out <a href="https://www.sweetwater.com/store/manufacturer/Focusrite" target="_blank" rel="noopener">Sweetwater’s Focusrite bundles</a> for a place to start. In my opinion, anything in Focusrite’s Scarlet series will do the job.
 
 ### Loop and sample libraries
 
 If you already own recording gear or decide to buy a pack like I mentioned above, there's no reason not to sell loop and sample libraries. Just spend some time recording yourself practicing, rehearsing songs, or just goofing off, and chances are, you’ll be making something someone else could use for their recordings or writing session.
 
-As for selling them, you’ll need a website and an ecommerce platform. I’m a huge fan of Shopify, and regularly build ecommerce sites for clients with it. I have an advantage in that I can build my own website from scratch, so I use a combination of <a href="https://www.gatsbyjs.org/" target="_blank" rel="noopener noreferrer">GatsbyJS</a>, <a href="https://www.netlify.com/" target="_blank" rel="noopener noreferrer">Netlify CMS </a>, and <a href="https://gumroad.com/" target="_blank" rel="noopener noreferrer">Gumroad</a> for selling things on my site. I built by site, hosted it, and can sell products, all for FREE because I know how to code (more on that topic in a few paragraphs).
+As for selling them, you’ll need a website and an ecommerce platform. I’m a huge fan of Shopify, and regularly build ecommerce sites for clients with it. I have an advantage in that I can build my own website from scratch, so I use a combination of <a href="https://www.gatsbyjs.org/" target="_blank" rel="noopener">GatsbyJS</a>, <a href="https://www.netlify.com/" target="_blank" rel="noopener">Netlify CMS </a>, and <a href="https://gumroad.com/" target="_blank" rel="noopener">Gumroad</a> for selling things on my site. I built by site, hosted it, and can sell products, all for FREE because I know how to code (more on that topic in a few paragraphs).
 
 ### Online licensing
 
@@ -90,9 +90,9 @@ I give a much more detailed explanation of the mechanics of online licensing in 
 
 If you identify with this category, and feel inspired to standup a home studio and start making money with it, here’s two powerful resources.
 
-First of all, read the book <a href="https://www.amazon.com/Mixing-Your-Mind-Closely-Engineering/dp/0646428756" target="_blank" rel="noopener noreferrer">_Mixing With Your Mind_</a>. If you can handle a \$175 purchase on a book right now, it’s a fundamental read for anyone trying to make money capturing sound and turning it into _music_.
+First of all, read the book <a href="https://www.amazon.com/Mixing-Your-Mind-Closely-Engineering/dp/0646428756" target="_blank" rel="noopener">_Mixing With Your Mind_</a>. If you can handle a \$175 purchase on a book right now, it’s a fundamental read for anyone trying to make money capturing sound and turning it into _music_.
 
-I get it, the price tag is steep, and times are uncertain, so here’s another resource that’s free — <a href="https://www.thesixfigurehomestudio.com/podcast/" target="_blank" rel="noopener noreferrer">_The Six-Figure Studio Podcast_</a>. This free podcast shares a lot of practical knowledge from two experienced home studio owners who not only figured out how to make money with their studios, but are great at sharing their methods to success.
+I get it, the price tag is steep, and times are uncertain, so here’s another resource that’s free — <a href="https://www.thesixfigurehomestudio.com/podcast/" target="_blank" rel="noopener">_The Six-Figure Studio Podcast_</a>. This free podcast shares a lot of practical knowledge from two experienced home studio owners who not only figured out how to make money with their studios, but are great at sharing their methods to success.
 
 ### I’ll make it 3 to 6 months, but I want to make sure I can thrive after that
 
@@ -124,7 +124,7 @@ Let’s go even more out-of-the-box. **Learn to code and build an online busines
 
 Learning to code takes time and experience, but I learned how to do it in 12 weeks. I went to a full-time, immersive coding boot camp and learned all the fundamentals of coding enough to get a job as a software engineer. Looking back, however, I realized I could have easily learned everything I needed to online, and my coding education would have been far less expensive than it was.
 
-There are plenty of coursed on <a href="https://www.udemy.com/" target="_blank" rel="noopener noreferrer">Udemy</a> and <a href="https://teamtreehouse.com/" target="_blank" rel="noopener noreferrer">Team Treehouse</a> if you want to buy a course or two, but there are also some great coding resources that are completely free, like <a href="https://www.codecademy.com/" target="_blank" rel="noopener noreferrer">Codecademy</a> and <a href="https://www.freecodecamp.org/" target="_blank" rel="noopener noreferrer">Free Code Camp</a>.
+There are plenty of coursed on <a href="https://www.udemy.com/" target="_blank" rel="noopener">Udemy</a> and <a href="https://teamtreehouse.com/" target="_blank" rel="noopener">Team Treehouse</a> if you want to buy a course or two, but there are also some great coding resources that are completely free, like <a href="https://www.codecademy.com/" target="_blank" rel="noopener">Codecademy</a> and <a href="https://www.freecodecamp.org/" target="_blank" rel="noopener">Free Code Camp</a>.
 
 The internet is still a wide-open frontier where ideas can become businesses with very little overhead cost, but it is still essential to grow a following, so that when you launch an online business, people **are aware** and ready to purchase.
 
@@ -132,12 +132,12 @@ The internet is still a wide-open frontier where ideas can become businesses wit
 
 If you got bit by the entrepreneur bug and that idea excites you, take a look at these resources.
 
-Read the book <a href="https://nathanbarry.com/authority/" target="_blank" rel="noopener noreferrer">_Authority_ by Nathan Berry</a>. The book acts as a step-by-step guide to writing and self-publishing an ebook. It goes into great detail about how to grow an audience to sell your ebook to as well.
+Read the book <a href="https://nathanbarry.com/authority/" target="_blank" rel="noopener">_Authority_ by Nathan Berry</a>. The book acts as a step-by-step guide to writing and self-publishing an ebook. It goes into great detail about how to grow an audience to sell your ebook to as well.
 
-As far as internet entrepreneurship goes, you can’t beat <a href="https://www.indiehackers.com" target="_blank" rel="noopener noreferrer">_The Indie Hackers Podcast_</a>. Yeah, you may need to learn to code before some of it is applicable, but more and more, digital entrepreneurs are opting for **no-code** solutions using WordPress, Wix, and Shopify.
+As far as internet entrepreneurship goes, you can’t beat <a href="https://www.indiehackers.com" target="_blank" rel="noopener">_The Indie Hackers Podcast_</a>. Yeah, you may need to learn to code before some of it is applicable, but more and more, digital entrepreneurs are opting for **no-code** solutions using WordPress, Wix, and Shopify.
 
 ## Don’t lose hope, and dream **BIG**!
 
 Stay strong, and don’t let social distancing keep you from pressing into **community**. You need other people and other people need you! These hard times will pass, and we’ll make it to the other side. When we get there, have big goals and big dreams for your career. Take these steps to set your career up to take off like a rocket when things get back to normal.
 
-Subscribe to my newsletter below and follow me on <a href="https://instagram.com/yousaiditchewie" target="_blank" rel="noopener noreferrer">Instagram</a>.
+Subscribe to my newsletter below and follow me on <a href="https://instagram.com/jacob_on_drums" target="_blank" rel="noopener">Instagram</a>.

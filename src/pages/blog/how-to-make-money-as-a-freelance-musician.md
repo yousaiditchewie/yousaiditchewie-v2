@@ -111,8 +111,8 @@ Anyway, I wrote an article to show musicians [how to make money teaching music](
 
 ### Start building an online audience
 
-**Building an audience is essential to launching a music career of any kind**. Social media is new enough that we might associate people like <a href="https://www.johnmayer.com/" target="_blank" rel="noopener noreferrer">John Mayer</a> with having an online audience _because_ he’s a famous musician, and that would be a fair assumption. But there are people, like <a href="https://www.youtube.com/user/TylerWardMusic" target="_blank" rel="noopener noreferrer">Tyler Ward</a>, who can become successful musicians by first growing an online following.
+**Building an audience is essential to launching a music career of any kind**. Social media is new enough that we might associate people like <a href="https://www.johnmayer.com/" target="_blank" rel="noopener ">John Mayer</a> with having an online audience _because_ he’s a famous musician, and that would be a fair assumption. But there are people, like <a href="https://www.youtube.com/user/TylerWardMusic" target="_blank" rel="noopener ">Tyler Ward</a>, who can become successful musicians by first growing an online following.
 
 Growing an audience from nothing takes a lot of time and dedication, but anyone can do it. I wrote an article on [how musicians can grow their audience using content marketing](/blog/how-musicians-can-grow-their-audience-with-content-marketing/) to help musicians grow their following and learn how to make money with their creativity.
 
-I’d love to hear from you. If you found this article helpful, drop me a message or a comment on <a href="https://www.instagram.com/yousaiditchewie" target="_blank" rel="noreferrer noopener">Instagram</a>, and subscribe to my newsletter below.
+I’d love to hear from you. If you found this article helpful, drop me a message or a comment on <a href="https://www.instagram.com/jacob_on_drums" target="_blank" rel=" noopener">Instagram</a>, and subscribe to my newsletter below.

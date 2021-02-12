@@ -74,4 +74,4 @@ Jordan is also an amazing recording engineer, completing his triple-threat statu
 
 ## You can do this!
 
-How’s your career journey going? I’d love to hear what’s working and what you’re learning. Follow me [@yousaiditchewie](https://instagram.com/yousaiditchewie) and drop a question or comment. Subscribe to my newsletter below to get more content like this.
+How’s your career journey going? I’d love to hear what’s working and what you’re learning. Follow me [@jacob_on_drums](https://instagram.com/jacob_on_drums) and drop a question or comment. Subscribe to my newsletter below to get more content like this.

@@ -194,6 +194,6 @@ This strategy will not work overnight, but it is a proven plan for growing an on
 
 You _will_ see results over time if you put a plan together and follow through.
 
-I’d love to hear your thoughts on this topic. Tweet me [@yousaiditchewie](https://twitter.com/yousaiditchewie) and let me know if you’re doing this and it’s working, or if you’re struggling to grow an audience. Subscribe to my newsletter below if you want to get more content.
+I’d love to hear your thoughts on this topic. Subscribe to my newsletter below if you want to get more content.
 
 Now get out there and make something amazing.
