@@ -2,7 +2,7 @@ var proxy = require('http-proxy-middleware');
 
 module.exports = {
   siteMetadata: {
-    title: 'Jacob Allen | @yousaiditchewie',
+    title: 'Jacob Allen | @jacob_on_drums',
     description:
       'Musician, software engineer, and educator from Nashville, Tennessee guiding freelance musicians through the ups and downs of the music industry.',
   },
