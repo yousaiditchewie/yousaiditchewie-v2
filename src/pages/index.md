@@ -8,17 +8,25 @@ heading: Jacob on Drums
 subheading: >-
   Hi, my name is Jacob Allen. I’m a musician, software engineer, and author from
   Nashville, TN.
-productHeading: Coding courses for musicians
+productHeading: USDA Certified Organic Loop Packs
 productSubHeading: >-
-  Learning to code has added a layer of stability to my music career. There's
-  always coding work to be found, and it's a great way to supplement your income
-  as a freelance musician. Here are some tutorials to get you started in the
-  right direction.
+  Over the years, I've compiled a library of random sounds I've captured,
+  warped, twisted, and looped.  Include them royalty-free in your music.  Click
+  the links to preview and buy.
 productCtaText: Preview and Buy
 productList:
   - description: 'Includes the Freaky Deaky, Flip Flop, and Lava Boots loop packs.'
     id: hkAby
     name: Nasty Pack 1
+  - description: Spooky sounds from the dark side
+    id: zTXXB
+    name: Freaky Deaky
+  - description: 'Bright, cheery rhythms to pep you up'
+    id: tqptp
+    name: Flip Flop
+  - description: Forged from earth and fire
+    id: HqUcV
+    name: Lava Boots
 ---
 
 ## Long story short
