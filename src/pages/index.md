@@ -16,18 +16,9 @@ productSubHeading: >-
   right direction.
 productCtaText: Preview and Buy
 productList:
-  - description: >-
-      This is the source code for my Youtube series, Rock N Roll, Paper Scissors
-      — How to Build an App with SwiftUI, plus my Swift for Beginners micro
-      course and my Git for Beginners micro course.
-    id: vNyvA
-    name: The Swift Developer's Starter Pack
-  - description: >-
-      This is the source code for my Youtube series, Rock N Roll, Paper Scissors
-      — How to Build an App with SwiftUI. Included is code-along source code,
-      plus all of the videos from the series.
-    id: sKtzZ
-    name: Build Your First SwiftUI App
+  - description: 'Includes the Freaky Deaky, Flip Flop, and Lava Boots loop packs.'
+    id: hkAby
+    name: Nasty Pack 1
 ---
 
 ## Long story short
