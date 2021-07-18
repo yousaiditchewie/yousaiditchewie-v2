@@ -15,18 +15,9 @@ productSubHeading: >-
   the links to preview and buy.
 productCtaText: Preview and Buy
 productList:
-  - description: 'Includes the Freaky Deaky, Flip Flop, and Lava Boots loop packs.'
-    id: hkAby
-    name: Nasty Pack 1
-  - description: Spooky sounds from the dark side
-    id: zTXXB
-    name: Freaky Deaky
-  - description: 'Bright, cheery rhythms to pep you up'
-    id: tqptp
-    name: Flip Flop
-  - description: Forged from earth and fire
-    id: HqUcV
-    name: Lava Boots
+  - description: This is cool.
+    id: jqFJX
+    name: Raining
 ---
 
 ## Long story short
