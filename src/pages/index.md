@@ -15,7 +15,10 @@ productSubHeading: >-
   the links to preview and buy.
 productCtaText: Preview and Buy
 productList:
-  - description: This is cool.
+  - description: >-
+      Inspired by the sounds and groove of "Dreams" by Fleetwood Mac. This
+      complete Logic Pro X session includes over 4 minutes of beats and fills to
+      chop up, sample, and loop to your liking.
     id: jqFJX
     name: Raining
 ---
